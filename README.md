@@ -8,15 +8,27 @@ Get a recording of a random work by Bach on every startup.
 
 `git clone https://github.com/ofefo/WelcomeBach.git`
 
+
 2. While in the repository folder, run:
 
 `pip install -r requirements.txt`
 
-3. Modify *mystartupscript.conf*, inserting the path to bach.py:
 
-*In line 4:*
-`exec ~/path/to/bach.py`
+3. Edit the **.bashrc** file in */home/etc/* inserting the correct path to **bach.py** at the end of the file:
 
-4. Then copy it to **/etc/init/** to be able to run the program in startup:
+`sudo python ~/path/to/bach.py`
 
-`sudo cp mystartupscript.conf /etc/init/`
+
+4. Create a **gnome-terminal.desktop** file inside *~/.config/autostart* with the following:
+
+`[Desktop Entry]
+Type=Application
+Exec=gnome-terminal
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_NG]=Terminal
+Name=Terminal
+Comment[en_NG]=Start Terminal On Startup
+Comment=Start Terminal On Startup
+`
