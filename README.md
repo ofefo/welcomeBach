@@ -14,7 +14,7 @@ Get a recording of a random work by Bach on every startup.
 
 3. Modify *mystartupscript.conf*, inserting the path to bach.py:
 
-*At line 4:*
+*In line 4:*
 `exec ~/path/to/bach.py`
 
 4. Then copy it to **/etc/init/** to be able to run the program in startup:
