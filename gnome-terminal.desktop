@@ -1,6 +1,6 @@
 [Desktop Entry] 
 Type=Application 
-Exec=gnome-terminal -- bash -c "cd path/to/WelcomeBach && python3 bach.py; exec bash" 
+Exec=gnome-terminal -- bash -c "cd path/to/WelcomeBach && python3 bach.py; cd; exec bash" 
 Hidden=false 
 NoDisplay=false
 X-GNOME-Autostart-enabled=true 
