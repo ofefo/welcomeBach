@@ -16,7 +16,7 @@ Receive a list of different recordings for a random work by Bach on every startu
 3. Edit **gnome-terminal.desktop**, replacing the path to bach.py:
 
 *In line 3:*
-`Exec=gnome-terminal -- bash -c "cd path/to/WelcomeBach && python3 bach.py; cd; exec bash"`
+`Exec=gnome-terminal -- bash -c "cd path/to/welcomeBach && python3 bach.py; cd; exec bash"`
 
 
 4. Move **gnome-terminal.desktop** to *~/.config/autostart/* with the following:
