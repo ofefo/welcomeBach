@@ -1,6 +1,6 @@
 # Welcome Bach
 
-Receive a list of recordings of a random work by Bach on every startup.
+Receive a list of different recordings for a random work by Bach on every startup.
 
 ## Instalation
 
