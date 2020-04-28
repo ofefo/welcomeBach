@@ -1,10 +1,10 @@
-[Desktop Entry]
-Type=Application
-Exec=gnome-terminal -- bash -c 'cd $HOME/Documents/git/WelcomeBach && python3 bach.py'
-Hidden=false
+[Desktop Entry] 
+Type=Application 
+Exec=gnome-terminal -- bash -c "cd path/to/WelcomeBach && python3 bach.py; exec bash" 
+Hidden=false 
 NoDisplay=false
-X-GNOME-Autostart-enabled=true
-Name[en_NG]=Terminal
-Name=Terminal
-Comment[en_NG]=Welcome Bach
-Comment=Welcome Bach
+X-GNOME-Autostart-enabled=true 
+Name[en_NG]=Terminal 
+Name=Terminal 
+Comment[en_NG]=Start Terminal On Startup 
+Comment=Start Terminal On Startup
