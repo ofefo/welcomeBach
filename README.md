@@ -6,7 +6,7 @@ Receive a list of different recordings for a random work by Bach on every startu
 
 1. Clone the repository:
 
-`git clone https://github.com/ofefo/WelcomeBach.git`
+`git clone https://github.com/ofefo/welcomeBach.git`
 
 
 2. While in the repository folder, install the requirements with:
