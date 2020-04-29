@@ -22,3 +22,5 @@ Receive a list of different recordings for a random work by Bach on every startu
 4. Move **gnome-terminal.desktop** to *~/.config/autostart/* with the following:
 
 `sudo cp gnome-terminal.desktop ~/.config/autostart/`
+
+Currently onyl working in Ubuntu 18.04 with GNOME.
