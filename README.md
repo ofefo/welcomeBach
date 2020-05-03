@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 `sudo cp gnome-terminal.desktop ~/.config/autostart/`
 
 
-Currently only working in Ubuntu 18.04 with GNOME.
+Currently only working in Ubuntu 18.04 with GNOME.\
 Inspired by [welcomeKoans].
 
 [welcomeKoans]: https://github.com/a-moreira/welcomeKoans
