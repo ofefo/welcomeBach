@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 with open('bwv.txt') as f:
 	bwv = f.readlines()
 
-n = random.randint(1, 1127)
+n = random.randint(1, 1129)
 
 print("Today's Bach is: \n ", bwv[n])
 
