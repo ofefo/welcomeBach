@@ -35,7 +35,6 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 
 
 Currently only working in Ubuntu 18.04 with GNOME.
-
 Inspired by [welcomeKoans].
 
 [welcomeKoans]: https://github.com/a-moreira/welcomeKoans
