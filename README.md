@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 
 Make sure you have the */autostart* folder! If you don't, create it before step 4 with:
 
-`cd ~/.config && mkdir autostart'
+`cd ~/.config && mkdir autostart`
 
 
 Currently only working in Ubuntu 18.04 with GNOME.\
