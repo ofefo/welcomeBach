@@ -1,4 +1,4 @@
-# Welcome Bach
+# welcomeBach
 
 Receive a list of different recordings for a random work by Bach on every startup.
 
