@@ -2,7 +2,7 @@
 
 Receive a list of different recordings for a random work by Bach on every startup.
 
-## Installation
+### Installation
 
 1. Clone the repository:
 
