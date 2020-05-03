@@ -1,6 +1,16 @@
 # welcomeBach
 
-Receive a list of different recordings for a random work by Bach on every startup.
+Receive a list of different recordings for a random work by Bach as YouTube links on every startup.
+
+```
+Today's Bach is: 
+  BWV 1079 – Musikalisches Opfer (The Musical Offering)
+
+https://www.youtube.com/watch?v=rN2p3NgqWos
+https://www.youtube.com/watch?v=23yNGer9Wqs
+https://www.youtube.com/watch?v=AzT_elDRLJM
+```
+
 
 ### Installation
 
