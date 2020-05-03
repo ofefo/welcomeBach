@@ -26,4 +26,6 @@ Receive a list of different recordings for a random work by Bach on every startu
 
 Currently only working in Ubuntu 18.04 with GNOME.
 
-Inspired by [welcomeKoans] (https://github.com/a-moreira/welcomeKoans).
+Inspired by [welcomeKoans].
+
+[welcomeKoans]: https://github.com/a-moreira/welcomeKoans

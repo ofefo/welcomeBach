@@ -64,7 +64,8 @@ BWV 62 – Nun komm, der Heiden Heiland (cantata)
 BWV 63 – Christen, ätzet diesen Tag (cantata)
 BWV 64 – Sehet, welch eine Liebe hat uns der Vater erzeiget (cantata)
 BWV 65 – Sie werden aus Saba alle kommen (cantata)
-BWV 66:\nBWV 66.1 (previously 66a) – Der Himmel dacht auf Anhalts Ruhm und Glück (secular cantata)\nBWV 66.2 (previously 66) – Erfreut euch, ihr Herzen (cantata)
+BWV 66 – Der Himmel dacht auf Anhalts Ruhm und Glück (secular cantata)
+BWV 66.2 (previously 66) – Erfreut euch, ihr Herzen (cantata)
 BWV 67 – Halt im Gedächtnis Jesum Christ (cantata)
 BWV 68 – Also hat Gott die Welt geliebt (cantata)
 BWV 69 – Lobe den Herrn, meine Seele (cantata)
@@ -78,7 +79,8 @@ BWV 76 – Die Himmel erzählen die Ehre Gottes (cantata)
 BWV 77 – Du sollt Gott, deinen Herren, lieben (cantata)
 BWV 78 – Jesu, der du meine Seele (cantata)
 BWV 79 – Gott der Herr ist Sonn und Schild (cantata)
-BWV 80:\nBWV 80.1 (previously 80a) – Alles, was von Gott geboren (cantata), Weimar version\nBWV 80.2 (previously 80b) – Ein feste Burg ist unser Gott (cantata), first Leipzig version
+BWV 80 – Alles, was von Gott geboren (cantata)
+BWV 80.2 – Ein feste Burg ist unser Gott (cantata)
 BWV 82 – Ich habe genug (cantata)
 BWV 83 – Erfreute Zeit im neuen Bunde (cantata)
 BWV 84 – Ich bin vergnügt mit meinem Glücke (cantata)
@@ -196,7 +198,7 @@ BWV 195 – Dem Gerechten muß das Licht (cantata)
 BWV 197 – Ehre sei Gott in der Höhe (cantata)
 BWV 198 – Laß, Fürstin, laß noch einen Strahl a.k.a. Mourning Ode (secular cantata)
 BWV 199 – Mein Herze schwimmt im Blut (cantata)
-BWV 200 – "Bekennen will ich seinen Namen" (aria after a composition by Gottfried Heinrich Stölzel)
+BWV 200 – "Bekennen will ich seinen Namen" (aria after Gottfried Heinrich Stölzel)
 BWV 201 – Geschwinde, ihr wirbelnden Winde a.k.a. The Dispute between Phoebus and Pan (secular cantata)
 BWV 202 – Weichet nur, betrübte Schatten (secular cantata)
 BWV 203 – Amore traditore (secular cantata)
@@ -226,7 +228,6 @@ BWV 227 – Jesu, meine Freude (motet)
 BWV 228 – Fürchte dich nicht (motet)
 BWV 229 – Komm, Jesu, komm (motet)
 BWV 230 – Lobet den Herrn, alle Heiden (motet)
-BWV 231 (renumbered to BWV 28/2a)
 BWV 232 – Mass in B minor (church music in Latin)
 BWV 233 – Kyrie–Gloria Mass in F major (church music in Latin)
 BWV 234 – Kyrie–Gloria Mass in A major (church music in Latin)
@@ -436,7 +437,7 @@ BWV 437 – "Wir glauben all an einen Gott" (four-part chorale)
 BWV 438 – "Wo Gott zum Haus nicht gibt sein Gunst" (four-part chorale)
 BWV 439 – "Ach, dass nicht die letzte Stunde"  (song/aria)
 BWV 440 – "Auf, auf! die rechte Zeit ist hier"  (song/aria)
-BWV 441 – "Auf! auf! mein Herz, mit Freuden" [commons]  (song/aria)
+BWV 441 – "Auf! auf! mein Herz, mit Freuden"    (song/aria)
 BWV 442 – "Beglückter Stand getreuer Seelen"  (song/aria)
 BWV 443 – "Beschränkt, ihr Weisen dieser Welt"  (song/aria)
 BWV 444 – "Brich entzwei, mein armes Herze"  (song/aria)
@@ -505,11 +506,11 @@ BWV 506 – "Was bist du doch, o Seele, so betrübet"  (song/aria)
 BWV 507 – "Wo ist mein Schäflein, das ich liebe"  (song/aria)
 BWV 508 – "Bist du bei mir" (arrangement of an aria by Gottfried Heinrich Stölzel) 
 BWV 509 – "Gedenke doch, mein Geist" (aria) 
-BWV 510 – "Gib dich zufrieden" (chorale) 
-BWV 511 – "Gib dich zufrieden" (chorale) 
-BWV 512 – "Gib dich zufrieden" (chorale) 
-BWV 513 – "O Ewigkeit, du Donnerwort" (chorale) 
-BWV 514 – "Schaffs mit mir, Gott" (chorale) 
+BWV 510 – "Gib dich zufrieden" (chorale prelude) 
+BWV 511 – "Gib dich zufrieden" (chorale prelude) 
+BWV 512 – "Gib dich zufrieden" (chorale prelude) 
+BWV 513 – "O Ewigkeit, du Donnerwort" (chorale prelude) 
+BWV 514 – "Schaffs mit mir, Gott" (chorale prelude) 
 BWV 515 – "So oft ich meine Tobackspfeife" (aria)
 BWV 516 – "Warum betrübst du dich" (aria) 
 BWV 517 – "Wie wohl ist mir, o Freund der Seelen" (song/aria) 
@@ -557,7 +558,7 @@ BWV 558 – Eight Short Preludes and Fugues No. 6: Prelude and Fugue in G minor
 BWV 559 – Eight Short Preludes and Fugues No. 7: Prelude and Fugue in A minor 
 BWV 560 – Eight Short Preludes and Fugues No. 8: Prelude and Fugue in B-flat major 
 BWV 561 – Fantasia and Fugue in A minor 
-BWV 562 – Fantasia and Fugue in C minor (fugue unfinished)
+BWV 562 – Fantasia and Fugue in C minor 
 BWV 563 – Fantasia (and Imitatio) in B minor
 BWV 564 – Toccata, Adagio and Fugue in C major
 BWV 565 – Toccata and Fugue in D minor
@@ -568,7 +569,7 @@ BWV 569 – Prelude in A minor
 BWV 570 – Fantasia in C major
 BWV 571 – Fantasia (Concerto) in G major 
 BWV 572 – Fantasia in G major (Pièce d'Orgue)
-BWV 573 – Fantasia in C major (incomplete) 
+BWV 573 – Fantasia in C major  ) 
 BWV 574 – Fugue in C minor (on a theme of Legrenzi)
 BWV 575 – Fugue in C minor
 BWV 576 – Fugue in G major 
@@ -587,16 +588,17 @@ BWV 588 – Canzona in D minor
 BWV 589 – Alla breve in D major
 BWV 590 – Pastorella in F major (first movement probably incomplete)
 BWV 591 – Little Harmonic Labyrinth (possibly by Johann David Heinichen)
-BWV 592 – Concerto in G major, after a Violin Concerto in G major by Prince Johann Ernst of Saxe-Weimar\nBWV 592a – Concerto in G major (an arrangement of BWV 592 for harpsichord)
+BWV 592 – Concerto in G major, after a Violin Concerto in G major by Prince Johann Ernst of Saxe-Weimar
+BWV 592a – Concerto in G major (an arrangement of BWV 592 for harpsichord)
 BWV 593 – Concerto in A minor, after Antonio Vivaldi's Concerto in A minor for two violins and strings, Op. 3 No. 8 (RV 522)
 BWV 594 – Concerto in C major, after Antonio Vivaldi's Grosso Mogul Violin Concerto in D major, RV 208
 BWV 595 – Concerto in C major (arrangement for organ of the first movement of BWV 984)
 BWV 596 – Concerto in D minor, after Antonio Vivaldi's Concerto in D minor for two violins, cello and strings, Op. 3 No. 11 (RV 565)
-BWV 597 – Concerto in E-flat major (after unknown model?) 
+BWV 597 – Concerto in E-flat major
 BWV 598 – Pedal Exercise in G minor  (fragment, presumably by Carl Philipp Emanuel Bach)
 BWV 599 – Nun komm, der Heiden Heiland (chorale prelude No. 1 from Orgelbüchlein)
 BWV 600 – Gott, durch deine Güte (or) Gottes Sohn ist kommen (chorale prelude No. 2 from Orgelbüchlein)
-BWV 601 – Herr Christ, der einge Gottessohn (or) Herr Gott, nun sei gepreiset (chorale prelude No. 3 from Orgelbüchlein; also in the Neumeister Collection)
+BWV 601 – Herr Christ, der einge Gottessohn (or) Herr Gott, nun sei gepreiset (chorale prelude No. 3 from Orgelbüchlein)
 BWV 602 – Lob sei dem allmächtigen Gott (chorale prelude No. 4 from Orgelbüchlein)
 BWV 603 – Puer natus in Bethlehem (chorale prelude No. 5 from Orgelbüchlein)
 BWV 604 – Gelobet seist du, Jesu Christ (chorale prelude No. 6 from Orgelbüchlein)
@@ -685,30 +687,30 @@ BWV 686 – Aus tiefer Not schrei ich zu dir (chorale prelude: large version)
 BWV 687 – Aus tiefer Not schrei ich zu dir (chorale prelude: small version) 
 BWV 688 – Jesus Christus, unser Heiland, der von uns den Zorn Gottes wandt (chorale prelude: large version) 
 BWV 689 – Fuga super "Jesus Christus, unser Heiland" (chorale prelude: small version) 
-BWV 690 – Wer nur den lieben Gott läßt walten (chorale prelude from the Kirnberger collection)
-BWV 691 – Wer nur den lieben Gott läßt walten (chorale prelude from the Kirnberger collection)  
+BWV 690 – Wer nur den lieben Gott läßt walten (chorale prelude)
+BWV 691 – Wer nur den lieben Gott läßt walten (chorale prelude)  
 BWV 692 – Ach, Gott und Herr  (chorale prelude from the Kirnberger collection; composed by Johann Gottfried Walther)
 BWV 693 – Ach, Gott und Herr  (chorale prelude from the Kirnberger collection; composed by Johann Gottfried Walther)
-BWV 694 – Wo soll ich fliehen hin (chorale prelude from the Kirnberger collection)
-BWV 695 – Fantasia super "Christ lag in Todesbanden" (chorale prelude from the Kirnberger collection)
-BWV 696 – Fughetta super "Christum wir sollen loben schon" (chorale prelude from the Kirnberger collection)
-BWV 697 – Fughetta super "Gelobet seist du, Jesu Christ" (chorale prelude from the Kirnberger collection)
-BWV 698 – Fughetta super "Herr Christ, der ein'ge Gottes-Sohn" (chorale prelude from the Kirnberger collection)
-BWV 699 – Fughetta super "Nun komm, der Heiden Heiland" (chorale prelude from the Kirnberger collection)
-BWV 700 – Vom Himmel hoch, da komm' ich her (chorale prelude from the Kirnberger collection)
-BWV 701 – Fughetta super "Vom Himmel hoch, da komm' ich her" (chorale prelude from the Kirnberger collection)
+BWV 694 – Wo soll ich fliehen hin (chorale prelude)
+BWV 695 – Fantasia super "Christ lag in Todesbanden" (chorale prelude)
+BWV 696 – Fughetta super "Christum wir sollen loben schon" (chorale prelude)
+BWV 697 – Fughetta super "Gelobet seist du, Jesu Christ" (chorale prelude)
+BWV 698 – Fughetta super "Herr Christ, der ein'ge Gottes-Sohn" (chorale prelude)
+BWV 699 – Fughetta super "Nun komm, der Heiden Heiland" (chorale prelude)
+BWV 700 – Vom Himmel hoch, da komm' ich her (chorale prelude)
+BWV 701 – Fughetta super "Vom Himmel hoch, da komm' ich her" (chorale prelude)
 BWV 702 – Fughetta super "Das Jesulein soll doch mein Trost" (chorale prelude from the Kirnberger collection; possibly by Johann Ludwig Krebs)
-BWV 703 – Fughetta super "Gottes-Sohn ist kommen" (chorale prelude from the Kirnberger collection)
-BWV 704 – Fughetta super "Lob sei dem allmächtigen Gott" (chorale prelude from the Kirnberger collection)
-BWV 705 – Durch Adams Fall ist ganz verderbt (chorale prelude from the Kirnberger collection)
+BWV 703 – Fughetta super "Gottes-Sohn ist kommen" (chorale prelude)
+BWV 704 – Fughetta super "Lob sei dem allmächtigen Gott" (chorale prelude)
+BWV 705 – Durch Adams Fall ist ganz verderbt (chorale prelude)
 BWV 706 – Liebster Jesu, wir sind hier (two versions; chorale prelude from the Kirnberger collection)
 BWV 707 – Ich hab' mein' Sach' Gott heimgestellt (chorale prelude from the Kirnberger collection; doubtful)
 BWV 708 – Ich hab' mein' Sach' Gott heimgestellt alio modo (chorale prelude from the Kirnberger collection; doubtful)\nBWV 708a – Ich hab' mein' Sach' Gott heimgestellt (variant of BWV 708; doubtful)
-BWV 709 – Herr Jesu Christ, dich zu uns wend' (chorale prelude from the Kirnberger collection)
-BWV 710 – Wir Christenleut' (chorale prelude from the Kirnberger collection)
+BWV 709 – Herr Jesu Christ, dich zu uns wend' (chorale prelude)
+BWV 710 – Wir Christenleut' (chorale prelude)
 BWV 711 – Allein Gott in der Höh' sei Ehr' (bicinium; chorale prelude from the Kirnberger collection)
-BWV 712 – In dich hab' ich gehoffet [File] (chorale prelude from the Kirnberger collection)
-BWV 713 – Fantasia super "Jesu, meine Freude" (chorale prelude from the Kirnberger collection)
+BWV 712 – In dich hab' ich gehoffet   (chorale prelude)
+BWV 713 – Fantasia super "Jesu, meine Freude" (chorale prelude)
 BWV 714 – Ach Gott und Herr (chorale prelude; also in the Neumeister Collection)
 BWV 715 – Allein Gott in der Höh sei Ehr (chorale prelude)
 BWV 716 – Fuga super "Allein Gott in der Höh sei Ehr" (chorale prelude)
@@ -717,25 +719,25 @@ BWV 718 – Christ lag in Todesbanden (chorale prelude)
 BWV 719 – Der Tag, der ist so freudenreich (chorale prelude; also in the Neumeister Collection)
 BWV 720 – Ein feste Burg ist unser Gott (chorale prelude)
 BWV 721 – Erbarm dich mein, o Herre Gott (chorale prelude)
-BWV 722 – Gelobet seist du, Jesu Christ (chorale prelude)\nBWV 722a – Gelobet seist du, Jesu Christ (sketch; variant of BWV 722)
+BWV 722 – Gelobet seist du, Jesu Christ (chorale prelude)
 BWV 723 – Gelobet seist du, Jesu Christ (chorale prelude)
 BWV 724 – Gott, durch deine Güte (or) Gottes Sohn ist kommen (chorale prelude)
 BWV 725 – Herr Gott, dich loben wir (chorale prelude)
 BWV 726 – Herr Jesu Christ, dich zu uns wend (chorale prelude)
 BWV 727 – Herzlich tut mich verlangen (chorale prelude)
 BWV 728 – Jesus, meine Zuversicht (chorale prelude) 
-BWV 729 – In dulci jubilo (chorale prelude)\nBWV 729a – In dulci jubilo (sketch; variant of BWV 729)
+BWV 729 – In dulci jubilo (chorale prelude)
 BWV 730 – Liebster Jesu, wir sind hier (chorale prelude)
 BWV 731 – Liebster Jesu, wir sind hier (chorale prelude)
 BWV 732 – Lobt Gott, ihr Christen, allzugleich (chorale prelude)
-BWV 733 – Fuga sopra il Magnificat [scores] (chorale prelude; possibly composed by Johann Ludwig Krebs)
+BWV 733 – Fuga sopra il Magnificat   (chorale prelude)
 BWV 734 – Nun freut euch, lieben Christen (or) Es ist gewisslich an der Zeit (chorale prelude)
 BWV 735 – Valet will ich dir geben (chorale prelude)
 BWV 736 – Valet will ich dir geben (chorale prelude)
 BWV 737 – Vater unser im Himmelreich (chorale prelude; also in the Neumeister Collection)
 BWV 738 – Von Himmel hoch, da komm' ich her (chorale prelude)
 BWV 739 – Wie schön leuchtet der Morgenstern (chorale prelude)
-BWV 740 – Wir glauben all' an einen Gott, Vater (chorale prelude; possibly composed by Johann Ludwig Krebs)
+BWV 740 – Wir glauben all' an einen Gott, Vater (chorale prelude)
 BWV 741 – Ach Gott, von Himmel sieh' darein (chorale prelude)
 BWV 742 – Ach Herr, mich armen Sünder (chorale prelude; also in the Neumeister Collection)
 BWV 743 – Ach, was ist doch unser Leben (chorale prelude)
@@ -759,7 +761,7 @@ BWV 760 – Vater unser im Himmelreich (chorale prelude by Georg Böhm)
 BWV 761 – Vater unser im Himmelreich (chorale prelude by Georg Böhm) 
 BWV 762 – Vater unser im Himmelreich (chorale prelude)
 BWV 763 – Wie schön leuchtet der Morgenstern (chorale prelude)
-BWV 764 – Wie schön leuchtet der Morgenstern (chorale prelude; fragment)
+BWV 764 – Wie schön leuchtet der Morgenstern (chorale prelude)
 BWV 765 – Wir glauben all' an einen Gott (chorale prelude)
 BWV 766 – Christ, der du bist der helle Tag (chorale partita)
 BWV 767 – O Gott, du frommer Gott (chorale partita)
@@ -832,7 +834,7 @@ BWV 833 – Prelude and Partita in F major
 BWV 834 – Allemande in C minor 
 BWV 835 – Allemande in A minor 
 BWV 836 – Allemande in G minor 
-BWV 837 – Allemande in G minor (incomplete) 
+BWV 837 – Allemande in G minor  ) 
 BWV 838 – Allemande and Courante in A major 
 BWV 839 – Sarabande in G minor 
 BWV 840 – Courante in G major (2nd movement of Georg Philipp Telemann's Ouverture in G major, TWV 32:13) 
@@ -897,11 +899,13 @@ BWV 898 – Prelude and Fugue in B-flat major on the name B-A-C-H
 BWV 899 – Prelude and Fughetta in D minor
 BWV 900 – Prelude and Fughetta in E minor
 BWV 901 – Prelude and Fughetta in F major
-BWV 902 – Prelude and Fughetta in G major\nBWV 902a – Prelude in G major (alternative version of BWV 902)
-BWV 903 – Chromatic Fantasia and Fugue in D minor\nBWV 903a – Chromatic Fantasia in D minor (alternative version of BWV 903)
+BWV 902 – Prelude and Fughetta in G major
+BWV 902a – Prelude in G major (alternative version of BWV 902)
+BWV 903 – Chromatic Fantasia and Fugue in D minor
+BWV 903a – Chromatic Fantasia in D minor (alternative version of BWV 903)
 BWV 904 – Fantasia and Fugue in A minor
 BWV 905 – Fantasia and Fugue in D minor 
-BWV 906 – Fantasia and Fugue in C minor (fugue unfinished)
+BWV 906 – Fantasia and Fugue in C minor 
 BWV 907 – Fantasia and Fughetta in B-flat major 
 BWV 908 – Fantasia and Fughetta in D major 
 BWV 909 – Concerto and Fugue in C minor 
@@ -918,7 +922,8 @@ BWV 919 – Fantasia in C minor
 BWV 920 – Fantasia in G minor 
 BWV 921 – Prelude in C minor
 BWV 922 – Prelude in A minor
-BWV 923 – Prelude in B minor (possibly by Wilhelm Hieronymus Pachelbel)\nBWV 923a – Prelude in A minor (variant of BWV 923) 
+BWV 923 – Prelude in B minor (possibly by Wilhelm Hieronymus Pachelbel)
+BWV 923a – Prelude in A minor (variant of BWV 923) 
 BWV 924 – Prelude in C major
 BWV 925 – Prelude in D major 
 BWV 926 – Prelude in D minor 
@@ -927,7 +932,7 @@ BWV 928 – Prelude in F major
 BWV 929 – Trio (or) Prelude in G minor 
 BWV 930 – Prelude in G minor 
 BWV 931 – Prelude in A minor 
-BWV 932 – Prelude in E minor (incomplete) 
+BWV 932 – Prelude in E minor  ) 
 BWV 933 – Six Little Preludes No. 1 in C major
 BWV 934 – Six Little Preludes No. 2 in C minor
 BWV 935 – Six Little Preludes No. 3 in D minor
@@ -946,7 +951,8 @@ BWV 947 – Fugue in A minor
 BWV 948 – Fugue in D minor
 BWV 949 – Fugue in A major
 BWV 950 – Fugue in A major on a theme by Tomaso Albinoni
-BWV 951 – Fugue in B minor on a theme by Tomaso Albinoni\nBWV 951a – Fugue in B minor (alternative version of BWV 951)
+BWV 951 – Fugue in B minor on a theme by Tomaso Albinoni
+BWV 951a – Fugue in B minor (alternative version of BWV 951)
 BWV 952 – Fugue in C major
 BWV 953 – Fugue in C major 
 BWV 954 – Fugue in B-flat major on a theme by Johann Adam Reincken
@@ -959,43 +965,43 @@ BWV 960 – Fugue in E minor
 BWV 961 – Fughetta in C minor
 BWV 962 – Fughetta in E minor (by Johann Georg Albrechtsberger) 
 BWV 963 – Sonata in D major
-BWV 964 – Sonata in D minor (arrangement of Sonata No. 2 for solo violin, BWV 1003) 
-BWV 965 – Sonata in A minor (after Johann Adam Reincken's Hortus Musicus, Nos. 1–5)
-BWV 966 – Sonata in C major (after Johann Adam Reincken's Hortus Musicus, Nos. 11–15)
-BWV 967 – Sonata in A minor (one movement only, arrangement of a chamber sonata by unknown composer)
-BWV 968 – Adagio in G major (after movement 1 of Sonata No. 3 for solo violin, BWV 1005) 
+BWV 964 – Sonata in D minor (arrangement of BWV 1003)
+BWV 965 – Sonata in A minor
+BWV 966 – Sonata in C major
+BWV 967 – Sonata in A minor 
+BWV 968 – Adagio in G major (after movement 1 of BWV 1005) 
 BWV 969 – Andante in G minor 
 BWV 970 – Presto in D minor (by Wilhelm Friedemann Bach) 
 BWV 971 – Italian Concerto, in F major
-BWV 972 – Concerto in D major, after Antonio Vivaldi's Violin Concerto in D major, Op. 3 No. 9 (RV 230)
-BWV 973 – Concerto in G major, after Antonio Vivaldi's Violin Concerto in G major, Op. 7 No. 8 (RV 299)
+BWV 972 – Concerto in D major, after Vivaldi (RV 230)
+BWV 973 – Concerto in G major, after Vivaldi (RV 299)
 BWV 974 – Concerto in D minor, after Alessandro Marcello's Oboe Concerto in D minor
-BWV 975 – Concerto in G minor, after Antonio Vivaldi's Violin Concerto in G minor, RV 316, a variant of which was published as his Op. 4 No. 6 (RV 316a)
-BWV 976 – Concerto in C major, after Antonio Vivaldi's Violin Concerto in E major, Op. 3 No. 12 (RV 265)
+BWV 975 – Concerto in G minor, after Vivaldi (RV 316)
+BWV 976 – Concerto in C major, after Vivaldi (RV 265)
 BWV 977 – Concerto in C major, after an unknown model
-BWV 978 – Concerto in F major, after Antonio Vivaldi's Violin Concerto in G major, Op. 3 No. 3 (RV 310)
-BWV 979 – Concerto in B minor, after Antonio Vivaldi's Violin Concerto in D minor, RV 813 (formerly RV Anh. 10) 
-BWV 980 – Concerto in G major, after Antonio Vivaldi's Violin Concerto in B-flat major, Op. 4 No. 1 (RV 383a)
-BWV 981 – Concerto in C minor, after Benedetto Marcello's Concerto Op. 1 No. 2
-BWV 982 – Concerto in B-flat major, after Prince Johann Ernst of Saxe-Weimar's Concerto Op. 1 No. 1
+BWV 978 – Concerto in F major, after Vivaldi's (RV 310)
+BWV 979 – Concerto in B minor, after Vivaldi's (RV 813) 
+BWV 980 – Concerto in G major, after Vivaldi's (RV 383a)
+BWV 981 – Concerto in C minor, after Benedetto Marcello's Concerto Op. 1
+BWV 982 – Concerto in B-flat major, after Prince Johann Ernst of Saxe-Weimar's Concerto
 BWV 983 – Concerto in G minor, after an unknown model
-BWV 984 – Concerto in C major, after a lost Concerto [scores] by Prince Johann Ernst of Saxe–Weimar (see BWV 595 for organ version)
-BWV 985 – Concerto in G minor, after Georg Philipp Telemann's Violin Concerto TWV 51:g1 [scores] 
+BWV 984 – Concerto in C major, after Prince Johann Ernst of Saxe–Weimar
+BWV 985 – Concerto in G minor, after Georg Philipp Telemann's Violin Concerto TWV 51:g1   
 BWV 986 – Concerto in G major, after an unknown model
-BWV 987 – Concerto in D minor, after Prince Johann Ernst of Saxe–Weimar's Concerto Op. 1 No. 4
-BWV 988 – Goldberg Variations (published as Fourth Clavier-Übung) 
+BWV 987 – Concerto in D minor, after Prince Johann Ernst
+BWV 988 – Goldberg Variations
 BWV 989 – Aria variata alla maniera italiana, in A minor
-BWV 990 – Sarabande con Partite in C major (loosely adapted from the overture for "Bellérophon" (1679) by Jean-Baptiste Lully) 
-BWV 991 – Air with variations in C minor (fragment) 
+BWV 990 – Sarabande con Partite in C major 
+BWV 991 – Air with variations in C minor
 BWV 992 – Capriccio sopra la lontananza del suo fratello dilettissimo, in B-flat major
-BWV 993 – Capriccio in honorem Johann Christoph Bachii Ohrdrufiensis [scores], in E major
+BWV 993 – Capriccio in honorem Johann Christoph Bachii Ohrdrufiensis  , in E major
 BWV 994 – Applicatio in C major 
-BWV 995 – Lute Suite in G minor (transcription of Cello Suite No. 5, BWV 1011)
-BWV 996 – Lute Suite in E minor (most probably intended for lute-harpsichord) 
+BWV 995 – Lute Suite in G minor (transcription of BWV 1011)
+BWV 996 – Lute Suite in E minor
 BWV 997 – Lute Suite in C minor
 BWV 998 – Prelude, Fugue and Allegro in E-flat major
 BWV 999 – Prelude in C minor
-BWV 1000 – Fugue in G minor (transcription of Fuga (Allegro) from Violin Sonata No. 1 in G minor, BWV 1001)
+BWV 1000 – Fugue in G minor (transcription of Fuga from BWV 1001)
 BWV 1001 – Violin Sonata No. 1 in G minor
 BWV 1002 – Violin Partita No. 1 in B minor
 BWV 1003 – Violin Sonata No. 2 in A minor
@@ -1015,12 +1021,12 @@ BWV 1016 – Sonata in E major for violin and harpsichord
 BWV 1017 – Sonata in C minor for violin and harpsichord
 BWV 1018 – Sonata in F minor for violin and harpsichord
 BWV 1019 – Sonata in G major for violin and harpsichord
-BWV 1020 – Sonata in G minor for violin (or flute/recorder) and harpsichord  (possibly by Carl Philipp Emanuel Bach – H 542.5) 
+BWV 1020 – Sonata in G minor for violin and harpsichord
 BWV 1021 – Sonata in G major for violin and basso continuo
-BWV 1022 – Sonata in F major for violin and harpsichord  (possibly by Carl Philipp Emanuel Bach) 
+BWV 1022 – Sonata in F major for violin and harpsichord (possibly by Carl Philipp Emanuel Bach) 
 BWV 1023 – Sonata in E minor for violin and basso continuo
 BWV 1024 – Sonata in C minor for violin and basso continuo 
-BWV 1025 – Suite in A major for violin and harpsichord (after a sonata by Sylvius Leopold Weiss; doubtful, possibly by Carl Philipp Emanuel Bach)
+BWV 1025 – Suite in A major for violin and harpsichord (possibly by Carl Philipp Emanuel Bach)
 BWV 1026 – Fugue in G minor for violin and harpsichord
 BWV 1027 – Sonata No. 1 in G major for viola da gamba and harpsichord (arrangement of BWV 1039)
 BWV 1028 – Sonata No. 2 in D major for viola da gamba and harpsichord
@@ -1041,32 +1047,31 @@ BWV 1042 – Violin Concerto in E major
 BWV 1043 – Concerto for 2 violins in D minor
 BWV 1044 – Concerto for flute, violin and harpsichord in A minor
 BWV 1045 – Violin Concerto movement in D major, abandoned opening movement (sinfonia) to a lost cantata
-BWV 1046 – Brandenburg Concerto No. 1 in F major for violino piccolo, three oboes, bassoon, two corni da caccia, strings and continuo
-BWV 1047 – Brandenburg Concerto No. 2 in F major for trumpet, oboe, recorder, violin, strings and continuo
-BWV 1048 – Brandenburg Concerto No. 3 in G major for three violins, three violas, three cellos and continuo
-BWV 1049 – Brandenburg Concerto No. 4 in G major for violin, two fiauti d'echo (recorders), strings and continuo
-BWV 1050 – Brandenburg Concerto No. 5 in D major for harpsichord, violin, flute and strings
-BWV 1051 – Brandenburg Concerto No. 6 in B-flat major for two violas, two violas da gamba, cello and continuo
+BWV 1046 – Brandenburg Concerto No. 1 in F major
+BWV 1047 – Brandenburg Concerto No. 2 in F major
+BWV 1048 – Brandenburg Concerto No. 3 in G major
+BWV 1049 – Brandenburg Concerto No. 4 in G major
+BWV 1050 – Brandenburg Concerto No. 5 in D major
+BWV 1051 – Brandenburg Concerto No. 6 in B-flat majo
 BWV 1052 – Concerto for harpsichord and strings in D minor
-BWV 1053 – Concerto for harpsichord and strings in E major (probably after a lost oboe concerto, also performed as "Concerto in F major for oboe, strings, and continuo")
-BWV 1054 – Concerto for harpsichord and strings in D major (after BWV 1042, Violin Concerto in E major)
+BWV 1053 – Concerto for harpsichord and strings in E major
+BWV 1054 – Concerto for harpsichord and strings in D major
 BWV 1055 – Concerto for harpsichord and strings in A major
 BWV 1056 – Concerto for harpsichord and strings in F minor
-BWV 1057 – Concerto for harpsichord, 2 recorders and strings in F major (after BWV 1049, Brandenburg Concerto No. 4 in G major)
-BWV 1058 – Concerto for harpsichord and strings in G minor (after BWV 1041, Violin Concerto in A minor)
-BWV 1059 – Concerto for harpsichord in D minor (an incomplete fragment of only 9 bars; various reconstructions have been made of harpsichord, organ and oboe concertos based on this by using cantata movements but they are almost entirely speculative)
-BWV 1060 – Concerto for 2 harpsichords and strings in C minor (after a lost violin and oboe concerto)
+BWV 1057 – Concerto for harpsichord, 2 recorders and strings in F major
+BWV 1058 – Concerto for harpsichord and strings in G minor
+BWV 1059 – Concerto for harpsichord in D minor
+BWV 1060 – Concerto for 2 harpsichords and strings in C minor
 BWV 1061 – Concerto for 2 harpsichords and strings in C major
 BWV 1062 – Concerto for 2 harpsichords and strings in C minor (after BWV 1043, Double Violin Concerto in D minor)
 BWV 1063 – Concerto for 3 harpsichords and strings in D minor
 BWV 1064 – Concerto for 3 harpsichords and strings in C major
-BWV 1065 – Concerto for 4 harpsichords and strings in A minor, after Antonio Vivaldi's Concerto for four violins in B minor, Op. 3 No. 10 (RV 580)
+BWV 1065 – Concerto for 4 harpsichords and strings in A minor, after Vivaldi's (RV 580)
 BWV 1066 – Orchestral Suite No. 1 in C major (for woodwinds, strings and continuo)
 BWV 1067 – Orchestral Suite No. 2 in B minor (for flute, strings and continuo)
 BWV 1068 – Orchestral Suite No. 3 in D major (for oboes, trumpets, timpani, strings and continuo)
 BWV 1069 – Orchestral Suite No. 4 in D major (for oboes, bassoon, trumpets, timpani, strings and continuo)
-BWV 1070 – Orchestral Suite in G minor (probably by W. F. Bach) 
-BWV 1071, renumbered as BWV 1046a: early version of the first Brandenburg Concerto
+BWV 1070 – Orchestral Suite in G minor (probably by W. F. Bach)
 BWV 1072 – Canon trias harmonica a 8
 BWV 1073 – Canon a 4 perpetuus
 BWV 1074 – Canon a 4
@@ -1085,37 +1090,37 @@ BWV 1086 – Canon concordia discors
 BWV 1087 – 14 canons on the first eight notes of the Goldberg Variations ground (discovered 1974)
 BWV 1088 – "So heb ich denn mein Auge sehnlich auf" (arioso, No. 20 in the Passion setting Wer ist der, so von Edom kömmt)
 BWV 1089 – "Da Jesus an dem Kreutze stund" (four-part chorale)
-BWV 1090 – Wir Christenleut (chorale prelude from Neumeister Collection)
-BWV 1091 – Das alte Jahr vergangen ist (chorale prelude from Neumeister Collection)
-BWV 1092 – Herr Gott, nun schleuß den Himmel auf (chorale prelude from Neumeister Collection)
-BWV 1093 – Herzliebster Jesu, was hast du verbrochen (chorale prelude from Neumeister Collection)
-BWV 1094 – O Jesu, wie ist dein Gestalt (chorale prelude from Neumeister Collection)
-BWV 1095 – O Lamm Gottes unschuldig (chorale prelude from Neumeister Collection)
+BWV 1090 – Wir Christenleut (chorale prelude)
+BWV 1091 – Das alte Jahr vergangen ist (chorale prelude)
+BWV 1092 – Herr Gott, nun schleuß den Himmel auf (chorale prelude)
+BWV 1093 – Herzliebster Jesu, was hast du verbrochen (chorale prelude)
+BWV 1094 – O Jesu, wie ist dein Gestalt (chorale prelude)
+BWV 1095 – O Lamm Gottes unschuldig (chorale prelude)
 BWV 1096 – Christe, der du bist Tag und Licht (or) Wir danken dir, Herr Jesu Christ  (chorale prelude from Neumeister Collection; probably by Johann Pachelbel)
-BWV 1097 – Ehre sei dir, Christe, der du leidest Not (chorale prelude from Neumeister Collection)
-BWV 1098 – Erhalt uns, Herr, bei deinem Wort (chorale prelude from Neumeister Collection)
-BWV 1099 – Aus tiefer Not schrei ich zu dir (chorale prelude from Neumeister Collection)
-BWV 1100 – Allein zu dir, Herr Jesu Christ (chorale prelude from Neumeister Collection)
-BWV 1101 – Durch Adams Fall ist ganz verderbt (chorale prelude from Neumeister Collection)
-BWV 1102 – Du Friedefürst, Herr Jesu Christ (chorale prelude from Neumeister Collection)
-BWV 1103 – Erhalt uns, Herr, bei deinem Wort (chorale prelude from Neumeister Collection)
-BWV 1104 – Wenn dich Unglück tut greifen an (chorale prelude from Neumeister Collection)
-BWV 1105 – Jesu, meine Freude (chorale prelude from Neumeister Collection)
-BWV 1106 – Gott ist mein Heil, mein Hilf und Trost (chorale prelude from Neumeister Collection)
-BWV 1107 – Jesu, meines Lebens Leben (chorale prelude from Neumeister Collection)
-BWV 1108 – Als Jesus Christus in der Nacht (chorale prelude from Neumeister Collection)
-BWV 1109 – Ach Gott, tu dich erbarmen (chorale prelude from Neumeister Collection)
-BWV 1110 – O Herre Gott, dein göttlich Wort (chorale prelude from Neumeister Collection)
-BWV 1111 – Nun lasset uns den Leib begrab'n (chorale prelude from Neumeister Collection)
-BWV 1112 – Christus, der ist mein Leben (chorale prelude from Neumeister Collection)
-BWV 1113 – Ich hab mein Sach Gott heimgestellt (chorale prelude from Neumeister Collection)
-BWV 1114 – Herr Jesu Christ, du höchstes Gut (chorale prelude from Neumeister Collection)
-BWV 1115 – Herzlich lieb hab ich dich, o Herr (chorale prelude from Neumeister Collection)
-BWV 1116 – Was Gott tut, das ist wohlgetan (chorale prelude from Neumeister Collection)
-BWV 1117 – Alle Menschen müssen sterben (chorale prelude from Neumeister Collection)
-BWV 1118 – Werde munter, mein Gemüte (chorale prelude from Neumeister Collection)
-BWV 1119 – Wie nach einer Wasserquelle (chorale prelude from Neumeister Collection)
-BWV 1120 – Christ, der du bist der helle Tag (chorale prelude from Neumeister Collection)
+BWV 1097 – Ehre sei dir, Christe, der du leidest Not (chorale prelude)
+BWV 1098 – Erhalt uns, Herr, bei deinem Wort (chorale prelude)
+BWV 1099 – Aus tiefer Not schrei ich zu dir (chorale prelude)
+BWV 1100 – Allein zu dir, Herr Jesu Christ (chorale prelude)
+BWV 1101 – Durch Adams Fall ist ganz verderbt (chorale prelude)
+BWV 1102 – Du Friedefürst, Herr Jesu Christ (chorale prelude)
+BWV 1103 – Erhalt uns, Herr, bei deinem Wort (chorale prelude)
+BWV 1104 – Wenn dich Unglück tut greifen an (chorale prelude)
+BWV 1105 – Jesu, meine Freude (chorale prelude)
+BWV 1106 – Gott ist mein Heil, mein Hilf und Trost (chorale prelude)
+BWV 1107 – Jesu, meines Lebens Leben (chorale prelude)
+BWV 1108 – Als Jesus Christus in der Nacht (chorale prelude)
+BWV 1109 – Ach Gott, tu dich erbarmen (chorale prelude)
+BWV 1110 – O Herre Gott, dein göttlich Wort (chorale prelude)
+BWV 1111 – Nun lasset uns den Leib begrab'n (chorale prelude)
+BWV 1112 – Christus, der ist mein Leben (chorale prelude)
+BWV 1113 – Ich hab mein Sach Gott heimgestellt (chorale prelude)
+BWV 1114 – Herr Jesu Christ, du höchstes Gut (chorale prelude)
+BWV 1115 – Herzlich lieb hab ich dich, o Herr (chorale prelude)
+BWV 1116 – Was Gott tut, das ist wohlgetan (chorale prelude)
+BWV 1117 – Alle Menschen müssen sterben (chorale prelude)
+BWV 1118 – Werde munter, mein Gemüte (chorale prelude)
+BWV 1119 – Wie nach einer Wasserquelle (chorale prelude)
+BWV 1120 – Christ, der du bist der helle Tag (chorale prelude)
 BWV 1121 (previously BWV Anh. 205) – Fantasia in C minor for organ
 BWV 1122 – "Denket doch, ihr Menschenkinder" (four-part chorale)
 BWV 1123 – "Wo Gott zum Haus gibt nicht sein Gunst" (four-part chorale)
