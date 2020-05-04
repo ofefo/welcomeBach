@@ -19,8 +19,9 @@ soup = BeautifulSoup(html, 'html.parser')
 def printLinks():
 	linkList = []
 	for i in range(5):
-		for vid in soup.findAll(attrs={'class':'yt-uix-tile-link'}):
+		for vid in soup.find_all(attrs={'class':'yt-uix-tile-link'}):
 			v = 'https://www.youtube.com' + vid['href']
-		print(v)
+			linkList.append(v)
+		print(linkList[i])
 
 printLinks()
