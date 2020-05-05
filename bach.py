@@ -1,9 +1,16 @@
 import random
 import urllib.request
+import datetime
 from bs4 import BeautifulSoup
+
+start = datetime.datetime(2020, 1, 1, 0, 0, 0, 0)
+end = datetime.datetime.utcnow()
+diff = abs((end - start).days)
 
 with open('bwv.txt') as f:
 	bwv = f.readlines()
+
+random.seed(diff)
 
 n = random.randint(1, 1129)
 
