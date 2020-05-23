@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=/home/fefo/git/welcomeBach/welcomeBach.sh
+Exec=path/to/welcomeBach/welcomeBach.sh
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true

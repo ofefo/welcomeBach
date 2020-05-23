@@ -19,26 +19,22 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 `git clone https://github.com/ofefo/welcomeBach.git`
 
 
-2. While in the repository folder, install the requirements with:
-
-`pip install -r requirements.txt`
-
-3. Edit **gnome-terminal.desktop**, replacing the path to bach.py:
+2. Edit **gnome-terminal.desktop**, replacing the path to welcomeBach.sh:
 
 *In line 3:*
-`Exec=gnome-terminal -- bash -c "cd path/to/welcomeBach && python3 bach.py; cd; exec bash"`
+`Exec=path/to/welcomeBach/welcomeBach.sh`
 
+3. Then run:
 
-4. Move **gnome-terminal.desktop** to *~/.config/autostart/* with the following:
+`bash setup.sh`
 
-`sudo cp gnome-terminal.desktop ~/.config/autostart`
+And it's done!
 
-Make sure you have the */autostart* folder! If you don't, create it before step 4 with:
+Make sure you have the */autostart* folder! If you don't, create it before step 3 with:
 
 `cd ~/.config && mkdir autostart`
 
+Currently only working with GNOME.\
+Inspired by [Koan].
 
-Currently only working in Ubuntu 18.04 with GNOME.\
-Inspired by [welcomeKoans].
-
-[welcomeKoans]: https://github.com/a-moreira/welcomeKoans
+[Koan]: https://github.com/a-moreira/Koan
