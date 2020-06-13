@@ -1,0 +1,7 @@
+#!/bin/bash
+DIR=/path/to/welcomeBach;
+cd $DIR;
+venv=$DIR/venv/bin/activate;
+. $venv;
+python3 bach.py;
+deactivate;
