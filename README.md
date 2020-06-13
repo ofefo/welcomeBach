@@ -36,7 +36,7 @@ Make sure you have the */autostart* folder! If you don't, create it before step 
 
 This method only works with GNOME.\
 
-### Installation for Non-GNOME DMs
+### Installation for non-GNOME DMs
 
 If GNOME isn't your currently Desktop Manager, you can still run welcomeBachas a cli command.\
 To do it, open the file *Bach* and set the path to your local repository in the DIR variable.
