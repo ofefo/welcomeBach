@@ -1,8 +1,8 @@
 #!/bin/bash
 
 python3 -m venv venv;
-dir=$pwd/venv/bin;
-. .$dir/activate;
+dir=$PWD/venv/bin;
+. $dir/activate;
 pip3 install -r requirements.txt;
 deactivate;
 chmod +x "welcomeBach.sh";

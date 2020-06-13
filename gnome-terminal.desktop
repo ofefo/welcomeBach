@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=path/to/welcomeBach/welcomeBach.sh
+Exec=gnome-terminal -- bash -c "/home/user/path/to/welcomeBach/welcomeBach.sh; exec bash"
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
