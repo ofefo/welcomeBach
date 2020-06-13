@@ -42,9 +42,10 @@ If GNOME isn't your currently Desktop Manager, you can still run welcomeBachas a
 To do it, open the file *Bach* and set the path to your local repository in the DIR variable.
 
 Run `sh setup_bin.sh`, and now you can get your daily dose of counterpoint with:
-```
-Bach
-```
+
+`Bach`
+
+
 Inspired by [Koan].
 
 [Koan]: https://github.com/a-moreira/Koan
