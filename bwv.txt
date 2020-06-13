@@ -12,7 +12,6 @@ BWV 11 – Lobet Gott in seinen Reichen (oratorio)
 BWV 12 – Weinen, Klagen, Sorgen, Zagen (cantata)
 BWV 13 – Meine Seufzer, meine Tränen (cantata)
 BWV 14 – Wär Gott nicht mit uns diese Zeit (cantata)
-BWV 15 – Denn du wirst meine Seele nicht in der Hölle lassen (cantata by Johann Ludwig Bach, JLB 21) 
 BWV 16 – Herr Gott, dich loben wir (cantata)
 BWV 17 – Wer Dank opfert, der preiset mich (cantata)
 BWV 18 – Gleichwie der Regen und Schnee vom Himmel fällt (cantata)
@@ -33,7 +32,7 @@ BWV 32 – Liebster Jesu, mein Verlangen (cantata)
 BWV 33 – Allein zu dir, Herr Jesu Christ (cantata)
 BWV 34 – O ewiges Feuer, o Ursprung der Liebe (cantata)
 BWV 35 – Geist und Seele wird verwirret (cantata)
-BWV 36 – Schwingt freudig euch empor (secular cantata)
+BWV 36 – Schwingt freudig euch empor (cantata)
 BWV 37 – Wer da gläubet und getauft wird (cantata)
 BWV 38 – Aus tiefer Not schrei ich zu dir (cantata)
 BWV 39 – Brich dem Hungrigen dein Brot (cantata)
@@ -41,7 +40,7 @@ BWV 40 – Darzu ist erschienen der Sohn Gottes (cantata)
 BWV 41 – Jesu, nun sei gepreiset (cantata)
 BWV 42 – Am Abend aber desselbigen Sabbats (cantata)
 BWV 43 – Gott fähret auf mit Jauchzen (cantata)
-BWV 43/11 – "Du Lebensfürst, Herr Jesu Christ" (closing chorale of BWV 43 by Christoph Peter) 
+BWV 43/11 – "Du Lebensfürst, Herr Jesu Christ" (cantata) 
 BWV 44 – Sie werden euch in den Bann tun (cantata)
 BWV 45 – Es ist dir gesagt, Mensch, was gut ist (cantata)
 BWV 46 – Schauet doch und sehet, ob irgend ein Schmerz sei (cantata)
@@ -64,8 +63,8 @@ BWV 62 – Nun komm, der Heiden Heiland (cantata)
 BWV 63 – Christen, ätzet diesen Tag (cantata)
 BWV 64 – Sehet, welch eine Liebe hat uns der Vater erzeiget (cantata)
 BWV 65 – Sie werden aus Saba alle kommen (cantata)
-BWV 66 – Der Himmel dacht auf Anhalts Ruhm und Glück (secular cantata)
-BWV 66.2 (previously 66) – Erfreut euch, ihr Herzen (cantata)
+BWV 66 – Der Himmel dacht auf Anhalts Ruhm und Glück (cantata)
+BWV 66.2 – Erfreut euch, ihr Herzen (cantata)
 BWV 67 – Halt im Gedächtnis Jesum Christ (cantata)
 BWV 68 – Also hat Gott die Welt geliebt (cantata)
 BWV 69 – Lobe den Herrn, meine Seele (cantata)
@@ -133,7 +132,7 @@ BWV 130 – Herr Gott, dich loben alle wir (cantata)
 BWV 131 – Aus der Tiefen rufe ich, Herr, zu dir (cantata) 
 BWV 132 – Bereitet die Wege, bereitet die Bahn (cantata)
 BWV 133 – Ich freue mich in dir (cantata)
-BWV 134 – Die Zeit, die Tag und Jahre macht (secular cantata) 
+BWV 134 – Die Zeit, die Tag und Jahre macht (cantata) 
 BWV 135 – Ach Herr, mich armen Sünder (cantata)
 BWV 136 – Erforsche mich, Gott, und erfahre mein Herz (cantata)
 BWV 137 – Lobe den Herren, den mächtigen König der Ehren (cantata)
@@ -172,7 +171,7 @@ BWV 169 – Gott soll allein mein Herze haben (cantata)
 BWV 170 – Vergnügte Ruh, beliebte Seelenlust (cantata)
 BWV 171 – Gott, wie dein Name, so ist auch dein Ruhm (cantata)
 BWV 172 – Erschallet, ihr Lieder, erklinget, ihr Saiten! (cantata)
-BWV 173 – Durchlauchtster Leopold (secular cantata)
+BWV 173 – Durchlauchtster Leopold (cantata)
 BWV 174 – Ich liebe den Höchsten von ganzem Gemüte (cantata)
 BWV 175 – Er rufet seinen Schafen mit Namen (cantata)
 BWV 176 – Es ist ein trotzig und verzagt Ding (cantata)
@@ -190,30 +189,30 @@ BWV 187 – Es wartet alles auf dich (cantata)
 BWV 188 – Ich habe meine Zuversicht (cantata)
 BWV 189 – Meine Seele rühmt und preist (cantata) 
 BWV 190 – Singet dem Herrn ein neues Lied (cantata)
-BWV 191 – Gloria in excelsis Deo (cantata; church music in Latin)
+BWV 191 – Gloria in excelsis Deo (cantata)
 BWV 192 – Nun danket alle Gott (cantata)
-BWV 193 – Ihr Häuser des Himmels, ihr scheinenden Lichter (secular cantata)
+BWV 193 – Ihr Häuser des Himmels, ihr scheinenden Lichter (cantata)
 BWV 194 – Höchsterwünschtes Freudenfest (cantata)
 BWV 195 – Dem Gerechten muß das Licht (cantata)
 BWV 197 – Ehre sei Gott in der Höhe (cantata)
-BWV 198 – Laß, Fürstin, laß noch einen Strahl a.k.a. Mourning Ode (secular cantata)
+BWV 198 – Laß, Fürstin, laß noch einen Strahl a.k.a. Mourning Ode (cantata)
 BWV 199 – Mein Herze schwimmt im Blut (cantata)
 BWV 200 – "Bekennen will ich seinen Namen" (aria after Gottfried Heinrich Stölzel)
-BWV 201 – Geschwinde, ihr wirbelnden Winde a.k.a. The Dispute between Phoebus and Pan (secular cantata)
-BWV 202 – Weichet nur, betrübte Schatten (secular cantata)
-BWV 203 – Amore traditore (secular cantata)
-BWV 204 – Ich bin in mir vergnügt a.k.a. On Contentedness (secular cantata)
-BWV 205 – Zerreißet, zersprenget, zertrümmert die Gruft a.k.a. Aeolus Placated (secular cantata)
-BWV 206 – Schleicht, spielende Wellen (secular cantata)
-BWV 207 – Vereinigte Zwietracht der wechselnden Saiten (secular cantata)
-BWV 208 – Was mir behagt, ist nur die muntre Jagd a.k.a. Hunting Cantata (secular cantata)
-BWV 210 – O angenehme Melodei (secular cantata)
-BWV 211 – Schweigt stille, plaudert nicht a.k.a. Coffee Cantata (secular cantata)
-BWV 212 – Mer hahn en neue Oberkeet a.k.a. Peasant Cantata (secular cantata)
-BWV 213 – Laßt uns sorgen, laßt uns wachen a.k.a. Hercules at the Crossroads (secular cantata)
-BWV 214 – Tönet, ihr Pauken! Erschallet, Trompeten! (secular cantata)
-BWV 215 – Preise dein Glücke, gesegnetes Sachsen (secular cantata)
-BWV 216 – Vergnügte Pleißenstadt (secular cantata)
+BWV 201 – Geschwinde, ihr wirbelnden Winde a.k.a. The Dispute between Phoebus and Pan (cantata)
+BWV 202 – Weichet nur, betrübte Schatten (cantata)
+BWV 203 – Amore traditore (cantata)
+BWV 204 – Ich bin in mir vergnügt a.k.a. On Contentedness (cantata)
+BWV 205 – Zerreißet, zersprenget, zertrümmert die Gruft a.k.a. Aeolus Placated (cantata)
+BWV 206 – Schleicht, spielende Wellen (cantata)
+BWV 207 – Vereinigte Zwietracht der wechselnden Saiten (cantata)
+BWV 208 – Was mir behagt, ist nur die muntre Jagd a.k.a. Hunting Cantata (cantata)
+BWV 210 – O angenehme Melodei (cantata)
+BWV 211 – Schweigt stille, plaudert nicht a.k.a. Coffee Cantata (cantata)
+BWV 212 – Mer hahn en neue Oberkeet a.k.a. Peasant Cantata (cantata)
+BWV 213 – Laßt uns sorgen, laßt uns wachen a.k.a. Hercules at the Crossroads (cantata)
+BWV 214 – Tönet, ihr Pauken! Erschallet, Trompeten! (cantata)
+BWV 215 – Preise dein Glücke, gesegnetes Sachsen (cantata)
+BWV 216 – Vergnügte Pleißenstadt (cantata)
 BWV 217 – Gedenke, Herr, wie es uns gehet (cantata) 
 BWV 218 – Gott der Hoffnung erfülle euch (cantata) 
 BWV 219 – Siehe, es hat überwunden der Löwe (cantata) 
@@ -228,213 +227,213 @@ BWV 227 – Jesu, meine Freude (motet)
 BWV 228 – Fürchte dich nicht (motet)
 BWV 229 – Komm, Jesu, komm (motet)
 BWV 230 – Lobet den Herrn, alle Heiden (motet)
-BWV 232 – Mass in B minor (church music in Latin)
-BWV 233 – Kyrie–Gloria Mass in F major (church music in Latin)
-BWV 234 – Kyrie–Gloria Mass in A major (church music in Latin)
-BWV 235 – Kyrie–Gloria Mass in G minor (church music in Latin)
-BWV 236 – Kyrie–Gloria Mass in G major (church music in Latin)
-BWV 237 – Sanctus in C major (church music in Latin)
-BWV 238 – Sanctus in D major (church music in Latin)
-BWV 239 – Sanctus in D minor  (church music in Latin)
-BWV 240 – Sanctus in G major (church music in Latin)
-BWV 241 – Sanctus in D major (arrangement of the Sanctus from Johann Caspar Kerll's Missa superba; church music in Latin)
-BWV 242 – Christe eleison in G minor (composed by Bach for a mass by Francesco Durante, BWV Anh. 26; church music in Latin)
-BWV 243 – Magnificat (church music in Latin)
-BWV 244 – St Matthew Passion (Passion setting)
-BWV 245 – St John Passion (Passion setting)
-BWV 246 – St Luke Passion  (Passion setting)
-BWV 247 – St Mark Passion (music lost; Passion setting)
-BWV 248 – Christmas Oratorio (consisting of six cantatas)
-BWV 249 – Entfliehet, verschwindet, entweichet, ihr Sorgen a.k.a. Shepherd Cantata (secular cantata)
-BWV 250 – "Was Gott tut, das ist wohlgetan" (Three wedding chorales No. 1)
-BWV 251 – "Sei Lob und Ehr dem höchsten Gut" (Three wedding chorales No. 2)
-BWV 252 – "Nun danket alle Gott" (Three wedding chorales No. 3)
-BWV 253 – "Ach bleib bei uns, Herr Jesu Christ" (four-part chorale)
-BWV 254 – "Ach Gott, erhör mein Seufzen" (four-part chorale)
-BWV 255 – "Ach Gott und Herr" (four-part chorale)
-BWV 256 – "Ach lieben Christen seid getrost" (four-part chorale)
-BWV 257 – "Wär Gott nicht mit uns diese Zeit" (four-part chorale)
-BWV 258 – "Wo Gott der Herr nicht bei uns hält" (four-part chorale)
-BWV 259 – "Ach, was soll ich Sünder machen" (four-part chorale)
-BWV 260 – "Allein Gott in der Höh sei Ehr" (four-part chorale)
-BWV 261 – "Allein zu dir, Herr Jesu Christ" (four-part chorale)
-BWV 262 – "Alle Menschen müssen sterben" (four-part chorale)
-BWV 263 – "Alles ist an Gottes Segen" (four-part chorale)
-BWV 264 – "Als der gütige Gott" (four-part chorale)
-BWV 265 – "Als Jesus Christus in der Nacht" (four-part chorale)
-BWV 266 – "Als vierzig Tag nach Ostern warn" (four-part chorale)
-BWV 267 – "An Wasserflüssen Babylon" (or) "Ein Lämmlein geht und trägt die Schuld" (four-part chorale)
-BWV 268 – "Auf, auf, mein Herz, und du mein ganzer Sinn" (four-part chorale)
-BWV 269 – "Aus meines Herzens Grunde" (four-part chorale)
-BWV 270 – "Befiehl du deine Wege" (four-part chorale)
-BWV 271 – "Befiehl du deine Wege" (four-part chorale)
-BWV 272 – "Befiehl du deine Wege" (four-part chorale)
-BWV 273 – "Christ, der du bist der helle Tag" (four-part chorale)
-BWV 274 – "Christe, der du bist Tag und Licht" (four-part chorale)
-BWV 275 – "Christ, du Beistand deiner Kreuzgemeine" (four-part chorale)
-BWV 276 – "Christ ist erstanden" (four-part chorale)
-BWV 277 – "Christ lag in Todesbanden" (four-part chorale)
-BWV 278 – "Christ lag in Todesbanden" (four-part chorale)
-BWV 279 – "Christ lag in Todesbanden" (four-part chorale)
-BWV 280 – "Christ unser Herr zum Jordan kam" (four-part chorale)
-BWV 281 – "Christus, der ist mein Leben" (four-part chorale)
-BWV 282 – "Christus, der ist mein Leben" (four-part chorale)
-BWV 283 – "Christus, der uns selig macht" (four-part chorale)
-BWV 284 – "Christus ist erstanden, hat überwunden" (four-part chorale)
-BWV 285 – "Da der Herr Christ zu Tische saß" (four-part chorale)
-BWV 286 – "Danket dem Herrn, denn er ist sehr freundlich" (four-part chorale)
-BWV 287 – "Dank sei Gott in der Höhe" (four-part chorale)
-BWV 288 – "Das alte Jahr vergangen ist" (four-part chorale)
-BWV 289 – "Das alte Jahr vergangen ist" (four-part chorale)
-BWV 290 – "Das walt Gott Vater und Gott Sohn" (four-part chorale)
-BWV 291 – "Das walt mein Gott" (four-part chorale)
-BWV 292 – "Den Vater dort oben" (four-part chorale)
-BWV 293 – "Der du bist drei in Einigkeit" (four-part chorale)
-BWV 294 – "Der Tag, der ist so freudenreich" (four-part chorale)
-BWV 295 – "Des Heilgen Geistes reiche Gnad" (four-part chorale)
-BWV 296 – "Die Nacht ist kommen" (four-part chorale)
-BWV 297 – "Die Sonn hat sich mit ihrem Glanz gewendet" (four-part chorale)
-BWV 298 – "Dies sind die heilgen zehn Gebot" (four-part chorale)
-BWV 299 – "Dir, dir, Jehova, will ich singen" (four-part chorale) 
-BWV 300 – "Du großer Schmerzensmann" (four-part chorale)
-BWV 301 – "Du, o schönes Weltgebäude" (four-part chorale)
-BWV 302 – "Ein feste Burg ist unser Gott" (four-part chorale)
-BWV 303 – "Ein feste Burg ist unser Gott" (four-part chorale)
-BWV 304 – "Eins ist not, ach Herr, dies Eine" (four-part chorale)
-BWV 305 – "Erbarm dich mein, o Herre Gott" (four-part chorale)
-BWV 306 – "Erstanden ist der heilig Christ" (four-part chorale)
-BWV 307 – "Es ist gewisslich an der Zeit" (four-part chorale)
-BWV 308 – "Es spricht der Unweisen Mund wohl" (four-part chorale)
-BWV 309 – "Es stehn vor Gottes Throne" (four-part chorale)
-BWV 310 – "Es wird schier der letzte Tag herkommen" (four-part chorale)
-BWV 311 – "Es woll uns Gott gnädig sein" (four-part chorale)
-BWV 312 – "Es woll uns Gott gnädig sein" (four-part chorale)
-BWV 313 – "Für Freuden lasst uns springen" (four-part chorale)
-BWV 314 – "Gelobt seist du, Jesu Christ" (four-part chorale)
-BWV 315 – "Gib dich zufrieden und sei stille" (four-part chorale)
-BWV 316 – "Gott, der du selber bist das Licht" (four-part chorale)
-BWV 317 – "Gott der Vater wohn uns bei" (four-part chorale)
-BWV 318 – "Gottes Sohn ist kommen" (four-part chorale)
-BWV 319 – "Gott hat das Evangelium" (four-part chorale)
-BWV 320 – "Gott lebet noch" (four-part chorale)
-BWV 321 – "Gottlob, es geht nunmehr zum Ende" (four-part chorale)
-BWV 322 – "Gott sei gelobet und gebenedeiet" (four-part chorale)
-BWV 323 – "Gott sei uns gnädig und barmherzig" (four-part chorale)
-BWV 324 – "Meine Seele erhebet den Herren" (four-part chorale)
-BWV 325 – "Heilig, heilig" (or) "Sanctus, Sanctus Dominus Deus Sabaoth" (four-part chorale)
-BWV 326 – "Herr Gott, dich loben alle wir" (four-part chorale)
-BWV 327 – "Vor deinen Thron tret ich hiermit" (four-part chorale)
-BWV 328 – "Herr Gott, dich loben wir" (four-part chorale)
-BWV 329 – "Herr, ich denk an jene Zeit" (four-part chorale)
-BWV 330 – "Herr, ich habe missgehandelt" (four-part chorale)
-BWV 331 – "Herr, ich habe missgehandelt" (four-part chorale)
-BWV 332 – "Herr Jesu Christ, dich zu uns wend" (four-part chorale)
-BWV 333 – "Herr Jesu Christ, du hast bereit'" (four-part chorale)
-BWV 334 – "Herr Jesu Christ, ich schrei zu dir" (or) "Herr Jesu Christ, du höchstes Gut" (four-part chorale)
-BWV 335 – "Herr Jesu Christ, meins Lebens Licht" (or) "O Jesu, du mein Bräutigam" (four-part chorale)
-BWV 336 – "Herr Jesu Christ, wahr' Mensch und Gott" (four-part chorale)
-BWV 337 – "Herr, nun lass in Friede" (four-part chorale)
-BWV 338 – "Herr, straf mich nicht in deinem Zorn" (four-part chorale)
-BWV 339 – "Wer in dem Schutz des Höchsten ist" (or) "Herr, wie du willt, so schicks mit mir" (four-part chorale)
-BWV 340 – "Herzlich lieb hab ich dich, o Herr" (four-part chorale)
-BWV 341 – "Heut ist, o Mensch, ein großer Trauertag" (four-part chorale)
-BWV 342 – "Heut triumphieret Gottes Sohn" (four-part chorale)
-BWV 343 – "Hilf, Gott, dass mirs gelinge" (four-part chorale)
-BWV 344 – "Hilf, Herr Jesu, lass gelingen" (four-part chorale)
-BWV 345 – "Ich bin ja, Herr, in deiner Macht" (four-part chorale)
-BWV 346 – "Ich dank dir, Gott, für deine Wohltat" (four-part chorale)
-BWV 347 – "Ich dank dir, lieber Herre" (four-part chorale)
-BWV 348 – "Ich dank dir, lieber Herre" (four-part chorale)
-BWV 349 – "Ich dank dir schon durch deinen Sohn" (four-part chorale)
-BWV 350 – "Ich danke dir, Herr Gott, in deinem Throne" (four-part chorale)
-BWV 351 – "Ich hab mein Sach Gott heimgestellt" (four-part chorale)
-BWV 352 – "Jesu, der du meine Seele" (four-part chorale)
-BWV 353 – "Jesu, der du meine Seele" (four-part chorale)
-BWV 354 – "Jesu, der du meine Seele" (four-part chorale)
-BWV 355 – "Jesu, der du selbsten wohl" (four-part chorale)
-BWV 356 – "Jesu, du mein liebstes Leben" (four-part chorale)
-BWV 357 – "Jesu, Jesu, du bist mein" (four-part chorale)
-BWV 358 – "Jesu, meine Freude" (four-part chorale)
-BWV 359 – "Jesu, meiner Seelen Wonne" (four-part chorale)
-BWV 360 – "Jesu, meiner Seelen Wonne" (four-part chorale)
-BWV 361 – "Jesu, meines Herzens Freud" (four-part chorale)
-BWV 362 – "Jesu, nun sei gepreiset" (four-part chorale)
-BWV 363 – "Jesus Christus, unser Heiland" (four-part chorale)
-BWV 364 – "Jesus Christus, unser Heiland, der den Tod überwand" (four-part chorale)
-BWV 365 – "Jesus, meine Zuversicht" (four-part chorale)
-BWV 366 – "Ihr Gestirn, ihr hohlen Lüfte" (four-part chorale)
-BWV 367 – "In allen meinen Taten" (four-part chorale)
-BWV 368 – "In dulci jubilo" (four-part chorale)
-BWV 369 – "Keinen hat Gott verlassen" (four-part chorale)
-BWV 370 – "Komm, Gott Schöpfer, Heiliger Geist" (four-part chorale)
-BWV 371 – "Kyrie, Gott Vater in Ewigkeit" (four-part chorale)
-BWV 372 – "Lass, o Herr, dein Ohr sich neigen" (four-part chorale)
-BWV 373 – "Liebster Jesu, wir sind hier" (four-part chorale)
-BWV 374 – "Lobet den Herren, denn er ist sehr freundlich" (four-part chorale)
-BWV 375 – "Lobt Gott, ihr Christen, allzugleich" (four-part chorale)
-BWV 376 – "Lobt Gott, ihr Christen allzugleich" (four-part chorale)
-BWV 377 – "Machs mit mir, Gott, nach deiner Güt" (four-part chorale)
-BWV 378 – "Mein Augen schließ ich jetzt in Gottes Namen zu" (four-part chorale)
-BWV 379 – "Meinen Jesum laß ich nicht" (four-part chorale)
-BWV 380 – "Meinen Jesum laß ich nicht" (four-part chorale)
-BWV 381 – "Meines Lebens letzte Zeit" (four-part chorale)
-BWV 382 – "Mit Fried und Freud ich fahr dahin" (four-part chorale)
-BWV 383 – "Mitten wir im Leben sind" (four-part chorale)
-BWV 384 – "Nicht so traurig, nicht so sehr" (four-part chorale)
-BWV 385 – "Nun bitten wir den Heiligen Geist" (four-part chorale)
-BWV 386 – "Nun danket alle Gott" (four-part chorale)
-BWV 387 – "Nun freut euch, Gottes Kinder all" (four-part chorale)
-BWV 388 – "Nun freut euch, lieben Christen gmein" (four-part chorale)
-BWV 389 – "Nun lob, mein Seel, den Herren" (four-part chorale)
-BWV 390 – "Nun lob, mein Seel, den Herren" (four-part chorale)
-BWV 391 – "Nun preiset alle Gottes Barmherzigkeit" (four-part chorale)
-BWV 392 – "Nun ruhen alle Wälder" (four-part chorale)
-BWV 393 – "O Welt, sieh hier dein Leben" (four-part chorale)
-BWV 394 – "O Welt, sieh hier dein Leben" (four-part chorale)
-BWV 395 – "O Welt, sieh hier dein Leben" (four-part chorale)
-BWV 396 – "Nun sich der Tag geendet hat" (four-part chorale)
-BWV 397 – "O Ewigkeit, du Donnerwort" (four-part chorale)
-BWV 398 – "O Gott, du frommer Gott" (four-part chorale)
-BWV 399 – "O Gott, du frommer Gott" (four-part chorale)
-BWV 400 – "O Herzensangst" (four-part chorale)
-BWV 401 – "O Lamm Gottes, unschuldig" (four-part chorale)
-BWV 402 – "O Mensch, bewein dein Sünde groß" (four-part chorale)
-BWV 403 – "O Mensch, schau Jesum Christum an" (four-part chorale)
-BWV 404 – "O Traurigkeit, o Herzeleid" (four-part chorale)
-BWV 405 – "O wie selig seid ihr doch, ihr Frommen" (four-part chorale)
-BWV 406 – "O wie selig seid ihr doch, ihr Frommen" (four-part chorale)
-BWV 407 – "O wir armen Sünder" (four-part chorale)
-BWV 408 – "Schaut, ihr Sünder" (four-part chorale)
-BWV 409 – "Seelenbräutigam" (four-part chorale)
-BWV 410 – "Sei gegrüßet, Jesu gütig" (four-part chorale)
-BWV 411 – "Singt dem Herrn ein neues Lied" (four-part chorale)
-BWV 412 – "So gibst du nun, mein Jesu, gute Nacht" (four-part chorale)
-BWV 413 – "Sollt ich meinem Gott nicht singen" (four-part chorale)
-BWV 414 – "Uns ist ein Kindlein heut geborn" (four-part chorale)
-BWV 415 – "Valet will ich dir geben" (four-part chorale)
-BWV 416 – "Vater unser im Himmelreich" (four-part chorale)
-BWV 417 – "Von Gott will ich nicht lassen" (four-part chorale)
-BWV 418 – "Von Gott will ich nicht lassen" (four-part chorale)
-BWV 419 – "Helft mir Gotts Güte preisen" (or) "Von Gott will ich nicht lassen" (four-part chorale)
-BWV 420 – "Warum betrübst du dich, mein Herz" (four-part chorale)
-BWV 421 – "Warum betrübst du dich, mein Herz" (four-part chorale)
-BWV 422 – "Warum sollt ich mich denn grämen" (four-part chorale)
-BWV 423 – "Was betrübst du dich, mein Herze" (four-part chorale)
-BWV 424 – "Was bist du doch, o Seele, so betrübet" (four-part chorale)
-BWV 425 – "Was willst du dich, o meine Seele, kränken" (four-part chorale)
-BWV 426 – "Weltlich Ehr und zeitlich Gut" (four-part chorale)
-BWV 427 – "Wenn ich in Angst und Not" (four-part chorale)
-BWV 428 – "Wenn mein Stündlein vorhanden ist" (four-part chorale)
-BWV 429 – "Wenn mein Stündlein vorhanden ist" (four-part chorale)
-BWV 430 – "Wenn mein Stündlein verhanden ist" (four-part chorale)
-BWV 431 – "Wenn wir in höchsten Nöten sein" (four-part chorale)
-BWV 432 – "Wenn wir in höchsten Nöten sein" (four-part chorale)
-BWV 433 – "Wer Gott vertraut, hat wohl gebaut" (four-part chorale)
-BWV 434 – "Wer weiß, wie nahe mir mein Ende" (or) "Wer nur den lieben Gott lässt walten" (four-part chorale)
-BWV 435 – "Wie bist du, Seele, in mir so gar betrübt" (four-part chorale)
-BWV 436 – "Wie schön leuchtet der Morgenstern" (four-part chorale)
-BWV 437 – "Wir glauben all an einen Gott" (four-part chorale)
-BWV 438 – "Wo Gott zum Haus nicht gibt sein Gunst" (four-part chorale)
+BWV 232 – Mass in B minor 
+BWV 233 – Kyrie–Gloria Mass in F major
+BWV 234 – Kyrie–Gloria Mass in A major
+BWV 235 – Kyrie–Gloria Mass in G minor
+BWV 236 – Kyrie–Gloria Mass in G major
+BWV 237 – Sanctus in C major
+BWV 238 – Sanctus in D major
+BWV 239 – Sanctus in D minor
+BWV 240 – Sanctus in G major
+BWV 241 – Sanctus in D major
+BWV 242 – Christe eleison in G minor
+BWV 243 – Magnificat
+BWV 244 – St Matthew Passion
+BWV 245 – St John Passion
+BWV 246 – St Luke Passion
+BWV 247 – St Mark Passion
+BWV 248 – Christmas Oratorio
+BWV 249 – Entfliehet, verschwindet, entweichet, ihr Sorgen
+BWV 250 – "Was Gott tut, das ist wohlgetan"
+BWV 251 – "Sei Lob und Ehr dem höchsten Gut"
+BWV 252 – "Nun danket alle Gott"
+BWV 253 – "Ach bleib bei uns, Herr Jesu Christ"
+BWV 254 – "Ach Gott, erhör mein Seufzen"
+BWV 255 – "Ach Gott und Herr"
+BWV 256 – "Ach lieben Christen seid getrost"
+BWV 257 – "Wär Gott nicht mit uns diese Zeit"
+BWV 258 – "Wo Gott der Herr nicht bei uns hält"
+BWV 259 – "Ach, was soll ich Sünder machen"
+BWV 260 – "Allein Gott in der Höh sei Ehr"
+BWV 261 – "Allein zu dir, Herr Jesu Christ"
+BWV 262 – "Alle Menschen müssen sterben"
+BWV 263 – "Alles ist an Gottes Segen"
+BWV 264 – "Als der gütige Gott"
+BWV 265 – "Als Jesus Christus in der Nacht"
+BWV 266 – "Als vierzig Tag nach Ostern warn"
+BWV 267 – "An Wasserflüssen Babylon" (or) "Ein Lämmlein geht und trägt die Schuld"
+BWV 268 – "Auf, auf, mein Herz, und du mein ganzer Sinn"
+BWV 269 – "Aus meines Herzens Grunde"
+BWV 270 – "Befiehl du deine Wege"
+BWV 271 – "Befiehl du deine Wege"
+BWV 272 – "Befiehl du deine Wege"
+BWV 273 – "Christ, der du bist der helle Tag"
+BWV 274 – "Christe, der du bist Tag und Licht"
+BWV 275 – "Christ, du Beistand deiner Kreuzgemeine"
+BWV 276 – "Christ ist erstanden"
+BWV 277 – "Christ lag in Todesbanden"
+BWV 278 – "Christ lag in Todesbanden"
+BWV 279 – "Christ lag in Todesbanden"
+BWV 280 – "Christ unser Herr zum Jordan kam"
+BWV 281 – "Christus, der ist mein Leben"
+BWV 282 – "Christus, der ist mein Leben"
+BWV 283 – "Christus, der uns selig macht"
+BWV 284 – "Christus ist erstanden, hat überwunden"
+BWV 285 – "Da der Herr Christ zu Tische saß"
+BWV 286 – "Danket dem Herrn, denn er ist sehr freundlich"
+BWV 287 – "Dank sei Gott in der Höhe"
+BWV 288 – "Das alte Jahr vergangen ist"
+BWV 289 – "Das alte Jahr vergangen ist"
+BWV 290 – "Das walt Gott Vater und Gott Sohn"
+BWV 291 – "Das walt mein Gott"
+BWV 292 – "Den Vater dort oben"
+BWV 293 – "Der du bist drei in Einigkeit"
+BWV 294 – "Der Tag, der ist so freudenreich"
+BWV 295 – "Des Heilgen Geistes reiche Gnad"
+BWV 296 – "Die Nacht ist kommen"
+BWV 297 – "Die Sonn hat sich mit ihrem Glanz gewendet"
+BWV 298 – "Dies sind die heilgen zehn Gebot"
+BWV 299 – "Dir, dir, Jehova, will ich singen" 
+BWV 300 – "Du großer Schmerzensmann"
+BWV 301 – "Du, o schönes Weltgebäude"
+BWV 302 – "Ein feste Burg ist unser Gott"
+BWV 303 – "Ein feste Burg ist unser Gott"
+BWV 304 – "Eins ist not, ach Herr, dies Eine"
+BWV 305 – "Erbarm dich mein, o Herre Gott"
+BWV 306 – "Erstanden ist der heilig Christ"
+BWV 307 – "Es ist gewisslich an der Zeit"
+BWV 308 – "Es spricht der Unweisen Mund wohl"
+BWV 309 – "Es stehn vor Gottes Throne"
+BWV 310 – "Es wird schier der letzte Tag herkommen"
+BWV 311 – "Es woll uns Gott gnädig sein"
+BWV 312 – "Es woll uns Gott gnädig sein"
+BWV 313 – "Für Freuden lasst uns springen"
+BWV 314 – "Gelobt seist du, Jesu Christ"
+BWV 315 – "Gib dich zufrieden und sei stille"
+BWV 316 – "Gott, der du selber bist das Licht"
+BWV 317 – "Gott der Vater wohn uns bei"
+BWV 318 – "Gottes Sohn ist kommen"
+BWV 319 – "Gott hat das Evangelium"
+BWV 320 – "Gott lebet noch"
+BWV 321 – "Gottlob, es geht nunmehr zum Ende"
+BWV 322 – "Gott sei gelobet und gebenedeiet"
+BWV 323 – "Gott sei uns gnädig und barmherzig"
+BWV 324 – "Meine Seele erhebet den Herren"
+BWV 325 – "Heilig, heilig" (or) "Sanctus, Sanctus Dominus Deus Sabaoth"
+BWV 326 – "Herr Gott, dich loben alle wir"
+BWV 327 – "Vor deinen Thron tret ich hiermit"
+BWV 328 – "Herr Gott, dich loben wir"
+BWV 329 – "Herr, ich denk an jene Zeit"
+BWV 330 – "Herr, ich habe missgehandelt"
+BWV 331 – "Herr, ich habe missgehandelt"
+BWV 332 – "Herr Jesu Christ, dich zu uns wend"
+BWV 333 – "Herr Jesu Christ, du hast bereit'"
+BWV 334 – "Herr Jesu Christ, ich schrei zu dir" (or) "Herr Jesu Christ, du höchstes Gut"
+BWV 335 – "Herr Jesu Christ, meins Lebens Licht" (or) "O Jesu, du mein Bräutigam"
+BWV 336 – "Herr Jesu Christ, wahr' Mensch und Gott"
+BWV 337 – "Herr, nun lass in Friede"
+BWV 338 – "Herr, straf mich nicht in deinem Zorn"
+BWV 339 – "Wer in dem Schutz des Höchsten ist" (or) "Herr, wie du willt, so schicks mit mir"
+BWV 340 – "Herzlich lieb hab ich dich, o Herr"
+BWV 341 – "Heut ist, o Mensch, ein großer Trauertag"
+BWV 342 – "Heut triumphieret Gottes Sohn"
+BWV 343 – "Hilf, Gott, dass mirs gelinge"
+BWV 344 – "Hilf, Herr Jesu, lass gelingen"
+BWV 345 – "Ich bin ja, Herr, in deiner Macht"
+BWV 346 – "Ich dank dir, Gott, für deine Wohltat"
+BWV 347 – "Ich dank dir, lieber Herre"
+BWV 348 – "Ich dank dir, lieber Herre"
+BWV 349 – "Ich dank dir schon durch deinen Sohn"
+BWV 350 – "Ich danke dir, Herr Gott, in deinem Throne"
+BWV 351 – "Ich hab mein Sach Gott heimgestellt"
+BWV 352 – "Jesu, der du meine Seele"
+BWV 353 – "Jesu, der du meine Seele"
+BWV 354 – "Jesu, der du meine Seele"
+BWV 355 – "Jesu, der du selbsten wohl"
+BWV 356 – "Jesu, du mein liebstes Leben"
+BWV 357 – "Jesu, Jesu, du bist mein"
+BWV 358 – "Jesu, meine Freude"
+BWV 359 – "Jesu, meiner Seelen Wonne"
+BWV 360 – "Jesu, meiner Seelen Wonne"
+BWV 361 – "Jesu, meines Herzens Freud"
+BWV 362 – "Jesu, nun sei gepreiset"
+BWV 363 – "Jesus Christus, unser Heiland"
+BWV 364 – "Jesus Christus, unser Heiland, der den Tod überwand"
+BWV 365 – "Jesus, meine Zuversicht"
+BWV 366 – "Ihr Gestirn, ihr hohlen Lüfte"
+BWV 367 – "In allen meinen Taten"
+BWV 368 – "In dulci jubilo"
+BWV 369 – "Keinen hat Gott verlassen"
+BWV 370 – "Komm, Gott Schöpfer, Heiliger Geist"
+BWV 371 – "Kyrie, Gott Vater in Ewigkeit"
+BWV 372 – "Lass, o Herr, dein Ohr sich neigen"
+BWV 373 – "Liebster Jesu, wir sind hier"
+BWV 374 – "Lobet den Herren, denn er ist sehr freundlich"
+BWV 375 – "Lobt Gott, ihr Christen, allzugleich"
+BWV 376 – "Lobt Gott, ihr Christen allzugleich"
+BWV 377 – "Machs mit mir, Gott, nach deiner Güt"
+BWV 378 – "Mein Augen schließ ich jetzt in Gottes Namen zu"
+BWV 379 – "Meinen Jesum laß ich nicht"
+BWV 380 – "Meinen Jesum laß ich nicht"
+BWV 381 – "Meines Lebens letzte Zeit"
+BWV 382 – "Mit Fried und Freud ich fahr dahin"
+BWV 383 – "Mitten wir im Leben sind"
+BWV 384 – "Nicht so traurig, nicht so sehr"
+BWV 385 – "Nun bitten wir den Heiligen Geist"
+BWV 386 – "Nun danket alle Gott"
+BWV 387 – "Nun freut euch, Gottes Kinder all"
+BWV 388 – "Nun freut euch, lieben Christen gmein"
+BWV 389 – "Nun lob, mein Seel, den Herren"
+BWV 390 – "Nun lob, mein Seel, den Herren"
+BWV 391 – "Nun preiset alle Gottes Barmherzigkeit"
+BWV 392 – "Nun ruhen alle Wälder"
+BWV 393 – "O Welt, sieh hier dein Leben"
+BWV 394 – "O Welt, sieh hier dein Leben"
+BWV 395 – "O Welt, sieh hier dein Leben"
+BWV 396 – "Nun sich der Tag geendet hat"
+BWV 397 – "O Ewigkeit, du Donnerwort"
+BWV 398 – "O Gott, du frommer Gott"
+BWV 399 – "O Gott, du frommer Gott"
+BWV 400 – "O Herzensangst"
+BWV 401 – "O Lamm Gottes, unschuldig"
+BWV 402 – "O Mensch, bewein dein Sünde groß"
+BWV 403 – "O Mensch, schau Jesum Christum an"
+BWV 404 – "O Traurigkeit, o Herzeleid"
+BWV 405 – "O wie selig seid ihr doch, ihr Frommen"
+BWV 406 – "O wie selig seid ihr doch, ihr Frommen"
+BWV 407 – "O wir armen Sünder"
+BWV 408 – "Schaut, ihr Sünder"
+BWV 409 – "Seelenbräutigam"
+BWV 410 – "Sei gegrüßet, Jesu gütig"
+BWV 411 – "Singt dem Herrn ein neues Lied"
+BWV 412 – "So gibst du nun, mein Jesu, gute Nacht"
+BWV 413 – "Sollt ich meinem Gott nicht singen"
+BWV 414 – "Uns ist ein Kindlein heut geborn"
+BWV 415 – "Valet will ich dir geben"
+BWV 416 – "Vater unser im Himmelreich"
+BWV 417 – "Von Gott will ich nicht lassen"
+BWV 418 – "Von Gott will ich nicht lassen"
+BWV 419 – "Helft mir Gotts Güte preisen" (or) "Von Gott will ich nicht lassen"
+BWV 420 – "Warum betrübst du dich, mein Herz"
+BWV 421 – "Warum betrübst du dich, mein Herz"
+BWV 422 – "Warum sollt ich mich denn grämen"
+BWV 423 – "Was betrübst du dich, mein Herze"
+BWV 424 – "Was bist du doch, o Seele, so betrübet"
+BWV 425 – "Was willst du dich, o meine Seele, kränken"
+BWV 426 – "Weltlich Ehr und zeitlich Gut"
+BWV 427 – "Wenn ich in Angst und Not"
+BWV 428 – "Wenn mein Stündlein vorhanden ist"
+BWV 429 – "Wenn mein Stündlein vorhanden ist"
+BWV 430 – "Wenn mein Stündlein verhanden ist"
+BWV 431 – "Wenn wir in höchsten Nöten sein"
+BWV 432 – "Wenn wir in höchsten Nöten sein"
+BWV 433 – "Wer Gott vertraut, hat wohl gebaut"
+BWV 434 – "Wer weiß, wie nahe mir mein Ende" (or) "Wer nur den lieben Gott lässt walten"
+BWV 435 – "Wie bist du, Seele, in mir so gar betrübt"
+BWV 436 – "Wie schön leuchtet der Morgenstern"
+BWV 437 – "Wir glauben all an einen Gott"
+BWV 438 – "Wo Gott zum Haus nicht gibt sein Gunst"
 BWV 439 – "Ach, dass nicht die letzte Stunde"  (aria)
 BWV 440 – "Auf, auf! die rechte Zeit ist hier"  (aria)
 BWV 441 – "Auf! auf! mein Herz, mit Freuden"    (aria)
@@ -504,7 +503,7 @@ BWV 504 – "Vergiss mein nicht, dass ich dein nicht"  (aria)
 BWV 505 – "Vergiss mein nicht, vergiss mein nicht"  (aria)
 BWV 506 – "Was bist du doch, o Seele, so betrübet"  (aria)
 BWV 507 – "Wo ist mein Schäflein, das ich liebe"  (aria)
-BWV 508 – "Bist du bei mir" (arrangement of an aria by Gottfried Heinrich Stölzel) 
+BWV 508 – "Bist du bei mir"
 BWV 509 – "Gedenke doch, mein Geist" (aria) 
 BWV 510 – "Gib dich zufrieden" (chorale prelude) 
 BWV 511 – "Gib dich zufrieden" (chorale prelude) 
@@ -529,26 +528,26 @@ BWV 529 – Organ Sonata No. 5 in C major
 BWV 530 – Organ Sonata No. 6 in G major
 BWV 531 – Prelude and Fugue in C major
 BWV 532 – Prelude and Fugue in D major
-BWV 533 – Prelude and Fugue in E minor ("Cathedral")
+BWV 533 – Prelude and Fugue in E minor
 BWV 534 – Prelude and Fugue in F minor
 BWV 535 – Prelude and Fugue in G minor
 BWV 536 – Prelude and Fugue in A major
 BWV 537 – Fantasia and Fugue in C minor
-BWV 538 – Toccata and Fugue in D minor ("Dorian")
-BWV 539 – Prelude and Fugue in D minor ("Fiddle"; Fugue exists in a variant for violin and one for lute, see BWV 1001/2 and 1000 respectively)
+BWV 538 – Toccata and Fugue in D minor
+BWV 539 – Prelude and Fugue in D minor
 BWV 540 – Toccata and Fugue in F major
 BWV 541 – Prelude and Fugue in G major
-BWV 542 – Fantasia and Fugue in G minor ("Great")
+BWV 542 – Fantasia and Fugue in G minor
 BWV 543 – Prelude and Fugue in A minor
 BWV 544 – Prelude and Fugue in B minor
 BWV 545 – Prelude and Fugue in C major
 BWV 546 – Prelude and Fugue in C minor
-BWV 547 – Prelude and Fugue in C major ("9/8")
-BWV 548 – Prelude and Fugue in E minor ("Wedge")
+BWV 547 – Prelude and Fugue in C major
+BWV 548 – Prelude and Fugue in E minor
 BWV 549 – Prelude and Fugue in C minor
 BWV 550 – Prelude and Fugue in G major
 BWV 551 – Prelude and Fugue in A minor
-BWV 552 – Prelude and Fugue in E-flat major ("St. Anne") 
+BWV 552 – Prelude and Fugue in E-flat major
 BWV 553 – Eight Short Preludes and Fugues No. 1: Prelude and Fugue in C major 
 BWV 554 – Eight Short Preludes and Fugues No. 2: Prelude and Fugue in D minor 
 BWV 555 – Eight Short Preludes and Fugues No. 3: Prelude and Fugue in E minor 
@@ -562,92 +561,92 @@ BWV 562 – Fantasia and Fugue in C minor
 BWV 563 – Fantasia (and Imitatio) in B minor
 BWV 564 – Toccata, Adagio and Fugue in C major
 BWV 565 – Toccata and Fugue in D minor
-BWV 566 – Toccata and Fugue in E major (earliest extant manuscripts present this work in C major)
-BWV 567 – Prelude in C major  (possibly by Johann Ludwig Krebs)
-BWV 568 – Prelude in G major (doubtful)
+BWV 566 – Toccata and Fugue in E major
+BWV 567 – Prelude in C major
+BWV 568 – Prelude in G major
 BWV 569 – Prelude in A minor
 BWV 570 – Fantasia in C major
 BWV 571 – Fantasia (Concerto) in G major 
-BWV 572 – Fantasia in G major (Pièce d'Orgue)
-BWV 573 – Fantasia in C major  ) 
-BWV 574 – Fugue in C minor (on a theme of Legrenzi)
+BWV 572 – Fantasia in G major
+BWV 573 – Fantasia in C major
+BWV 574 – Fugue in C minor
 BWV 575 – Fugue in C minor
 BWV 576 – Fugue in G major 
-BWV 577 – Fugue in G major ("à la Gigue") 
-BWV 578 – Fugue in G minor ("Little")
-BWV 579 – Fugue in B minor (on a theme from Arcangelo Corelli's Op. 3, No. 4)
+BWV 577 – Fugue in G major 
+BWV 578 – Fugue in G minor
+BWV 579 – Fugue in B minor
 BWV 580 – Fugue in D major 
 BWV 581 – Fugue in G major 
 BWV 582 – Passacaglia and Fugue in C minor
 BWV 583 – Trio in D minor
-BWV 584 – Trio in G minor (variant of BWV 166/2) 
-BWV 585 – Trio in C minor (after Johann Friedrich Fasch)
-BWV 586 – Trio in G major (possibly after Georg Philipp Telemann)
-BWV 587 – Aria in F major (after François Couperin)
+BWV 584 – Trio in G minor
+BWV 585 – Trio in C minor
+BWV 586 – Trio in G major
+BWV 587 – Aria in F major
 BWV 588 – Canzona in D minor
 BWV 589 – Alla breve in D major
 BWV 590 – Pastorella in F major
-BWV 591 – Little Harmonic Labyrinth (possibly by Johann David Heinichen)
-BWV 592 – Concerto in G major, after a Violin Concerto in G major by Prince Johann Ernst of Saxe-Weimar
-BWV 592a – Concerto in G major (an arrangement of BWV 592 for harpsichord)
-BWV 593 – Concerto in A minor, after Antonio Vivaldi's Concerto in A minor for two violins and strings, Op. 3 No. 8 (RV 522)
-BWV 594 – Concerto in C major, after Antonio Vivaldi's Grosso Mogul Violin Concerto in D major, RV 208
-BWV 595 – Concerto in C major (arrangement for organ of the first movement of BWV 984)
-BWV 596 – Concerto in D minor, after Antonio Vivaldi's Concerto in D minor for two violins, cello and strings, Op. 3 No. 11 (RV 565)
+BWV 591 – Little Harmonic Labyrinth
+BWV 592 – Concerto in G major
+BWV 592a – Concerto in G major
+BWV 593 – Concerto in A minor
+BWV 594 – Concerto in C major
+BWV 595 – Concerto in C major
+BWV 596 – Concerto in D minor
 BWV 597 – Concerto in E-flat major
 BWV 598 – Pedal Exercise in G minor
-BWV 599 – Nun komm, der Heiden Heiland (chorale prelude No. 1 from Orgelbüchlein)
-BWV 600 – Gott, durch deine Güte (or) Gottes Sohn ist kommen (chorale prelude No. 2 from Orgelbüchlein)
-BWV 601 – Herr Christ, der einge Gottessohn (or) Herr Gott, nun sei gepreiset (chorale prelude No. 3 from Orgelbüchlein)
-BWV 602 – Lob sei dem allmächtigen Gott (chorale prelude No. 4 from Orgelbüchlein)
-BWV 603 – Puer natus in Bethlehem (chorale prelude No. 5 from Orgelbüchlein)
-BWV 604 – Gelobet seist du, Jesu Christ (chorale prelude No. 6 from Orgelbüchlein)
-BWV 605 – Der Tag, der ist so freudenreich (chorale prelude No. 7 from Orgelbüchlein)
-BWV 606 – Vom Himmel hoch, da komm ich her (chorale prelude No. 8 from Orgelbüchlein)
-BWV 607 – Vom Himmel kam der Engel Schar (chorale prelude No. 9 from Orgelbüchlein)
-BWV 608 – In dulci jubilo (chorale prelude No. 10 from Orgelbüchlein)
-BWV 609 – Lobt Gott, ihr Christen, allzugleich (chorale prelude No. 11 from Orgelbüchlein)
-BWV 610 – Jesu, meine Freude (chorale prelude No. 12 from Orgelbüchlein)
-BWV 611 – Christum wir sollen loben schon (chorale prelude No. 13 from Orgelbüchlein)
-BWV 612 – Wir Christenleut' (chorale prelude No. 14 from Orgelbüchlein)
-BWV 613 – Helft mir Gottes Güte preisen (chorale prelude No. 15 from Orgelbüchlein)
-BWV 614 – Das alte Jahr vergangen ist (chorale prelude No. 16 from Orgelbüchlein)
-BWV 615 – In dir ist Freude (chorale prelude No. 17 from Orgelbüchlein)
-BWV 616 – Mit Fried und Freud ich fahr dahin (chorale prelude No. 18 from Orgelbüchlein)
-BWV 617 – Herr Gott, nun schleuß den Himmel auf (chorale prelude No. 19 from Orgelbüchlein)
-BWV 618 – O Lamm Gottes, unschuldig (chorale prelude No. 20 from Orgelbüchlein)
-BWV 619 – Christe, du Lamm Gottes (chorale prelude No. 21 from Orgelbüchlein)
-BWV 620 – Christus, der uns selig macht (chorale prelude No. 22 from Orgelbüchlein)
-BWV 621 – Da Jesus an dem Kreuze stund (chorale prelude No. 23 from Orgelbüchlein)
-BWV 622 – O Mensch, bewein dein Sünde groß (chorale prelude No. 24 from Orgelbüchlein)
-BWV 623 – Wir danken dir, Herr Jesu Christ (chorale prelude No. 25 from Orgelbüchlein)
-BWV 624 – Hilf Gott, daß mir's gelinge (chorale prelude No. 26 from Orgelbüchlein)
-BWV 625 – Christ lag in Todesbanden (chorale prelude No. 27 from Orgelbüchlein)
-BWV 626 – Jesus Christus, unser Heiland (chorale prelude No. 28 from Orgelbüchlein)
-BWV 627 – Christ ist erstanden (chorale prelude No. 29 from Orgelbüchlein)
-BWV 628 – Erstanden ist der heil'ge Christ (chorale prelude No. 30 from Orgelbüchlein)
-BWV 629 – Erschienen ist der herrliche Tag (chorale prelude No. 31 from Orgelbüchlein)
-BWV 630 – Heut triumphieret Gottes Sohn (chorale prelude No. 32 from Orgelbüchlein)
-BWV 631 – Komm, Gott Schöpfer, Heiliger Geist (chorale prelude No. 33 from Orgelbüchlein)\nBWV 631a – Komm, Gott Schöpfer, Heiliger Geist (earlier version of BWV 631)
-BWV 632 – Herr Jesu Christ, dich zu uns wend' (chorale prelude No. 34 from Orgelbüchlein)
-BWV 633 – Liebster Jesu, wir sind hier (chorale prelude No. 36 from Orgelbüchlein)
-BWV 634 – Liebster Jesu, wir sind hier (chorale prelude No. 35 from Orgelbüchlein, earlier version of BWV 633)
-BWV 635 – Dies sind die heil'gen zehn Gebot' (chorale prelude No. 37 from Orgelbüchlein)
-BWV 636 – Vater unser im Himmelreich (chorale prelude No. 38 from Orgelbüchlein)
-BWV 637 – Durch Adams Fall ist ganz verderbt (chorale prelude No. 39 from Orgelbüchlein)
-BWV 638 – Es ist das Heil uns kommen her (chorale prelude No. 40 from Orgelbüchlein)\nBWV 638a – Es ist das Heil uns kommen her (earlier version of BWV 638)
-BWV 639 – Ich ruf zu dir, Herr Jesu Christ (chorale prelude No. 41 from Orgelbüchlein; also in the Neumeister Collection)
-BWV 640 – In dich hab ich gehoffet, Herr (chorale prelude No. 42 from Orgelbüchlein)
-BWV 641 – Wenn wir in höchsten Nöten sein (chorale prelude No. 43 from Orgelbüchlein)
-BWV 642 – Wer nur den lieben Gott läßt walten (chorale prelude No. 44 from Orgelbüchlein)
-BWV 643 – Alle Menschen müssen sterben (chorale prelude No. 45 from Orgelbüchlein)
-BWV 644 – Ach wie nichtig, ach wie flüchtig (chorale prelude No. 46 from Orgelbüchlein)
-BWV 645 – Wachet auf, ruft uns die Stimme (Schübler Chorales No. 1)
-BWV 646 – Wo soll ich fliehen hin (or) Auf meinen lieben Gott (Schübler Chorales No. 2)
-BWV 647 – Wer nur den lieben Gott läßt walten (Schübler Chorales No. 3)
-BWV 648 – Meine Seele erhebt den Herren (Schübler Chorales No. 4)
-BWV 649 – Ach, bleib bei uns, Herr Jesu Christ (Schübler Chorales No. 5)
-BWV 650 – Kommst du nun, Jesu, vom Himmel herunter (Schübler Chorales No. 6)
+BWV 599 – Nun komm, der Heiden Heiland
+BWV 600 – Gott, durch deine Güte 
+BWV 601 – Herr Christ, der einge Gottessohn
+BWV 602 – Lob sei dem allmächtigen Gott
+BWV 603 – Puer natus in Bethlehem
+BWV 604 – Gelobet seist du, Jesu Christ (chorale prelude)
+BWV 605 – Der Tag, der ist so freudenreich (chorale prelude)
+BWV 606 – Vom Himmel hoch, da komm ich her (chorale prelude)
+BWV 607 – Vom Himmel kam der Engel Schar (chorale prelude)
+BWV 608 – In dulci jubilo (chorale prelude)
+BWV 609 – Lobt Gott, ihr Christen, allzugleich (chorale prelude)
+BWV 610 – Jesu, meine Freude (chorale prelude)
+BWV 611 – Christum wir sollen loben schon (chorale prelude)
+BWV 612 – Wir Christenleut' (chorale prelude)
+BWV 613 – Helft mir Gottes Güte preisen (chorale prelude)
+BWV 614 – Das alte Jahr vergangen ist (chorale prelude)
+BWV 615 – In dir ist Freude (chorale prelude)
+BWV 616 – Mit Fried und Freud ich fahr dahin (chorale prelude)
+BWV 617 – Herr Gott, nun schleuß den Himmel auf (chorale prelude)
+BWV 618 – O Lamm Gottes, unschuldig (chorale prelude)
+BWV 619 – Christe, du Lamm Gottes (chorale prelude)
+BWV 620 – Christus, der uns selig macht (chorale prelude)
+BWV 621 – Da Jesus an dem Kreuze stund (chorale prelude)
+BWV 622 – O Mensch, bewein dein Sünde groß (chorale prelude)
+BWV 623 – Wir danken dir, Herr Jesu Christ (chorale prelude)
+BWV 624 – Hilf Gott, daß mir's gelinge (chorale prelude)
+BWV 625 – Christ lag in Todesbanden (chorale prelude)
+BWV 626 – Jesus Christus, unser Heiland (chorale prelude)
+BWV 627 – Christ ist erstanden (chorale prelude)
+BWV 628 – Erstanden ist der heil'ge Christ (chorale prelude)
+BWV 629 – Erschienen ist der herrliche Tag (chorale prelude)
+BWV 630 – Heut triumphieret Gottes Sohn (chorale prelude)
+BWV 631 – Komm, Gott Schöpfer, Heiliger Geist (chorale prelude)
+BWV 632 – Herr Jesu Christ, dich zu uns wend' (chorale prelude)
+BWV 633 – Liebster Jesu, wir sind hier (chorale prelude)
+BWV 634 – Liebster Jesu, wir sind hier (chorale prelude)
+BWV 635 – Dies sind die heil'gen zehn Gebot' (chorale prelude)
+BWV 636 – Vater unser im Himmelreich (chorale prelude)
+BWV 637 – Durch Adams Fall ist ganz verderbt (chorale prelude)
+BWV 638 – Es ist das Heil uns kommen her (chorale prelude)
+BWV 639 – Ich ruf zu dir, Herr Jesu Christ (chorale prelude)
+BWV 640 – In dich hab ich gehoffet, Herr (chorale prelude)
+BWV 641 – Wenn wir in höchsten Nöten sein (chorale prelude)
+BWV 642 – Wer nur den lieben Gott läßt walten (chorale prelude)
+BWV 643 – Alle Menschen müssen sterben (chorale prelude)
+BWV 644 – Ach wie nichtig, ach wie flüchtig (chorale prelude)
+BWV 645 – Wachet auf, ruft uns die Stimme (chorale prelude)
+BWV 646 – Wo soll ich fliehen hin (chorale)
+BWV 647 – Wer nur den lieben Gott läßt walten (chorale)
+BWV 648 – Meine Seele erhebt den Herren (chorale)
+BWV 649 – Ach, bleib bei uns, Herr Jesu Christ (chorale)
+BWV 650 – Kommst du nun, Jesu, vom Himmel herunter (chorale)
 BWV 651 – Fantasia super "Komm, Heiliger Geist, Herre Gott" (Great Eighteen Chorale Preludes No. 1)
 BWV 652 – Komm, Heiliger Geist, Herre Gott (Great Eighteen Chorale Preludes No. 2)
 BWV 653 – An Wasserflüssen Babylon (Great Eighteen Chorale Preludes No. 3)
@@ -666,31 +665,29 @@ BWV 665 – Jesus Christus, unser Heiland (Great Eighteen Chorale Preludes No. 1
 BWV 666 – Jesus Christus, unser Heiland, alio modo (Great Eighteen Chorale Preludes No. 16)
 BWV 667 – Komm, Gott Schöpfer, heiliger Geist (Great Eighteen Chorale Preludes No. 17)
 BWV 668 – Vor deinen Thron tret' ich (fragment; Great Eighteen Chorale Preludes No. 18)
-BWV 669 – Kyrie, Gott Vater in Ewigkeit (chorale prelude: large version, i.e. with pedal) 
-BWV 670 – Christe, aller Welt Trost (chorale prelude: large version) 
-BWV 671 – Kyrie, Gott heiliger Geist (chorale prelude: large version) 
-BWV 672 – Kyrie, Gott Vater in Ewigkeit (chorale prelude: small version, i.e. for single keyboard) 
-BWV 673 – Christe, aller Welt Trost (chorale prelude: small version) 
-BWV 674 – Kyrie, Gott heiliger Geist (chorale prelude: small version) 
+BWV 669 – Kyrie, Gott Vater in Ewigkeit (chorale prelude)
+BWV 670 – Christe, aller Welt Trost (chorale prelude) 
+BWV 671 – Kyrie, Gott heiliger Geist (chorale prelude) 
+BWV 672 – Kyrie, Gott Vater in Ewigkeit (chorale prelude)
+BWV 673 – Christe, aller Welt Trost (chorale prelude) 
+BWV 674 – Kyrie, Gott heiliger Geist (chorale prelude) 
 BWV 675 – Allein Gott in der Höh' sei Ehr' (chorale prelude) 
-BWV 676 – Allein Gott in der Höh' sei Ehr' (chorale prelude: large version)
-BWV 677 – Fughetta super "Allein Gott in der Höh' sei Ehr'" (chorale prelude: small version) 
-BWV 678 – Dies sind die heil'gen zehn Gebot' (chorale prelude: large version) 
-BWV 679 – Fughetta super "Dies sind die heil'gen zehn Gebot'" (chorale prelude: small version) 
-BWV 680 – Wir glauben all an einen Gott (chorale prelude: large version) 
-BWV 681 – Fughetta super "Wir glauben all an einen Gott" (chorale prelude: small version) 
-BWV 682 – Vater unser im Himmelreich (chorale prelude: large version) 
-BWV 683 – Vater unser im Himmelreich (chorale prelude: small version)
-BWV 684 – Christ unser Herr zum Jordan kam (chorale prelude: large version) 
-BWV 685 – Christ unser Herr zum Jordan kam alio modo (chorale prelude: small version) 
-BWV 686 – Aus tiefer Not schrei ich zu dir (chorale prelude: large version) 
-BWV 687 – Aus tiefer Not schrei ich zu dir (chorale prelude: small version) 
-BWV 688 – Jesus Christus, unser Heiland, der von uns den Zorn Gottes wandt (chorale prelude: large version) 
-BWV 689 – Fuga super "Jesus Christus, unser Heiland" (chorale prelude: small version) 
-BWV 690 – Wer nur den lieben Gott läßt walten (chorale prelude)
-BWV 691 – Wer nur den lieben Gott läßt walten (chorale prelude)  
-BWV 692 – Ach, Gott und Herr  (chorale prelude from the Kirnberger collection; composed by Johann Gottfried Walther)
-BWV 693 – Ach, Gott und Herr  (chorale prelude from the Kirnberger collection; composed by Johann Gottfried Walther)
+BWV 676 – Allein Gott in der Höh' sei Ehr' (chorale prelude)
+BWV 677 – Fughetta super "Allein Gott in der Höh' sei Ehr'" (chorale prelude)
+BWV 678 – Dies sind die heil'gen zehn Gebot' (chorale prelude) 
+BWV 679 – Fughetta super "Dies sind die heil'gen zehn Gebot'" (chorale prelude) 
+BWV 680 – Wir glauben all an einen Gott (chorale prelude) 
+BWV 681 – Fughetta super "Wir glauben all an einen Gott" (chorale prelude) 
+BWV 682 – Vater unser im Himmelreich (chorale prelude) 
+BWV 683 – Vater unser im Himmelreich (chorale prelude)
+BWV 684 – Christ unser Herr zum Jordan kam (chorale prelude) 
+BWV 685 – Christ unser Herr zum Jordan kam alio modo (chorale prelude) 
+BWV 686 – Aus tiefer Not schrei ich zu dir (chorale prelude) 
+BWV 687 – Aus tiefer Not schrei ich zu dir (chorale prelude) 
+BWV 688 – Jesus Christus, unser Heiland, der von uns den Zorn Gottes wandt (chorale prelude) 
+BWV 689 – Fuga super "Jesus Christus, unser Heiland" (chorale prelude) 
+BWV 692 – Ach, Gott und Herr  (chorale prelude)
+BWV 693 – Ach, Gott und Herr  (chorale prelude)
 BWV 694 – Wo soll ich fliehen hin (chorale prelude)
 BWV 695 – Fantasia super "Christ lag in Todesbanden" (chorale prelude)
 BWV 696 – Fughetta super "Christum wir sollen loben schon" (chorale prelude)
@@ -699,29 +696,29 @@ BWV 698 – Fughetta super "Herr Christ, der ein'ge Gottes-Sohn" (chorale prelud
 BWV 699 – Fughetta super "Nun komm, der Heiden Heiland" (chorale prelude)
 BWV 700 – Vom Himmel hoch, da komm' ich her (chorale prelude)
 BWV 701 – Fughetta super "Vom Himmel hoch, da komm' ich her" (chorale prelude)
-BWV 702 – Fughetta super "Das Jesulein soll doch mein Trost" (chorale prelude from the Kirnberger collection; possibly by Johann Ludwig Krebs)
+BWV 702 – Fughetta super "Das Jesulein soll doch mein Trost" (chorale prelude)
 BWV 703 – Fughetta super "Gottes-Sohn ist kommen" (chorale prelude)
 BWV 704 – Fughetta super "Lob sei dem allmächtigen Gott" (chorale prelude)
 BWV 705 – Durch Adams Fall ist ganz verderbt (chorale prelude)
-BWV 706 – Liebster Jesu, wir sind hier (two versions; chorale prelude from the Kirnberger collection)
-BWV 707 – Ich hab' mein' Sach' Gott heimgestellt (chorale prelude from the Kirnberger collection; doubtful)
-BWV 708 – Ich hab' mein' Sach' Gott heimgestellt alio modo (chorale prelude from the Kirnberger collection; doubtful)\nBWV 708a – Ich hab' mein' Sach' Gott heimgestellt (variant of BWV 708; doubtful)
+BWV 706 – Liebster Jesu, wir sind hier (chorale prelude)
+BWV 707 – Ich hab' mein' Sach' Gott heimgestellt (chorale prelude)
+BWV 708 – Ich hab' mein' Sach' Gott heimgestellt alio modo (chorale prelude)
 BWV 709 – Herr Jesu Christ, dich zu uns wend' (chorale prelude)
 BWV 710 – Wir Christenleut' (chorale prelude)
-BWV 711 – Allein Gott in der Höh' sei Ehr' (bicinium; chorale prelude from the Kirnberger collection)
+BWV 711 – Allein Gott in der Höh' sei Ehr' (chorale prelude)
 BWV 712 – In dich hab' ich gehoffet   (chorale prelude)
 BWV 713 – Fantasia super "Jesu, meine Freude" (chorale prelude)
-BWV 714 – Ach Gott und Herr (chorale prelude; also in the Neumeister Collection)
+BWV 714 – Ach Gott und Herr (chorale prelude)
 BWV 715 – Allein Gott in der Höh sei Ehr (chorale prelude)
 BWV 716 – Fuga super "Allein Gott in der Höh sei Ehr" (chorale prelude)
 BWV 717 – Allein Gott in der Höh sei Ehr' (chorale prelude)
 BWV 718 – Christ lag in Todesbanden (chorale prelude)
-BWV 719 – Der Tag, der ist so freudenreich (chorale prelude; also in the Neumeister Collection)
+BWV 719 – Der Tag, der ist so freudenreich (chorale prelude)
 BWV 720 – Ein feste Burg ist unser Gott (chorale prelude)
 BWV 721 – Erbarm dich mein, o Herre Gott (chorale prelude)
 BWV 722 – Gelobet seist du, Jesu Christ (chorale prelude)
 BWV 723 – Gelobet seist du, Jesu Christ (chorale prelude)
-BWV 724 – Gott, durch deine Güte (or) Gottes Sohn ist kommen (chorale prelude)
+BWV 724 – Gott, durch deine Güte (chorale prelude)
 BWV 725 – Herr Gott, dich loben wir (chorale prelude)
 BWV 726 – Herr Jesu Christ, dich zu uns wend (chorale prelude)
 BWV 727 – Herzlich tut mich verlangen (chorale prelude)
@@ -734,21 +731,17 @@ BWV 733 – Fuga sopra il Magnificat   (chorale prelude)
 BWV 734 – Nun freut euch, lieben Christen (or) Es ist gewisslich an der Zeit (chorale prelude)
 BWV 735 – Valet will ich dir geben (chorale prelude)
 BWV 736 – Valet will ich dir geben (chorale prelude)
-BWV 737 – Vater unser im Himmelreich (chorale prelude; also in the Neumeister Collection)
+BWV 737 – Vater unser im Himmelreich (chorale prelude)
 BWV 738 – Von Himmel hoch, da komm' ich her (chorale prelude)
 BWV 739 – Wie schön leuchtet der Morgenstern (chorale prelude)
 BWV 740 – Wir glauben all' an einen Gott, Vater (chorale prelude)
 BWV 741 – Ach Gott, von Himmel sieh' darein (chorale prelude)
-BWV 742 – Ach Herr, mich armen Sünder (chorale prelude; also in the Neumeister Collection)
+BWV 742 – Ach Herr, mich armen Sünder (chorale prelude)
 BWV 743 – Ach, was ist doch unser Leben (chorale prelude)
-BWV 744 – Auf meinen lieben Gott (chorale prelude by Johann Tobias Krebs)
-BWV 745 – Aus der Tiefe rufe ich (chorale prelude; possibly by Carl Philipp Emanuel Bach)
-BWV 746 – Christ ist erstanden (chorale prelude by Johann Caspar Ferdinand Fischer) 
+BWV 744 – Auf meinen lieben Gott (chorale prelude)
 BWV 747 – Christus, der uns selig macht (chorale prelude)
-BWV 748 – Gott der Vater wohn' uns bei (chorale prelude by Johann Gottfried Walther) 
 BWV 749 – Herr Jesu Christ, dich zu uns wend' (chorale prelude)
 BWV 750 – Herr Jesu Christ, mein's Lebens Licht (chorale prelude)
-BWV 751 – In dulci jubilo (chorale prelude by Johann Michael Bach) 
 BWV 752 – Jesu, der du meine Seele (chorale prelude)
 BWV 753 – Jesu, meine Freude (chorale prelude; fragment) 
 BWV 754 – Liebster Jesu, wir sind hier (chorale prelude)
@@ -756,9 +749,6 @@ BWV 755 – Nun freut euch, lieben Christen (chorale prelude)
 BWV 756 – Nun ruhen alle Wälder (chorale prelude)
 BWV 757 – O Herre Gott, dein göttlich's Wort (chorale prelude)
 BWV 758 – O Vater, allmächtiger Gott (chorale prelude)
-BWV 759 – Schmücke dich, o liebe Seele (chorale prelude by Gottfried August Homilius) 
-BWV 760 – Vater unser im Himmelreich (chorale prelude by Georg Böhm) 
-BWV 761 – Vater unser im Himmelreich (chorale prelude by Georg Böhm) 
 BWV 762 – Vater unser im Himmelreich (chorale prelude)
 BWV 763 – Wie schön leuchtet der Morgenstern (chorale prelude)
 BWV 764 – Wie schön leuchtet der Morgenstern (chorale prelude)
@@ -766,13 +756,12 @@ BWV 765 – Wir glauben all' an einen Gott (chorale prelude)
 BWV 766 – Christ, der du bist der helle Tag (chorale partita)
 BWV 767 – O Gott, du frommer Gott (chorale partita)
 BWV 768 – Sei gegrüsset, Jesu gütig (chorale partita)
-BWV 769 – Canonic Variations on "Vom Himmel hoch da komm' ich her" (as published by the composer)
+BWV 769 – Canonic Variations on "Vom Himmel hoch da komm' ich her"
 BWV 770 – Ach, was soll ich Sünder machen (chorale variations)
-BWV 771 – Allein Gott in der Höh' sei Ehr' (chorale variations by Andreas Nicolaus Vetter) 
 BWV 772 – Two-Part Invention No. 1 in C major
 BWV 773 – Two-Part Invention No. 2 in C minor 
 BWV 774 – Two-Part Invention No. 3 in D major 
-BWV 775 – Two-Part Invention No. 4 in D minor  (audio excerpt)
+BWV 775 – Two-Part Invention No. 4 in D minor
 BWV 776 – Two-Part Invention No. 5 in E-flat major 
 BWV 777 – Two-Part Invention No. 6 in E major 
 BWV 778 – Two-Part Invention No. 7 in E minor 
@@ -781,7 +770,7 @@ BWV 780 – Two-Part Invention No. 9 in F minor
 BWV 781 – Two-Part Invention No. 10 in G major 
 BWV 782 – Two-Part Invention No. 11 in G minor 
 BWV 783 – Two-Part Invention No. 12 in A major 
-BWV 784 – Two-Part Invention No. 13 in A minor  (audio)
+BWV 784 – Two-Part Invention No. 13 in A minor
 BWV 785 – Two-Part Invention No. 14 in B-flat major 
 BWV 786 – Two-Part Invention No. 15 in B minor 
 BWV 787 – Sinfonia No. 1 in C major 
@@ -821,7 +810,6 @@ BWV 820 – Overture (Suite) in F major
 BWV 821 – Suite in B-flat major 
 BWV 822 – Suite in G minor
 BWV 823 – Suite in F minor
-BWV 824 – Suite in A major  (by Georg Philipp Telemann, TWV 32:14) 
 BWV 825 – Partita No. 1 in B-flat major
 BWV 826 – Partita No. 2 in C minor
 BWV 827 – Partita No. 3 in A minor 
@@ -834,10 +822,9 @@ BWV 833 – Prelude and Partita in F major
 BWV 834 – Allemande in C minor 
 BWV 835 – Allemande in A minor 
 BWV 836 – Allemande in G minor 
-BWV 837 – Allemande in G minor  ) 
+BWV 837 – Allemande in G minor
 BWV 838 – Allemande and Courante in A major 
 BWV 839 – Sarabande in G minor 
-BWV 840 – Courante in G major (2nd movement of Georg Philipp Telemann's Ouverture in G major, TWV 32:13) 
 BWV 841 – Minuet in G major  
 BWV 842 – Minuet in G minor 
 BWV 843 – Minuet in G major 
@@ -850,7 +837,7 @@ BWV 849 – Well-Tempered Clavier, Book 1: Prelude and Fugue No. 4 in C-sharp mi
 BWV 850 – Well-Tempered Clavier, Book 1: Prelude and Fugue No. 5 in D major
 BWV 851 – Well-Tempered Clavier, Book 1: Prelude and Fugue No. 6 in D minor
 BWV 852 – Well-Tempered Clavier, Book 1: Prelude and Fugue No. 7 in E-flat major
-BWV 853 – Well-Tempered Clavier, Book 1: Prelude and Fugue No. 8 in E-flat minor (The fugue of this work is actually in D-sharp minor, the enharmonic key of E-flat minor) 
+BWV 853 – Well-Tempered Clavier, Book 1: Prelude and Fugue No. 8 in E-flat minor
 BWV 854 – Well-Tempered Clavier, Book 1: Prelude and Fugue No. 9 in E major 
 BWV 855 – Well-Tempered Clavier, Book 1: Prelude and Fugue No. 10 in E minor
 BWV 856 – Well-Tempered Clavier, Book 1: Prelude and Fugue No. 11 in F major 
@@ -900,9 +887,9 @@ BWV 899 – Prelude and Fughetta in D minor
 BWV 900 – Prelude and Fughetta in E minor
 BWV 901 – Prelude and Fughetta in F major
 BWV 902 – Prelude and Fughetta in G major
-BWV 902a – Prelude in G major (alternative version of BWV 902)
+BWV 902a – Prelude in G major
 BWV 903 – Chromatic Fantasia and Fugue in D minor
-BWV 903a – Chromatic Fantasia in D minor (alternative version of BWV 903)
+BWV 903a – Chromatic Fantasia in D minor
 BWV 904 – Fantasia and Fugue in A minor
 BWV 905 – Fantasia and Fugue in D minor 
 BWV 906 – Fantasia and Fugue in C minor 
@@ -922,8 +909,7 @@ BWV 919 – Fantasia in C minor
 BWV 920 – Fantasia in G minor 
 BWV 921 – Prelude in C minor
 BWV 922 – Prelude in A minor
-BWV 923 – Prelude in B minor (possibly by Wilhelm Hieronymus Pachelbel)
-BWV 923a – Prelude in A minor (variant of BWV 923) 
+BWV 923a – Prelude in A minor (variant) 
 BWV 924 – Prelude in C major
 BWV 925 – Prelude in D major 
 BWV 926 – Prelude in D minor 
@@ -932,7 +918,7 @@ BWV 928 – Prelude in F major
 BWV 929 – Trio (or) Prelude in G minor 
 BWV 930 – Prelude in G minor 
 BWV 931 – Prelude in A minor 
-BWV 932 – Prelude in E minor  ) 
+BWV 932 – Prelude in E minor 
 BWV 933 – Six Little Preludes No. 1 in C major
 BWV 934 – Six Little Preludes No. 2 in C minor
 BWV 935 – Six Little Preludes No. 3 in D minor
@@ -952,18 +938,17 @@ BWV 948 – Fugue in D minor
 BWV 949 – Fugue in A major
 BWV 950 – Fugue in A major on a theme by Tomaso Albinoni
 BWV 951 – Fugue in B minor on a theme by Tomaso Albinoni
-BWV 951a – Fugue in B minor (alternative version of BWV 951)
+BWV 951a – Fugue in B minor
 BWV 952 – Fugue in C major
 BWV 953 – Fugue in C major 
 BWV 954 – Fugue in B-flat major on a theme by Johann Adam Reincken
 BWV 955 – Fugue in B-flat major
 BWV 956 – Fugue in E minor 
-BWV 957 – Machs mit mir, Gott, nach deiner Güt (chorale prelude for organ in the Neumeister Collection, previously listed as Fugue in G major)
+BWV 957 – Machs mit mir, Gott, nach deiner Güt (chorale prelude)
 BWV 958 – Fugue in A minor 
 BWV 959 – Fugue in A minor
 BWV 960 – Fugue in E minor 
 BWV 961 – Fughetta in C minor
-BWV 962 – Fughetta in E minor (by Johann Georg Albrechtsberger) 
 BWV 963 – Sonata in D major
 BWV 964 – Sonata in D minor (arrangement of BWV 1003)
 BWV 965 – Sonata in A minor
@@ -996,12 +981,12 @@ BWV 991 – Air with variations in C minor
 BWV 992 – Capriccio sopra la lontananza del suo fratello dilettissimo, in B-flat major
 BWV 993 – Capriccio in honorem Johann Christoph Bachii Ohrdrufiensis  , in E major
 BWV 994 – Applicatio in C major 
-BWV 995 – Lute Suite in G minor (transcription of BWV 1011)
+BWV 995 – Lute Suite in G minor
 BWV 996 – Lute Suite in E minor
 BWV 997 – Lute Suite in C minor
 BWV 998 – Prelude, Fugue and Allegro in E-flat major
 BWV 999 – Prelude in C minor
-BWV 1000 – Fugue in G minor (transcription of Fuga from BWV 1001)
+BWV 1000 – Fugue in G minor
 BWV 1001 – Violin Sonata No. 1 in G minor
 BWV 1002 – Violin Partita No. 1 in B minor
 BWV 1003 – Violin Sonata No. 2 in A minor
@@ -1023,30 +1008,23 @@ BWV 1018 – Sonata in F minor for violin and harpsichord
 BWV 1019 – Sonata in G major for violin and harpsichord
 BWV 1020 – Sonata in G minor for violin and harpsichord
 BWV 1021 – Sonata in G major for violin and basso continuo
-BWV 1022 – Sonata in F major for violin and harpsichord (possibly by Carl Philipp Emanuel Bach) 
 BWV 1023 – Sonata in E minor for violin and basso continuo
 BWV 1024 – Sonata in C minor for violin and basso continuo 
-BWV 1025 – Suite in A major for violin and harpsichord (possibly by Carl Philipp Emanuel Bach)
 BWV 1026 – Fugue in G minor for violin and harpsichord
-BWV 1027 – Sonata No. 1 in G major for viola da gamba and harpsichord (arrangement of BWV 1039)
+BWV 1027 – Sonata No. 1 in G major for viola da gamba and harpsichord
 BWV 1028 – Sonata No. 2 in D major for viola da gamba and harpsichord
 BWV 1029 – Sonata No. 3 in G minor for viola da gamba and harpsichord
 BWV 1030 – Sonata in B minor for flute and harpsichord
-BWV 1031 – Sonata in E-flat major for flute and harpsichord  (possibly by Carl Philipp Emanuel Bach as H 545) 
 BWV 1032 – Sonata in A major for flute and harpsichord
-BWV 1033 – Sonata in C major for flute and basso continuo  (possibly by Carl Philipp Emanuel Bach) 
 BWV 1034 – Sonata in E minor for flute and basso continuo
 BWV 1035 – Sonata in E major for flute and basso continuo
-BWV 1036 – Sonata in D minor for 2 violins and keyboard  (by Carl Philipp Emanuel Bach) 
-BWV 1037 – Sonata in C major for 2 violins and keyboard  (by Johann Gottlieb Goldberg) 
-BWV 1038 – Sonata in G major for flute, violin and keyboard  (possibly by Carl Philipp Emanuel Bach) 
 BWV 1039 – Sonata in G major for 2 flutes and basso continuo
-BWV 1040 – Canonic Trio Sonata in F major, based on material found in BWV 208
+BWV 1040 – Canonic Trio Sonata in F major
 BWV 1041 – Violin Concerto in A minor
 BWV 1042 – Violin Concerto in E major
 BWV 1043 – Concerto for 2 violins in D minor
 BWV 1044 – Concerto for flute, violin and harpsichord in A minor
-BWV 1045 – Violin Concerto movement in D major, abandoned opening movement (sinfonia) to a lost cantata
+BWV 1045 – Violin Concerto movement in D major
 BWV 1046 – Brandenburg Concerto No. 1 in F major
 BWV 1047 – Brandenburg Concerto No. 2 in F major
 BWV 1048 – Brandenburg Concerto No. 3 in G major
@@ -1063,15 +1041,14 @@ BWV 1058 – Concerto for harpsichord and strings in G minor
 BWV 1059 – Concerto for harpsichord in D minor
 BWV 1060 – Concerto for 2 harpsichords and strings in C minor
 BWV 1061 – Concerto for 2 harpsichords and strings in C major
-BWV 1062 – Concerto for 2 harpsichords and strings in C minor (after BWV 1043, Double Violin Concerto in D minor)
+BWV 1062 – Concerto for 2 harpsichords and strings in C minor
 BWV 1063 – Concerto for 3 harpsichords and strings in D minor
 BWV 1064 – Concerto for 3 harpsichords and strings in C major
 BWV 1065 – Concerto for 4 harpsichords and strings in A minor, after Vivaldi's (RV 580)
-BWV 1066 – Orchestral Suite No. 1 in C major (for woodwinds, strings and continuo)
-BWV 1067 – Orchestral Suite No. 2 in B minor (for flute, strings and continuo)
-BWV 1068 – Orchestral Suite No. 3 in D major (for oboes, trumpets, timpani, strings and continuo)
-BWV 1069 – Orchestral Suite No. 4 in D major (for oboes, bassoon, trumpets, timpani, strings and continuo)
-BWV 1070 – Orchestral Suite in G minor (probably by W. F. Bach)
+BWV 1066 – Orchestral Suite No. 1 in C major
+BWV 1067 – Orchestral Suite No. 2 in B minor
+BWV 1068 – Orchestral Suite No. 3 in D major
+BWV 1069 – Orchestral Suite No. 4 in D major
 BWV 1072 – Canon trias harmonica a 8
 BWV 1073 – Canon a 4 perpetuus
 BWV 1074 – Canon a 4
@@ -1081,22 +1058,21 @@ BWV 1077 – Canone doppio sopr'il soggetto
 BWV 1078 – Canon super fa mi a 7 post tempus musicum
 BWV 1079 – Musikalisches Opfer (The Musical Offering)
 BWV 1080 – The Art of Fugue (Die Kunst der Fuge)
-BWV 1081 – Credo intonation in F major for a Mass by Giovanni Battista Bassani (church music in Latin)
-BWV 1082 – Suscepit Israel for Antonio Caldara's Magnificat in C major (church music in Latin) 
+BWV 1081 – Credo intonation in F major for a Mass by Giovanni Battista Bassani 
+BWV 1082 – Suscepit Israel for Antonio Caldara's Magnificat in C major  
 BWV 1083 – Tilge, Höchster, meine Sünden, Bach's adaptation of Pergolesi's Stabat Mater
-BWV 1084 – "O hilf Christe, Gottes Sohn" (four-part chorale appearing in Bach's Leipzig versions of the Jesus Christus ist um unsrer Missetat willen verwundet Passion setting; after a chorale setting found in Bach's Weimar version of that Passion)
+BWV 1084 – "O hilf Christe, Gottes Sohn"
 BWV 1085 – O Lamm Gottes, unschuldig (chorale prelude)
 BWV 1086 – Canon concordia discors
-BWV 1087 – 14 canons on the first eight notes of the Goldberg Variations ground (discovered 1974)
-BWV 1088 – "So heb ich denn mein Auge sehnlich auf" (arioso, No. 20 in the Passion setting Wer ist der, so von Edom kömmt)
-BWV 1089 – "Da Jesus an dem Kreutze stund" (four-part chorale)
+BWV 1087 – 14 canons on the first eight notes of the Goldberg Variations ground
+BWV 1088 – "So heb ich denn mein Auge sehnlich auf" (arioso)
+BWV 1089 – "Da Jesus an dem Kreutze stund"
 BWV 1090 – Wir Christenleut (chorale prelude)
 BWV 1091 – Das alte Jahr vergangen ist (chorale prelude)
 BWV 1092 – Herr Gott, nun schleuß den Himmel auf (chorale prelude)
 BWV 1093 – Herzliebster Jesu, was hast du verbrochen (chorale prelude)
 BWV 1094 – O Jesu, wie ist dein Gestalt (chorale prelude)
 BWV 1095 – O Lamm Gottes unschuldig (chorale prelude)
-BWV 1096 – Christe, der du bist Tag und Licht (or) Wir danken dir, Herr Jesu Christ  (chorale prelude from Neumeister Collection; probably by Johann Pachelbel)
 BWV 1097 – Ehre sei dir, Christe, der du leidest Not (chorale prelude)
 BWV 1098 – Erhalt uns, Herr, bei deinem Wort (chorale prelude)
 BWV 1099 – Aus tiefer Not schrei ich zu dir (chorale prelude)
@@ -1121,9 +1097,9 @@ BWV 1117 – Alle Menschen müssen sterben (chorale prelude)
 BWV 1118 – Werde munter, mein Gemüte (chorale prelude)
 BWV 1119 – Wie nach einer Wasserquelle (chorale prelude)
 BWV 1120 – Christ, der du bist der helle Tag (chorale prelude)
-BWV 1121 (previously BWV Anh. 205) – Fantasia in C minor for organ
-BWV 1122 – "Denket doch, ihr Menschenkinder" (four-part chorale)
-BWV 1123 – "Wo Gott zum Haus gibt nicht sein Gunst" (four-part chorale)
-BWV 1124 – "Ich ruf zu dir, Herr Jesu Christ" (four-part chorale)
-BWV 1125 – "O Gott, du frommer Gott" (four-part chorale)
-BWV 1126 – "Lobet Gott, unsern Herren" (four-part chorale)
+BWV 1121 – Fantasia in C minor for organ
+BWV 1122 – "Denket doch, ihr Menschenkinder"
+BWV 1123 – "Wo Gott zum Haus gibt nicht sein Gunst"
+BWV 1124 – "Ich ruf zu dir, Herr Jesu Christ"
+BWV 1125 – "O Gott, du frommer Gott"
+BWV 1126 – "Lobet Gott, unsern Herren"
