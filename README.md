@@ -20,13 +20,11 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 *In line 3:*
 `Exec=gnome-terminal -- bash -c "home/user/path/to/welcomeBach/welcomeBach.sh"`
 
-3. Then run: `sh setup.sh`
-
-And it's done!
-
-PS: Make sure you have the */autostart* folder! If you don't, create it before step 3 with: `cd ~/.config && mkdir autostart`
+3. Then run `sh setup.sh` and it's done!
 
 This method only works with GNOME.
+
+PS: Make sure you have the */autostart* folder! If you don't, create it before step 3 with: `cd ~/.config && mkdir autostart`
 
 ### Installation for non-GNOME DMs
 
@@ -34,9 +32,9 @@ If GNOME isn't your currently Desktop Manager, you can still run the script as a
 
 To do it, open the file **Bach** and set the path to your local repository in the DIR variable.
 
-After that, run `sh setup_bin.sh`, and now you can get your daily dose of counterpoint with:
+After that, run: `sh setup_bin.sh`
 
-`Bach`
+Now you can get your daily dose of counterpoint with: `Bach`
 
 
 Inspired by [Koan].
