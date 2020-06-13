@@ -32,7 +32,7 @@ This method only works with GNOME.
 
 If GNOME isn't your currently Desktop Manager, you can still run the script as a cli command.
 
-To do it, open the file *Bach* and set the path to your local repository in the DIR variable.
+To do it, open the file **Bach** and set the path to your local repository in the DIR variable.
 
 After that, run `sh setup_bin.sh`, and now you can get your daily dose of counterpoint with:
 
