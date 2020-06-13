@@ -8,7 +8,7 @@ end = datetime.datetime.utcnow()
 diff = abs((end - start).days)
 
 with open('bwv.txt') as f:
-	bwv = f.readlines()
+    bwv = f.readlines()
 
 random.seed(diff)
 
@@ -22,12 +22,12 @@ html = response.read()
 soup = BeautifulSoup(html, 'html.parser')
 
 def printLinks():
-	linkList = []
-	for i in range(3):
-		for vid in soup.find_all(attrs={'class':'yt-uix-tile-link'}):
-			v = 'https://www.youtube.com' + vid['href']
-			linkList.append(v)
-		print(linkList[i])
+    linkList = []
+    for i in range(3):
+        for vid in soup.find_all(attrs={'class':'yt-uix-tile-link'}):
+            v = 'https://www.youtube.com' + vid['href']
+            linkList.append(v)
+        print(linkList[i])
 
 print("Today's Bach is: \n ", bwv[n])
 printLinks()

@@ -1,5 +1,6 @@
 #!/bin/bash
-venv=~/git/welcomeBach/venv/bin/;
-. ${venv}/activate;
+cd $PWD;
+venv=$PWD/venv/bin/activate;
+. $venv;
 python3 bach.py;
 deactivate;
