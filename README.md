@@ -14,34 +14,27 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 
 ### Installation
 
-1. Clone the repository:
-
-`git clone https://github.com/ofefo/welcomeBach.git`
-
+1. Clone the repository: `git clone https://github.com/ofefo/welcomeBach.git`
 
 2. Edit the file **gnome-terminal.desktop**, replacing the path to welcomeBach.sh:
-
 *In line 3:*
-`Exec=gnome-terminal -- bash -c "home/user/*path/to/welcomeBach/welcomeBach.sh*"`
+`Exec=gnome-terminal -- bash -c "home/user/path/to/welcomeBach/welcomeBach.sh"`
 
-3. Then run:
+3. Then run: `sh setup.sh`
 
-`sh setup.sh`
+And it's done!
 
-And you're done!
+PS: Make sure you have the */autostart* folder! If you don't, create it before step 3 with: `cd ~/.config && mkdir autostart`
 
-Make sure you have the */autostart* folder! If you don't, create it before step 3 with:
-
-`cd ~/.config && mkdir autostart`
-
-This method only works with GNOME.\
+This method only works with GNOME.
 
 ### Installation for non-GNOME DMs
 
-If GNOME isn't your currently Desktop Manager, you can still run welcomeBachas a cli command.\
+If GNOME isn't your currently Desktop Manager, you can still run the script as a cli command.
+
 To do it, open the file *Bach* and set the path to your local repository in the DIR variable.
 
-Run `sh setup_bin.sh`, and now you can get your daily dose of counterpoint with:
+After that, run `sh setup_bin.sh`, and now you can get your daily dose of counterpoint with:
 
 `Bach`
 
