@@ -28,7 +28,7 @@ PS: Make sure you have the */autostart* folder! If you don't, create it before s
 
 ### Installation for non-GNOME DMs
 
-If GNOME isn't your currently Desktop Manager, you can still run the script as a cli command.
+If GNOME isn't your currently Desktop Manager, you can still run the script via command line.
 
 To do it, open the file **Bach** and set the path to your local repository in the DIR variable.
 
