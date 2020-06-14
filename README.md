@@ -16,9 +16,7 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 
 1. Clone the repository: `git clone https://github.com/ofefo/welcomeBach.git`
 
-2. Edit the file **welcomeBach.desktop**, replacing the path to welcomeBach.sh:
-*In line 3:*
-`Exec=x-terminal-emulator -- bash -c "home/user/path/to/welcomeBach/welcomeBach.sh"`
+2. Edit the file **welcomeBach.desktop**, replacing the path to welcomeBach.sh *in line 3.*
 
 3. Then run `sh setup.sh` and it's done!
 
