@@ -12,7 +12,7 @@ with open('bwv.txt') as f:
 
 random.seed(diff)
 
-n = random.randint(1, 1129)
+n = random.randint(1, 1105)
 
 textToSearch = bwv[n]
 query = urllib.parse.quote(textToSearch)
