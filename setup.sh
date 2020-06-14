@@ -6,4 +6,4 @@ dir=$PWD/venv/bin;
 pip3 install -r requirements.txt;
 deactivate;
 chmod +x "welcomeBach.sh";
-cp gnome-terminal.desktop $HOME/.config/autostart/welcomeBach.desktop;
+cp welcomeBach.desktop $HOME/.config/autostart/welcomeBach.desktop;
