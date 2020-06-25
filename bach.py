@@ -23,10 +23,10 @@ soup = BeautifulSoup(html, 'html.parser')
 
 def printLinks():
     linkList = []
+    for vid in soup.find_all(attrs={'class':'yt-uix-tile-link'}):
+        v = 'https://www.youtube.com' + vid['href']
+        linkList.append(v)
     for i in range(3):
-        for vid in soup.find_all(attrs={'class':'yt-uix-tile-link'}):
-            v = 'https://www.youtube.com' + vid['href']
-            linkList.append(v)
         print(linkList[i])
 
 print("Today's Bach is: \n ", bwv[n])
