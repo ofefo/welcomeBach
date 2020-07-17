@@ -1,5 +1,5 @@
 #!/bin/bash
-DIR=/path/to/welcomeBach;
+DIR=/home/fefo/git/welcomeBach;
 cd $DIR;
 venv=$DIR/venv/bin/activate;
 . $venv;

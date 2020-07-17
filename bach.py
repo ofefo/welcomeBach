@@ -1,7 +1,8 @@
 import random
 import urllib.request
 import datetime
-from bs4 import BeautifulSoup
+import re
+from collections import OrderedDict
 
 start = datetime.datetime(2020, 1, 1, 0, 0, 0, 0)
 end = datetime.datetime.utcnow()
@@ -11,23 +12,22 @@ with open('bwv.txt') as f:
     bwv = f.readlines()
 
 random.seed(diff)
-
 n = random.randint(1, 1105)
+print("Today's Bach is: \n ", bwv[n])
 
 textToSearch = bwv[n]
 query = urllib.parse.quote(textToSearch)
 url = "https://www.youtube.com/results?search_query=" + query
-response = urllib.request.urlopen(url)
-html = response.read()
-soup = BeautifulSoup(html, 'html.parser')
+html = urllib.request.urlopen(url).read().decode('utf-8')
+pattern = re.compile('videoId":"(\w{11})"')
 
-def printLinks():
-    linkList = []
-    for vid in soup.find_all(attrs={'class':'yt-uix-tile-link'}):
-        v = 'https://www.youtube.com' + vid['href']
-        linkList.append(v)
-    for i in range(3):
-        print(linkList[i])
+def videoFinder(n):
+    matches = []
+    for vid in re.findall(pattern, html):
+        v = 'https://www.youtube.com/watch?v=' + vid
+        matches.append(v)
+    links = list(OrderedDict.fromkeys(matches))
+    for i in range(n):
+        print(links[i])
 
-print("Today's Bach is: \n ", bwv[n])
-printLinks()
+videoFinder(3)
