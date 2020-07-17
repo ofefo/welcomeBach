@@ -1,7 +1,4 @@
 #!/bin/bash
-DIR=/home/fefo/git/welcomeBach;
+DIR=/home/path/to/welcomeBach;
 cd $DIR;
-venv=$DIR/venv/bin/activate;
-. $venv;
 python3 bach.py;
-deactivate;
