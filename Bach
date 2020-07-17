@@ -1,4 +1,3 @@
 #!/bin/bash
-DIR=/home/path/to/welcomeBach;
-cd $DIR;
-python3 bach.py;
+
+python3 <PWD>/bach.py
