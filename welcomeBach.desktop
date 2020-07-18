@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=gnome-terminal -- bash -c "Bach"
+Exec=gnome-terminal -- bash -c "Bach; exec bash;"
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
