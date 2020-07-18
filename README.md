@@ -22,7 +22,7 @@ This method only works with GNOME.
 
 ### Use as a terminal command
 
-If GNOME isn't your currently Desktop Manager, or if you don't want to listen to Bach everytime you login (shame on you), you can still run the script via command line.
+If GNOME isn't your currently Desktop Manager, or if you don't want to listen to Bach at every startup (shame on you), you can still run the script via command line.
 
 To do it, run: `./install.sh`
 
