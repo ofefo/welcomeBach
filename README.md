@@ -14,9 +14,7 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 
 ### Installation (with Gnome as a DE)
 
-1. Clone the repository: `git clone https://github.com/ofefo/welcomeBach.git`
-
-2. Then run `./install.sh gnome` and it's done!
+To install the script, simply run run `./install.sh gnome` and you're done!
 
 This method only works with GNOME.
 
@@ -30,5 +28,9 @@ Now you can get your daily dose of counterpoint with: `Bach`
 
 
 Inspired by [Koan].
+
+### License
+
+welcomeBach is licensed under GPLv2 or later.
 
 [Koan]: https://github.com/a-moreira/Koan
