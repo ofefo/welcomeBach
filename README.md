@@ -31,6 +31,6 @@ Inspired by [Koan].
 
 ### License
 
-welcomeBach is licensed under GPLv2 or later.
+welcomeBach is licensed under GNU GPLv2 or later.
 
 [Koan]: https://github.com/a-moreira/Koan
