@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 ```
 
 This script provides a consistent way to listen to the [complete oeuvre of J.S. Bach], as it spans more than a thousand pieces, considered an essential part of the western repertoire.
+
 A list of your past listens is saved in `listened.txt`.
 
 ### Installation (with Gnome as a DE)
