@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=23yNGer9Wqs
 https://www.youtube.com/watch?v=AzT_elDRLJM
 ```
 
-This script provides a consistent way to listen to the [complete oeuvre of J.S. Bach], as it spans more than a thousand pieces, considered an essential part of the western repertoire.
+This script provides a consistent way to listen to the complete [oeuvre of J.S. Bach], as it spans more than a thousand pieces, considered an essential part of the western repertoire.
 
 A list of your past listens is saved in `listened.txt`.
 
@@ -39,4 +39,4 @@ Inspired by [Koan].
 welcomeBach is licensed under GNU GPLv2 or later.
 
 [Koan]: https://github.com/a-moreira/Koan
-[complete oeuvre of J.S. Bach]: https://en.wikipedia.org/wiki/Bach-Werke-Verzeichnis
+[oeuvre of J.S. Bach]: https://en.wikipedia.org/wiki/Bach-Werke-Verzeichnis
