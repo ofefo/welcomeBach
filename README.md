@@ -1,6 +1,6 @@
 # welcomeBach
 
-Receive a list of YouTube links to recordings of a randomly selected piece by Bach on startup.
+Receive a list of YouTube links for recordings of a different piece by Bach at each startup.
 
 ```
 Today's Bach is: 
