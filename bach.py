@@ -19,7 +19,7 @@ parser.add_argument("-r",
         default=False)
 args = parser.parse_args()
 
-#if no argument is passed, prints 3 links as default
+#if no argument is passed, print 3 links as default
 number = args.verbosity
 
 #set the seed for random as the difference in days from today and January 1st, 2020
@@ -31,12 +31,11 @@ random.seed(diff)
 #choose today's piece
 with open('bwv.txt') as f:
     bwv = f.readlines()
-
 n = random.randint(1, 1105)
 piece = bwv[n] 
 
-#if it has already been heard, get the next one on the list
-#this won't happen if passed with argv -r, for "relisten"
+#if passed with argv -r, for "relisten", get the last item from the listened list
+#else, check if it has already been heard, if so, choose another pice 
 if args.relisten == True:
     with open('listened.txt', 'r') as f:
         for line in f:
@@ -56,9 +55,8 @@ else:
 
 print("Today's Bach is: \n ", piece)
 
-#looks for it on youtube
-textToSearch = piece
-query = urllib.parse.quote(textToSearch)
+#look for it on youtube
+query = urllib.parse.quote(piece)
 url = "https://www.youtube.com/results?search_query=" + query
 html = urllib.request.urlopen(url).read().decode('utf-8')
 pattern = re.compile('videoId":"(\w{11})"')
