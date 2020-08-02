@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 
 This script provides a consistent way to listen to the complete [oeuvre of J.S. Bach], as it spans more than a thousand pieces, considered an essential part of the western repertoire.
 
-A list of your past listens is saved in `listened.txt`.
+A list of your past listens is saved in **listened.txt**.
 
 ### Installation (with Gnome as a DE)
 
@@ -29,7 +29,9 @@ To do it, run: `./install.sh`
 
 Now you can get your daily dose of counterpoint with: `Bach`
 
-By default, it returns 03 links, but you can pass a value as an argument to get more results (e.g. `Bach 5`).
+By default, it returns 3 links, but you can pass a value as an argument to get more results (e.g. `Bach -v=5`).
+
+If you want to relisten to the last BWV, run it with the *--relisten* flag: `Bach -r`
 
 
 Inspired by [Koan].
