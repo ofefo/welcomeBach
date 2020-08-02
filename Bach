@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd <PWD>;
-python3 bach.py $1
+python3 bach.py ${*}
