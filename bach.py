@@ -47,7 +47,7 @@ else:
         while True:
             for line in f:
                 if piece in line:
-                    n += 1
+                    n = random.randint(1, 1105)
                     piece = bwv[n]
                     continue
             else:
