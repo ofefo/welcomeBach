@@ -1,15 +1,26 @@
 from sys import argv
+import argparse
 import random
 import urllib.request
 import datetime
 import re
 from collections import OrderedDict
 
+parser = argparse.ArgumentParser(description='welcomeBach: Your daily dose of counterpoint')
+parser.add_argument("-v", 
+        "--verbosity", 
+        help="Increase/decrease output verbosity (default = 3)", 
+        type=int, 
+        default=3)
+parser.add_argument("-r",
+        "--relisten",
+        help="Relisten to the last BWV",
+        action="store_true",
+        default=False)
+args = parser.parse_args()
+
 #if no argument is passed, prints 3 links as default
-if len(argv) < 2:
-    number = 3
-else:
-    number = int(argv[1])
+number = args.verbosity
 
 #set the seed for random as the difference in days from today and January 1st, 2020
 start = datetime.datetime(2020, 1, 1, 0, 0, 0, 0)
@@ -25,16 +36,23 @@ n = random.randint(1, 1105)
 piece = bwv[n] 
 
 #if it has already been heard, get the next one on the list
-with open('listened.txt', 'r+') as f:
-    while True:
+#this won't happen if passed with argv -r, for "relisten"
+if args.relisten == True:
+    with open('listened.txt', 'r') as f:
         for line in f:
-            if piece in line:
-                n += 1
-                piece = bwv[n]
-                continue
-        else:
-            f.write(piece)
-            break
+            pass
+        piece = line
+else:
+    with open('listened.txt', 'r+') as f:
+        while True:
+            for line in f:
+                if piece in line:
+                    n += 1
+                    piece = bwv[n]
+                    continue
+            else:
+                f.write(piece)
+                break
 
 print("Today's Bach is: \n ", piece)
 
