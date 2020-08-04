@@ -3,8 +3,11 @@
 if [ -d "$HOME/.local/bin" ]; then
 	EXE_PATH=$HOME/.local/bin
 else
-	echo "Can't install in your home folder! Need permission to do it in /usr/, try again with sudo!"
-	EXE_PATH=/usr/local/bin
+	if [[ $EUID > 0 ]]; then
+		echo "Can't install in your home folder! Need permission to do it in /usr/, try again with sudo!"
+	else
+		EXE_PATH=/usr/local/bin
+	fi
 fi
 touch listened.txt
 mkdir -p $EXE_PATH
