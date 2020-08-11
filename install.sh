@@ -12,7 +12,8 @@ else
 		SUCCESS=1
 	fi
 fi
-touch ${PWD}/listened.txt
+touch ${PWD}/bwvlistened.txt
+touch ${PWD}/bblistened.txt
 sed "s|<PWD>|"${PWD}"|" ${PWD}/Bach > $EXE_PATH"/Bach"
 chmod +x $EXE_PATH"/Bach"
 if [ $1="gnome" ]; then

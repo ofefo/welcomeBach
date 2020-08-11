@@ -17,10 +17,20 @@ parser.add_argument("-r",
         help="Relisten to the last BWV",
         action="store_true",
         default=False)
+parser.add_argument("-c",
+        "--composer",
+        help="Choose the composer you want to listen to",
+        type=str,
+        default="Bach")
 args = parser.parse_args()
 
 #if no argument is passed, print 3 links as default
 number = args.verbosity
+
+#if no argument is passed, Bach is the desired composer
+composer = args.composer
+composer = composer.title()
+catalogue = {'Bach': 'bwv', 'Bartok': 'bb'}
 
 #set the seed for random as the difference in days from today and January 1st, 2020
 start = datetime.datetime(2020, 1, 1, 0, 0, 0, 0)
@@ -28,35 +38,40 @@ end = datetime.datetime.utcnow()
 diff = abs((end - start).days)
 random.seed(diff)
 
-#choose today's piece
-with open('bwv.txt') as f:
-    bwv = f.readlines()
-n = random.randint(1, 1105)
-piece = bwv[n] 
+#set .txt file name according to dictionary
+txtName = str(catalogue[composer] + '.txt')
+
+#choose today's opus
+with open(txtName) as f:
+    opus = f.readlines()
+    count = len(opus)
+n = random.randint(1, count)
+piece = opus[n] 
 
 #if passed with argv -r, for "relisten", get the last item from the listened list
 #else, check if it has already been heard, if so, choose another pice 
+listened = str(catalogue[composer] + 'listened.txt')
 if args.relisten == True:
-    with open('listened.txt', 'r') as f:
+    with open(listened, 'r') as f:
         for line in f:
             pass
         piece = line
 else:
-    with open('listened.txt', 'r+') as f:
+    with open(listened, 'r+') as f:
         while True:
             for line in f:
                 if piece in line:
-                    n = random.randint(1, 1105)
-                    piece = bwv[n]
+                    n = random.randint(1, count)
+                    piece = opus[n]
                     continue
             else:
                 f.write(piece)
                 break
 
-print("Today's Bach is: \n ", piece)
+print("Today's %s is: \n " % composer, piece)
 
 #look for it on youtube
-query = urllib.parse.quote(piece)
+query = urllib.parse.quote(composer + ' ' + piece)
 url = "https://www.youtube.com/results?search_query=" + query
 html = urllib.request.urlopen(url).read().decode('utf-8')
 pattern = re.compile('videoId":"(\w{11})"')
