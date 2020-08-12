@@ -1,4 +1,5 @@
 from sys import argv
+from os import chdir
 import argparse
 import random
 import urllib.request
@@ -30,7 +31,7 @@ number = args.verbosity
 #if no argument is passed, Bach is the desired composer
 composer = args.composer
 composer = composer.title()
-catalogue = {'Bach': 'bwv', 'Bartok': 'bb'}
+catalogue = {'Bach': 'bwv', 'Bartok': 'bb', 'Schoenberg': 'sch', 'Debussy': 'cd'}
 
 #set the seed for random as the difference in days from today and January 1st, 2020
 start = datetime.datetime(2020, 1, 1, 0, 0, 0, 0)
@@ -39,6 +40,7 @@ diff = abs((end - start).days)
 random.seed(diff)
 
 #set .txt file name according to dictionary
+chdir('../catalogues')
 txtName = str(catalogue[composer] + '.txt')
 
 #choose today's opus
@@ -50,6 +52,7 @@ piece = opus[n]
 
 #if passed with argv -r, for "relisten", get the last item from the listened list
 #else, check if it has already been heard, if so, choose another pice 
+chdir('../listens')
 listened = str(catalogue[composer] + 'listened.txt')
 if args.relisten == True:
     with open(listened, 'r') as f:
