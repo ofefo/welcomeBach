@@ -1,13 +1,16 @@
-#DOWNLOAD NEW CATALOGUES FROM A WIKIPEDIA PAGE
+#DOWNLOAD NEW CATALOGUES FROM WIKIPEDIA PAGES
+#NEEDS BEAUTIFUL SOUP
 from bs4 import BeautifulSoup
-import urllib.request
 from os import chdir
+import urllib.request
+import csv
 
-chdir('../catalogues')
-
+composerName = input('What is the composer last name?\n ')
 fileName = input('What is your filename? (E.g.: \"bwv.txt\")\n ')
+symbol = fileName.replace('.txt', '')
 url = input('What is your url?\n ')
 opusOrNot = input('Is it by Opus? (y/n)\n ')
+opusOrNot = opusOrNot.lower()
 colNumber = int(input('What is the index of the column in which the work number is located?\n '))
 colNumber -= 1
 colName = int(input('What is the index of the column in which the work name is located?\n '))
@@ -47,13 +50,20 @@ for i in data:
             pass
 
 catalogueLine = [x + y for x,y in zip(opusNumber, opusName)]
-    
+
+with open('dict.csv', 'a', newline='') as csvfile:
+    fieldnames = ['composer', 'symbol']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    writer.writerow({'composer': composerName, 'symbol': symbol})
+
+chdir('../catalogues')
 with open(fileName, 'w') as f:
     for i in catalogueLine:
         f.write(i + "\n")
 
 chdir('../listens')
-f = open(fileName.replace('.txt', '') + 'listened.txt', 'w+')
+f = open(symbol + 'listened.txt', 'w+')
 f.close()
 
 print("Done!")

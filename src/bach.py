@@ -1,28 +1,36 @@
-from sys import argv
+from sys import argv, exit
 from os import chdir
+from collections import OrderedDict
+import csv
 import argparse
 import random
 import urllib.request
 import datetime
 import re
-from collections import OrderedDict
+
+catalogue = {}
+with open('dict.csv', newline='') as f:
+    catalogue = dict(filter(None, csv.reader(f)))
+
+keys = list(catalogue.keys())
 
 parser = argparse.ArgumentParser(description='welcomeBach: Your daily dose of counterpoint')
-parser.add_argument("-v", 
-        "--verbosity", 
-        help="Increase/decrease output verbosity (default = 3)", 
+parser.add_argument('-v', 
+        '--verbosity', 
+        help='Increase/decrease output verbosity (default = 3)', 
         type=int, 
         default=3)
-parser.add_argument("-r",
-        "--relisten",
-        help="Relisten to the last BWV",
-        action="store_true",
+parser.add_argument('-r',
+        '--relisten',
+        help='Relisten to the last BWV',
+        action='store_true',
         default=False)
-parser.add_argument("-c",
-        "--composer",
-        help="Choose the composer you want to listen to",
+parser.add_argument('-c',
+        '--composer',
+        choices=keys,
+        help='Choose the composer you want to listen to',
         type=str,
-        default="Bach")
+        default='Bach')
 args = parser.parse_args()
 
 #if no argument is passed, print 3 links as default
@@ -31,7 +39,6 @@ number = args.verbosity
 #if no argument is passed, Bach is the desired composer
 composer = args.composer
 composer = composer.title()
-catalogue = {'Bach': 'bwv', 'Bartok': 'bb', 'Schoenberg': 'sch', 'Debussy': 'cd'}
 
 #set the seed for random as the difference in days from today and January 1st, 2020
 start = datetime.datetime(2020, 1, 1, 0, 0, 0, 0)
