@@ -4,7 +4,7 @@ if [ -d "$HOME/.local/bin" ]; then
 	EXE_PATH=$HOME/.local/bin
 	SUCCESS=1
 else
-	if [ "$(whoami)" == "root" ]; then
+	if [ ! "$(whoami)" == "root" ]; then
 		echo "Can't install in your home folder! Need permission to do it in /usr/, try again with sudo!"
 		exit
 	else
