@@ -12,13 +12,14 @@ else
 		SUCCESS=1
 	fi
 fi
-touch ${PWD}/bwvlistened.txt
-touch ${PWD}/bblistened.txt
-sed "s|<PWD>|"${PWD}"|" ${PWD}/Bach > $EXE_PATH"/Bach"
-chmod +x $EXE_PATH"/Bach"
+touch ${PWD}/src/bwvlistened.txt
+touch ${PWD}/src/bblistened.txt
+touch ${PWD}/src/cdlistened.txt
+sed "s|<PWD>|"${PWD}"|" ${PWD}/src/welcomebach > $EXE_PATH"/welcomebach"
+chmod +x $EXE_PATH"/welcomebach"
 if [ $1="gnome" ]; then
     mkdir -p $HOME/.config/autostart
-    cp welcomeBach.desktop $HOME/.config/autostart/welcomeBach.desktop
+    cp ./src/welcomeBach.desktop $HOME/.config/autostart/welcomeBach.desktop
 fi
 if [ $SUCCESS == 1 ]; then
 	echo "Done! You're ready to get polyphonic."
