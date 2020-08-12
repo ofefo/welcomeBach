@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd <PWD>;
+cd <PWD>/src/;
 python3 bach.py ${*}
