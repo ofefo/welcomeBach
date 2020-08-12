@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 
 This script was made to provide a consistent way to listen to the complete [oeuvre of J.S. Bach], as it spans more than a thousand pieces, considered an essential part of the western repertoire.
 
-The project has grown and currently supports a few other composers, and you can import more with the script *catalogueDL*, which was developed to work with tables found on wikipedia.
+The project has grown and currently supports a few other composers, and it's possible to import more.
 
 Lists of your past listens are saved inside the **listens** folder.
 
@@ -31,17 +31,24 @@ To do it, run: `./install.sh`
 
 Now you can get your daily dose of counterpoint with: `welcomebach`
 
-By default, it returns 3 links, but you can pass a value as an argument to get more results (e.g. `wlcomebach -v=5`).
+By default, it returns 3 links, but you can pass a value as an argument to get more results (e.g. `welcomebach -v=5`).
 
-If you want to relisten to the last BWV, run it with the *--relisten* flag: `welcomebach -r`
+If you want to relisten to the last piece, run it with the *--relisten* flag: `welcomebach -r`
 
 To listen to another composer, try it with the *--composer* flag: `welcomebach -c=Debussy`
+All flags should work normally with any composer.
 
-Inspired by [Koan].
+### Adding more composers
 
-### License
+If you want to include more catalogues of compositions, you can try the *catalogueDL* script. It was made to work with tables found on wikipedia.
 
-welcomeBach is licensed under GNU GPLv2 or later.
+### Additional info
+
+This is a work in progress.
+
+It was inspired by [Koan].
+
+welcomeBach is licensed under GNU GPLv2 or later, feel free to make it better.
 
 [Koan]: https://github.com/a-moreira/Koan
 [oeuvre of J.S. Bach]: https://en.wikipedia.org/wiki/Bach-Werke-Verzeichnis
