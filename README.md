@@ -31,11 +31,9 @@ To do it, run: `./install.sh`
 
 Now you can get your daily dose of counterpoint with: `welcomebach`
 
-By default, it returns 3 links, but you can pass a value as an argument to get more results (e.g. `welcomebach -v=5`).
-
-If you want to relisten to the last piece, run it with the *--relisten* flag: `welcomebach -r`
-
-To listen to another composer, try it with the *--composer* flag: `welcomebach -c=Debussy`
+By default, it returns 3 links, but you can pass a value as an argument to get more results (e.g. `welcomebach -v=5`).<br/>
+If you want to relisten to the last piece, run it with the *--relisten* flag: `welcomebach -r`<br/>
+To listen to another composer, try it with the *--composer* flag: `welcomebach -c=Debussy`<br/>
 All flags should work normally with any composer.
 
 ### Adding more composers
