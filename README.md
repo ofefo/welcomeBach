@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=AzT_elDRLJM
 
 This script was made to provide a consistent way to listen to the complete [oeuvre of J.S. Bach], as it spans more than a thousand pieces, considered an essential part of the western repertoire.
 
-The project has grown and currently supports some few other composers, and you can import more with the script *catalogueDL*, which was developed to work on tables found on wikipedia.
+The project has grown and currently supports a few other composers, and you can import more with the script *catalogueDL*, which was developed to work on tables found on wikipedia.
 
 Lists of your past listens are saved inside the **listens** folder.
 
