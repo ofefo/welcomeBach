@@ -1,12 +1,7 @@
 from sys import argv, exit
 from os import chdir
 from collections import OrderedDict
-import csv
-import argparse
-import random
-import urllib.request
-import datetime
-import re
+import csv, argparse, random, urllib.request, datetime, re
 
 catalogue = {}
 with open('dict.csv', newline='') as f:
