@@ -1,66 +1,95 @@
-#DOWNLOAD NEW CATALOGUES FROM WIKIPEDIA PAGES
-#NEEDS BEAUTIFUL SOUP
+#Catalogue Downloader
+#Generate new catalogues from wikipedia pages
+#Needs beautifulSoup
+from sys import exit
 from bs4 import BeautifulSoup
 from os import chdir
-import urllib.request
-import csv
+import urllib.request, csv, re
 
 composerName = input('What is the composer last name?\n ')
 fileName = input('What is your filename? (E.g.: \"bwv.txt\")\n ')
 symbol = fileName.replace('.txt', '')
+haveSymbol = int(input('Is it organized by symbol, opus or neither? (symbol=1; opus=2; neither=3)\n '))
 url = input('What is your url?\n ')
-opusOrNot = input('Is it by Opus? (y/n)\n ')
-opusOrNot = opusOrNot.lower()
-colNumber = int(input('What is the index of the column in which the work number is located?\n '))
-colNumber -= 1
-colName = int(input('What is the index of the column in which the work name is located?\n '))
-colName -= 1
+listOrTable = int(input('Is it a list or a table? (list=1; table=2)\n '))
 
-html = urllib.request.urlopen(url).read()
+if listOrTable == 2:
+    colNumber = int(input('What is the index of the column in which the work number is located?\n '))
+    colNumber -= 1
+    colName = int(input('What is the index of the column in which the work name is located?\n '))
+    colName -= 1
+else:
+    pass
+
+html = urllib.request.urlopen(url).read().decode('utf-8')
 soup = BeautifulSoup(html, 'html.parser')
-
-table = soup.find('table', attrs={'class':'wikitable sortable'})
-table_body = table.find('tbody')
-rows = table_body.find_all('tr')
-
 data = []
-for row in rows:
-    cols = row.find_all('td')
-    cols = [ele.text.strip() for ele in cols]
-    data.append(cols)
 
-opusName = []
-for i in data:
-    if len(i) > 0:
-        opusName.append(i[colName])
-    else:
-        pass
+def has_no_class_and_no_id(tag):
+    return not tag.has_attr('class') and not tag.has_attr('id')
 
-opusNumber = []
-for i in data:
-    if opusOrNot == 'y':
+def getListFromSoup():
+    catalogue = []
+    for heading in soup.find_all('span', {'class':"mw-headline"}):
+        ul = heading.find_next('ul')
+        for li in ul.find_all('li'):
+            catalogue.append(li.get_text())
+    chdir('../catalogues')
+    with open(fileName, 'w') as f:
+        for i in catalogue:
+            f.write(i + "\n")
+    return catalogue 
+
+def getFromTable():
+    table = soup.find('table', attrs={'class':'wikitable sortable'})
+    table_body = table.find('tbody')
+    rows = table_body.find_all('tr')
+    opusName = []
+    opusNumber = []
+
+    for row in rows:
+        cols = row.find_all('td')
+        cols = [ele.text.strip() for ele in cols]
+        data.append(cols)
+    
+    for i in data:
         if len(i) > 0:
-            opusNumber.append('Op. ' + i[colNumber] + ' ')
+            opusName.append(i[colName])
         else:
             pass
-    else:
-        if len(i) > 0:
-            opusNumber.append(fileName.replace('.txt', ' ').replace('\"', '').upper() + i[colNumber] + ' ')
+    
+    for i in data:
+        if haveSymbol == 1:
+            if len(i) > 0:
+                opusNumber.append(fileName.replace('.txt', ' ').replace('\"', '').upper() + i[colNumber] + ' ')
+                catalogue = [x + y for x,y in zip(opusNumber, opusName)]
+            else:
+                pass
+        elif haveSymbol == 2:
+            if len(i) > 0:
+                opusNumber.append('Op. ' + i[colNumber] + ' ')
+                catalogue = [x + y for x,y in zip(opusNumber, opusName)]
+            else:
+                pass
         else:
-            pass
+            catalogue = opusName
 
-catalogueLine = [x + y for x,y in zip(opusNumber, opusName)]
+    chdir('../catalogues')
+    with open(fileName, 'w') as f:
+        for i in catalogue:
+            f.write(i + "\n")
+    return catalogue
 
+#Add the composer name to the csv dictionary
 with open('dict.csv', 'a', newline='') as csvfile:
     fieldnames = ['composer', 'symbol']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
     writer.writerow({'composer': composerName, 'symbol': symbol})
 
-chdir('../catalogues')
-with open(fileName, 'w') as f:
-    for i in catalogueLine:
-        f.write(i + "\n")
+if listOrTable == 1:
+    getListFromSoup()
+if listOrTable == 2:
+    getFromTable()
 
 chdir('../listens')
 f = open(symbol + 'listened.txt', 'w+')
