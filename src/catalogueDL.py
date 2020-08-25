@@ -46,7 +46,9 @@ def getListFromSoup():
     return catalogue 
 
 def getFromTable():
-    table = soup.find('table', attrs={'class':'wikitable sortable'})
+    table = soup.find('table', {'class':'wikitable sortable'})
+    if table == None:
+        table = soup.find('table', {'class':'wikitable'})
     table_body = table.find('tbody')
     rows = table_body.find_all('tr')
     opusName = []
