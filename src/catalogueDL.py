@@ -14,10 +14,15 @@ url = input('What is your url?\n ')
 listOrTable = int(input('Is it a list or a table? (list=1; table=2)\n '))
 
 if listOrTable == 2:
-    colNumber = int(input('What is the index of the column in which the work number is located?\n '))
-    colNumber -= 1
-    colName = int(input('What is the index of the column in which the work name is located?\n '))
-    colName -= 1
+    if haveSymbol == 1 or haveSymbol == 2:
+        colNumber = int(input('What is the index of the column in which the work number is located?\n '))
+        colNumber -= 1
+        colName = int(input('What is the index of the column in which the work name is located?\n '))
+        colName -= 1
+    else:
+        colName = int(input('What is the index of the column in which the work name is located?\n '))
+        colName -= 1
+        
 else:
     pass
 
