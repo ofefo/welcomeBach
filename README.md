@@ -38,7 +38,7 @@ All flags should work normally with any composer.
 
 ### Adding more composers
 
-If you want to include more catalogues of compositions, you can try the *catalogueDL* script. It was made to work with tables and lists found on wikipedia. The resulting catalogue might need some quick fixes.
+If you want to include more catalogues of compositions, you can try the *catalogueDL* script inside the *./src* folder. It's developed to work with tables and lists found on wikipedia. Beware the resulting catalogue might need some quick fixes.
 
 ### Additional info
 

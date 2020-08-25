@@ -15,14 +15,10 @@ listOrTable = int(input('Is it a list or a table? (list=1; table=2)\n '))
 
 if listOrTable == 2:
     if haveSymbol == 1 or haveSymbol == 2:
-        colNumber = int(input('What is the index of the column in which the work number is located?\n '))
-        colNumber -= 1
-        colName = int(input('What is the index of the column in which the work name is located?\n '))
-        colName -= 1
+        colNumber = int(input('What is the index of the column in which the work number is located?\n '))-1
+        colName = int(input('What is the index of the column in which the work name is located?\n '))-1
     else:
-        colName = int(input('What is the index of the column in which the work name is located?\n '))
-        colName -= 1
-        
+        colName = int(input('What is the index of the column in which the work name is located?\n '))-1
 else:
     pass
 
@@ -95,11 +91,13 @@ with open('dict.csv', 'a', newline='') as csvfile:
 
 if listOrTable == 1:
     getListFromSoup()
-if listOrTable == 2:
+elif listOrTable == 2:
     getFromTable()
+else:
+    print("Error: select '1' or '2'")
 
 chdir('../listens')
 f = open(symbol + 'listened.txt', 'w+')
 f.close()
 
-print("Done!")
+print("\nDone!")
