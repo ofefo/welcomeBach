@@ -27,7 +27,7 @@ BB 1 'Margit' Polka
 BB 1 'Ilona' Mazurka
 BB 1 'Loli' Mazurka
 BB 1 'Lajos' Waltz ('Lajos' valczer)
-BB 'Elza' Polka
+'Elza' Polka
 BB 1 Andante con variazioni
 BB 1 X.Y. 
 BB 2 Sonata No.1 in G minor
@@ -60,7 +60,7 @@ BB 18 'Tiefblaue Veilchen'
 BB 19 Scherzo in Sonata Form
 BB 19 Scherzo in B-flat minor
 BB 19 Dances
-BB Valcer
+Valcer
 BB 20 Liebeslieder
 BB 21 Scherzo in B-flat minor
 BB 22 Variations on a Theme by F.F.
@@ -112,7 +112,7 @@ BB 62 Bluebeard's Castle, Opera in One Act
 BB 63 Allegro barbaro
 BB 60 Old Hungarian Folksongs
 BB 64 Pieces
-BB  Piano étude
+Piano étude
 BB 66 The First Term at the Piano
 BB 69 Sonatina
 BB 68 Romanian Folk Dances
@@ -125,7 +125,7 @@ BB 70 Piano Suite
 BB 71 Songs
 BB 72 Songs
 BB 73 Slovak Folksong
-BB  Hungarian Folksong
+Hungarian Folksong
 BB 80b Hungarian Folktunes
 BB 75 String Quartet No.2
 BB 76 Romanian Folkdances for small orchestra
@@ -167,7 +167,7 @@ BB 104 Duos for 2 Violins
 BB 106 Székely Songs for Male Chorus
 BB 107 Hungarian Peasant Songs
 BB 108 Hungarian Folksongs
-BB  Hungarian Dances
+Hungarian Dances
 BB 110 String Quartet No.5
 BB 111 Choruses with Orchestral Accompaniment
 BB 112 From Olden Times
