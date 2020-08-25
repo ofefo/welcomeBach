@@ -95,11 +95,13 @@ with open('dict.csv', 'a', newline='') as csvfile:
 
 if listOrTable == 1:
     getListFromSoup()
-if listOrTable == 2:
+elif listOrTable == 2:
     getFromTable()
+else:
+    print("Error: select '1' or '2'")
 
 chdir('../listens')
 f = open(symbol + 'listened.txt', 'w+')
 f.close()
 
-print("Done!")
+print("\nDone!")
