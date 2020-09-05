@@ -1,4 +1,4 @@
-from sys import argv, exit
+from sys import argv
 from os import chdir
 from collections import OrderedDict
 import csv, argparse, random, urllib.request, datetime, re
