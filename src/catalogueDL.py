@@ -41,12 +41,30 @@ def getListFromSoup():
             f.write(i + "\n")
     return catalogue 
 
+def checkTables():
+    tables = soup.find_all('table')
+    if len(tables) > 1:
+        selectTable = int(input('There are more than one table, which one you pretend to use? '))
+    return selectTable
+
 def getFromTable():
-    table = soup.find('table', {'class':'wikitable sortable'})
-    if table == None:
-        table = soup.find('table', {'class':'wikitable'})
-    table_body = table.find('tbody')
-    rows = table_body.find_all('tr')
+    if soup.find('table', {'class':'wikitable sortable'}) is not None:
+        table = soup.find('table', {'class':'wikitable sortable'})
+        table_body = table.find('tbody')
+        if table_body == None:
+            rows = table.find_all('tr')            
+        else:
+            rows = table_body.find_all('tr')
+
+    elif soup.find('table', {'class':'wikitable'}) is not None:
+        table = soup.find('table', {'class':'wikitable sortable'})
+        table_body = table.find('tbody')
+        rows = table_body.find_all('tr')
+
+    elif soup.find('table', {'class':'sortable wikitable'}) is not None:
+        table = soup.find('table', {'class':'sortable wikitable'})
+        rows = table.find_all('tr')
+
     opusName = []
     opusNumber = []
 
