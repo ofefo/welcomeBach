@@ -34,8 +34,8 @@ Now you can get your daily dose of counterpoint with: `welcomebach`
 By default, it returns 3 links, but you can pass a value as an argument to get more results (e.g. `welcomebach -v=5`).<br/>
 If you want to relisten to the last piece, run it with the *--relisten* flag: `welcomebach -r`<br/>
 To listen to another composer, try it with the *--composer* flag: `welcomebach -c=Debussy`<br/>
-All flags should work normally with any composer.
-A list of all composers is avaiable on *./src/dict.csv*
+All flags should work normally with any composer.<br/>
+The list of composers is avaiable on *./src/dict.csv*
 
 ### Adding more composers
 
