@@ -35,10 +35,11 @@ By default, it returns 3 links, but you can pass a value as an argument to get m
 If you want to relisten to the last piece, run it with the *--relisten* flag: `welcomebach -r`<br/>
 To listen to another composer, try it with the *--composer* flag: `welcomebach -c=Debussy`<br/>
 All flags should work normally with any composer.
+A list of all composers is avaiable on *./src/dict.csv*
 
 ### Adding more composers
 
-If you want to include more catalogues of compositions, you can try the *catalogueDL* script inside the *./src* folder. It's developed to work with tables and lists found on wikipedia. Beware the resulting catalogue might need some quick fixes.
+If you want to include more catalogues of compositions, you can try the *catalogueDL* script inside the *./src* folder. It's developed to work with tables and lists found on wikipedia or IMLSP. Beware the resulting catalogue might need some quick fixes.
 
 ### Additional info
 
