@@ -29,7 +29,7 @@ data = []
 def has_no_class_and_no_id(tag):
     return not tag.has_attr('class') and not tag.has_attr('id')
 
-def getListFromSoup():
+def getFromList():
     catalogue = []
     for heading in soup.find_all('span', {'class':"mw-headline"}):
         ul = heading.find_next('ul')
@@ -48,52 +48,53 @@ def checkTables():
     return selectTable
 
 def getFromTable():
-    if soup.find('table', {'class':'wikitable sortable'}) is not None:
-        table = soup.find('table', {'class':'wikitable sortable'})
-        table_body = table.find('tbody')
-        if table_body == None:
-            rows = table.find_all('tr')            
-        else:
+    for heading in soup.find_all('span', {'class':"mw-headline"}):
+        if soup.find('table', {'class':'wikitable sortable'}) is not None:
+            table = soup.find('table', {'class':'wikitable sortable'})
+            table_body = table.find('tbody')
+            if table_body == None:
+                rows = table.find_all('tr')            
+            else:
+                rows = table_body.find_all('tr')
+
+        elif soup.find('table', {'class':'wikitable'}) is not None:
+            table = soup.find('table', {'class':'wikitable sortable'})
+            table_body = table.find('tbody')
             rows = table_body.find_all('tr')
 
-    elif soup.find('table', {'class':'wikitable'}) is not None:
-        table = soup.find('table', {'class':'wikitable sortable'})
-        table_body = table.find('tbody')
-        rows = table_body.find_all('tr')
+        elif soup.find('table', {'class':'sortable wikitable'}) is not None:
+            table = soup.find('table', {'class':'sortable wikitable'})
+            rows = table.find_all('tr')
 
-    elif soup.find('table', {'class':'sortable wikitable'}) is not None:
-        table = soup.find('table', {'class':'sortable wikitable'})
-        rows = table.find_all('tr')
+        opusName = []
+        opusNumber = []
 
-    opusName = []
-    opusNumber = []
-
-    for row in rows:
-        cols = row.find_all('td')
-        cols = [ele.text.strip() for ele in cols]
-        data.append(cols)
-    
-    for i in data:
-        if len(i) > 0:
-            opusName.append(i[colName])
-        else:
-            pass
-    
-    for i in data:
-        if haveSymbol == 1:
+        for row in rows:
+            cols = row.find_all('td')
+            cols = [ele.text.strip() for ele in cols]
+            data.append(cols)
+        
+        for i in data:
             if len(i) > 0:
-                opusNumber.append(fileName.replace('.txt', ' ').replace('\"', '').upper() + i[colNumber] + ' ')
-                catalogue = [x + y for x,y in zip(opusNumber, opusName)]
+                opusName.append(i[colName])
             else:
                 pass
-        elif haveSymbol == 2:
-            if len(i) > 0:
-                opusNumber.append('Op. ' + i[colNumber] + ' ')
-                catalogue = [x + y for x,y in zip(opusNumber, opusName)]
+        
+        for i in data:
+            if haveSymbol == 1:
+                if len(i) > 0:
+                    opusNumber.append(fileName.replace('.txt', ' ').replace('\"', '').upper() + i[colNumber] + ' ')
+                    catalogue = [x + y for x,y in zip(opusNumber, opusName)]
+                else:
+                    pass
+            elif haveSymbol == 2:
+                if len(i) > 0:
+                    opusNumber.append('Op. ' + i[colNumber] + ' ')
+                    catalogue = [x + y for x,y in zip(opusNumber, opusName)]
+                else:
+                    pass
             else:
-                pass
-        else:
-            catalogue = opusName
+                catalogue = opusName
 
     chdir('../catalogues')
     with open(fileName, 'w') as f:
@@ -108,7 +109,7 @@ with open('dict.csv', 'a', newline='') as csvfile:
     writer.writerow({'composer': composerName, 'symbol': symbol})
 
 if listOrTable == 1:
-    getListFromSoup()
+    getFromList()
 elif listOrTable == 2:
     getFromTable()
 else:
