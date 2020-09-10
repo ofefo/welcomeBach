@@ -48,7 +48,18 @@ def checkTables():
     return selectTable
 
 def getFromTable():
-    for heading in soup.find_all('span', {'class':"mw-headline"}):
+    catalogue = []
+    for table in soup.find_all('table', {'class':'wikitable sortable'}):
+        if table == None:
+            break
+        else:
+            body = table.find('tbody')
+            if body == None:
+                rows = table.find_all('tr')            
+            else:
+                rows = body.find_all('tr')
+
+        '''
         if soup.find('table', {'class':'wikitable sortable'}) is not None:
             table = soup.find('table', {'class':'wikitable sortable'})
             table_body = table.find('tbody')
@@ -65,7 +76,7 @@ def getFromTable():
         elif soup.find('table', {'class':'sortable wikitable'}) is not None:
             table = soup.find('table', {'class':'sortable wikitable'})
             rows = table.find_all('tr')
-
+        '''
         opusName = []
         opusNumber = []
 
