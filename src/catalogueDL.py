@@ -32,20 +32,15 @@ def has_no_class_and_no_id(tag):
 def getFromList():
     catalogue = []
     for heading in soup.find_all('span', {'class':"mw-headline"}):
-        ul = heading.find_next('ul')
-        for li in ul.find_all('li'):
-            catalogue.append(li.get_text())
+        uls = heading.find_all_next('ul')
+        for ul in uls:
+            for li in ul.find_all('li'):
+                catalogue.append(li.get_text())
     chdir('../catalogues')
     with open(fileName, 'w') as f:
         for i in catalogue:
             f.write(i + "\n")
     return catalogue 
-
-def checkTables():
-    tables = soup.find_all('table')
-    if len(tables) > 1:
-        selectTable = int(input('There are more than one table, which one you pretend to use? '))
-    return selectTable
 
 def getFromTable():
     catalogue = []
@@ -59,24 +54,6 @@ def getFromTable():
             else:
                 rows = body.find_all('tr')
 
-        '''
-        if soup.find('table', {'class':'wikitable sortable'}) is not None:
-            table = soup.find('table', {'class':'wikitable sortable'})
-            table_body = table.find('tbody')
-            if table_body == None:
-                rows = table.find_all('tr')            
-            else:
-                rows = table_body.find_all('tr')
-
-        elif soup.find('table', {'class':'wikitable'}) is not None:
-            table = soup.find('table', {'class':'wikitable sortable'})
-            table_body = table.find('tbody')
-            rows = table_body.find_all('tr')
-
-        elif soup.find('table', {'class':'sortable wikitable'}) is not None:
-            table = soup.find('table', {'class':'sortable wikitable'})
-            rows = table.find_all('tr')
-        '''
         opusName = []
         opusNumber = []
 
