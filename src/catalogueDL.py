@@ -1,7 +1,7 @@
 #Catalogue Downloader
 #Generate new catalogues from wikipedia pages
 #Needs beautifulSoup
-from sys import exit
+#from sys import exit
 from bs4 import BeautifulSoup
 from os import chdir
 import urllib.request, csv, re
@@ -42,20 +42,28 @@ def getFromList():
             f.write(i + "\n")
     return catalogue 
 
-def getFromTable():
+def findTables():
+    if soup.find_all('table', {'class': re.compile('(.*wikitable.*)')}) is not None:
+        tables = soup.find_all('table', {'class': re.compile('(.*wikitable.*)')})
+    else:
+        tables = soup.find_all('table')
+
+    return tables
+
+def getFromTable(tables):
     catalogue = []
-    for table in soup.find_all('table', {'class':'wikitable sortable'}):
-        if table == None:
-            break
-        else:
+    opusName = []
+    opusNumber = []
+    
+    for table in tables:
+        if table is not None:
             body = table.find('tbody')
             if body == None:
                 rows = table.find_all('tr')            
             else:
                 rows = body.find_all('tr')
-
-        opusName = []
-        opusNumber = []
+        else:
+            break
 
         for row in rows:
             cols = row.find_all('td')
@@ -88,6 +96,7 @@ def getFromTable():
     with open(fileName, 'w') as f:
         for i in catalogue:
             f.write(i + "\n")
+
     return catalogue
 
 #Add the composer name to the csv dictionary
@@ -99,7 +108,7 @@ with open('dict.csv', 'a', newline='') as csvfile:
 if listOrTable == 1:
     getFromList()
 elif listOrTable == 2:
-    getFromTable()
+    getFromTable(findTables())
 else:
     print("Error: select '1' or '2'")
 
