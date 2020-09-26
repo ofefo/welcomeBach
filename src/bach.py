@@ -75,14 +75,12 @@ else:
 
 print("Today's %s is: \n " % composer, piece)
 
-#look for it on youtube
-query = urllib.parse.quote(composer + ' ' + piece)
-url = "https://www.youtube.com/results?search_query=" + query
-html = urllib.request.urlopen(url).read().decode('utf-8')
-pattern = re.compile('videoId":"(\w{11})"')
-
 #print N video links based on input argument
-def videoFinder(n):
+def videoFinder(n, composer, piece):
+    query = urllib.parse.quote(composer + ' ' + piece)
+    url = "https://www.youtube.com/results?search_query=" + query
+    html = urllib.request.urlopen(url).read().decode('utf-8')
+    pattern = re.compile('videoId":"(\w{11})"')
     matches = []
     for vid in re.findall(pattern, html):
         v = 'https://www.youtube.com/watch?v=' + vid
@@ -91,4 +89,4 @@ def videoFinder(n):
     for i in range(n):
         print(links[i])
 
-videoFinder(number)
+videoFinder(number, composer, piece)

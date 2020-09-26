@@ -40,6 +40,7 @@ def getFromList():
     with open(fileName, 'w') as f:
         for i in catalogue:
             f.write(i + "\n")
+    
     return catalogue 
 
 def findTables():
@@ -76,21 +77,21 @@ def getFromTable(tables):
             else:
                 pass
         
-        for i in data:
-            if haveSymbol == 1:
-                if len(i) > 0:
-                    opusNumber.append(fileName.replace('.txt', ' ').replace('\"', '').upper() + i[colNumber] + ' ')
-                    catalogue = [x + y for x,y in zip(opusNumber, opusName)]
-                else:
-                    pass
-            elif haveSymbol == 2:
-                if len(i) > 0:
-                    opusNumber.append('Op. ' + i[colNumber] + ' ')
-                    catalogue = [x + y for x,y in zip(opusNumber, opusName)]
-                else:
-                    pass
+    for i in data:
+        if haveSymbol == 1:
+            if len(i) > 0:
+                opusNumber.append(fileName.replace('.txt', ' ').replace('\"', '').upper() + i[colNumber] + ' ')
+                catalogue = [x + y for x,y in zip(opusNumber, opusName)]
             else:
-                catalogue = opusName
+                pass
+        elif haveSymbol == 2:
+            if len(i) > 0:
+                opusNumber.append('Op. ' + i[colNumber] + ' ')
+                catalogue = [x + y for x,y in zip(opusNumber, opusName)]
+            else:
+                pass
+        else:
+            catalogue = opusName
 
     chdir('../catalogues')
     with open(fileName, 'w') as f:
