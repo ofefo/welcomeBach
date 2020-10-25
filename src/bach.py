@@ -43,7 +43,7 @@ random.seed(diff)
 
 #set .txt file name according to dictionary
 chdir('../catalogues')
-txtName = str(catalogue[composer] + '.txt')
+txtName = str(catalogue[composer])
 
 #choose today's opus
 with open(txtName) as f:
@@ -55,7 +55,7 @@ piece = opus[n]
 #if passed with argv -r, for "relisten", get the last item from the listened list
 #else, check if it has already been heard, if so, choose another pice 
 chdir('../listens')
-listened = str(catalogue[composer] + 'listened.txt')
+listened = str(catalogue[composer] + '_listens')
 if args.relisten == True:
     with open(listened, 'r') as f:
         for line in f:

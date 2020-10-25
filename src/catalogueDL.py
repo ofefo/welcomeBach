@@ -8,7 +8,7 @@ import urllib.request, csv, re
 
 composerName = input('What is the composer last name?\n ')
 fileName = input('What is your filename? (E.g.: \"bwv.txt\")\n ')
-symbol = fileName.replace('.txt', '')
+symbol = fileName
 haveSymbol = int(input('Is it organized by symbol, opus or neither? (symbol=1; opus=2; neither=3)\n '))
 url = input('What is your url?\n ')
 listOrTable = int(input('Is it a list or a table? (list=1; table=2)\n '))
@@ -36,7 +36,6 @@ def getFromList():
         for ul in uls:
             for li in ul.find_all('li'):
                 catalogue.append(li.get_text())
-            break
         break
     chdir('../catalogues')
     with open(fileName, 'w') as f:
@@ -110,7 +109,7 @@ else:
     print("Error: select '1' or '2'")
 
 chdir('../listens')
-f = open(symbol + 'listened.txt', 'w+')
+f = open(symbol + '_listens', 'w+')
 f.close()
 
 print("\nDone!")
