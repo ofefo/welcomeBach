@@ -36,6 +36,8 @@ def getFromList():
         for ul in uls:
             for li in ul.find_all('li'):
                 catalogue.append(li.get_text())
+            break
+        break
     chdir('../catalogues')
     with open(fileName, 'w') as f:
         for i in catalogue:
@@ -66,30 +68,24 @@ def getFromTable(tables):
         else:
             break
 
-        for row in rows:
-            cols = row.find_all('td')
-            cols = [ele.text.strip() for ele in cols]
-            data.append(cols)
-        
-        for i in data:
-            if len(i) > 0:
-                opusName.append(i[colName])
-            else:
-                pass
+    for row in rows:
+        cols = row.find_all('td')
+        cols = [ele.text.strip() for ele in cols]
+        data.append(cols)
         
     for i in data:
-        if haveSymbol == 1:
-            if len(i) > 0:
-                opusNumber.append(fileName.replace('.txt', ' ').replace('\"', '').upper() + i[colNumber] + ' ')
-                catalogue = [x + y for x,y in zip(opusNumber, opusName)]
-            else:
-                pass
-        elif haveSymbol == 2:
-            if len(i) > 0:
-                opusNumber.append('Op. ' + i[colNumber] + ' ')
-                catalogue = [x + y for x,y in zip(opusNumber, opusName)]
-            else:
-                pass
+        if len(i) > 0:
+            opusName.append(i[colName])
+        else:
+            pass
+        
+    for i in data:
+        if haveSymbol == 1 and len(i) > 0:
+            opusNumber.append(fileName.replace('.txt', ' ').replace('\"', '').upper() + i[colNumber] + ' ')
+            catalogue = [x + y for x,y in zip(opusNumber, opusName)]
+        elif haveSymbol == 2 and len(i) > 0:
+            opusNumber.append('Op. ' + i[colNumber] + ' ')
+            catalogue = [x + y for x,y in zip(opusNumber, opusName)]
         else:
             catalogue = opusName
 
