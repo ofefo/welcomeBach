@@ -1,7 +1,7 @@
-#Catalogue Downloader
-#Generate new catalogues from wikipedia pages
-#Needs beautifulSoup
-#from sys import exit
+"""
+Catalogue Downloader
+Generate new catalogues from wikipedia pages
+"""
 from bs4 import BeautifulSoup
 from os import chdir
 import urllib.request, csv, re
@@ -29,7 +29,7 @@ data = []
 def has_no_class_and_no_id(tag):
     return not tag.has_attr('class') and not tag.has_attr('id')
 
-def getFromList():
+def get_from_list():
     catalogue = []
     for heading in soup.find_all('span', {'class':"mw-headline"}):
         uls = heading.find_all_next('ul')
@@ -44,7 +44,7 @@ def getFromList():
     
     return catalogue 
 
-def findTables():
+def find_tables():
     if soup.find_all('table', {'class': re.compile('(.*wikitable.*)')}) is not None:
         tables = soup.find_all('table', {'class': re.compile('(.*wikitable.*)')})
     else:
@@ -52,7 +52,7 @@ def findTables():
 
     return tables
 
-def getFromTable(tables):
+def get_from_table(tables):
     catalogue = []
     opusName = []
     opusNumber = []
@@ -102,9 +102,9 @@ with open('dict.csv', 'a', newline='') as csvfile:
     writer.writerow({'composer': composerName, 'symbol': symbol})
 
 if listOrTable == 1:
-    getFromList()
+    get_from_list()
 elif listOrTable == 2:
-    getFromTable(findTables())
+    get_from_table(find_tables())
 else:
     print("Error: select '1' or '2'")
 
