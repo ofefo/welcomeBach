@@ -33,7 +33,7 @@ Now you can get your daily dose of counterpoint with: `welcomebach`
 
 * By default you get 3 links, but you can change the verbosity: `welcomebach -v=5`<br/>
 * To relisten to the last piece, try: `welcomebach -r`<br/>
-* You can listen to another composer with: `welcomebach -c=Debussy` or `welcomebach -c=Xenakis`<br/>
+* You can listen to another composer with: `welcomebach -c=Debussy`, `welcomebach -c=Saariaho`, etc.<br/>
 
 You can get help with `welcomebach -h`
 
