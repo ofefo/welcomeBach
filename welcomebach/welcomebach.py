@@ -1,5 +1,5 @@
 from sys import argv
-from os import chdir
+from os import chdir, system
 from collections import OrderedDict
 import csv, argparse, random, urllib.request, datetime, re
 
@@ -11,17 +11,14 @@ keys = list(catalogue.keys())
 
 parser = argparse.ArgumentParser(description='welcomeBach: Your daily dose of counterpoint')
 parser.add_argument('-v', 
-        '--verbosity', 
-        help='Increase/decrease output verbosity (default = 3)', 
+        help='Increase/decrease verbosity (default = 3)', 
         type=int, 
         default=3)
 parser.add_argument('-r',
-        '--relisten',
-        help='Relisten to the last BWV',
+        help='Relisten to the last piece',
         action='store_true',
         default=False)
 parser.add_argument('-c',
-        '--composer',
         choices=keys,
         help='Choose the composer you want to listen to',
         type=str,
