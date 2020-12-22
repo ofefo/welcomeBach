@@ -17,31 +17,31 @@ The project has grown and currently supports a few other composers, and it's pos
 
 Lists of your past listens are saved inside the **listens** folder.
 
-### Installation (with Gnome as a DE)
+## Installation (with Gnome as a DE)
 
 To install the script, run `./install.sh gnome` and you're done!
 
-This method only works with GNOME, and will always return a piece by Bach!
+(PS: this only works with GNOME, and will always return a piece by Bach!)
 
-### Use as a terminal command
+## Use as a terminal command
 
-If GNOME isn't your current Desktop Environment, or if you don't want to listen to Bach at every startup (shame on you), you can still run the script via command line.
+If you're not using GNOME, or if you don't want to listen to Bach at every startup (shame on you), you can run it in command line.
 
 To do it, run: `./install.sh`
 
 Now you can get your daily dose of counterpoint with: `welcomebach`
 
-By default, it returns 3 links, but you can pass a value as an argument to get more results (e.g. `welcomebach -v=5`).<br/>
-If you want to relisten to the last piece, run it with the *--relisten* flag: `welcomebach -r`<br/>
-To listen to another composer, try it with the *--composer* flag: `welcomebach -c=Debussy`<br/>
-All flags should work normally with any composer.<br/>
-The list of composers is avaiable on *./src/dict.csv*
+* By default you get 3 links, but you can change the verbosity: `welcomebach -v=5`<br/>
+* To relisten to the last piece, try: `welcomebach -r`<br/>
+* You can listen to another composer with: `welcomebach -c=Debussy` or `welcomebach -c=Xenakis`<br/>
 
-### Adding more composers
+You can get help with `welcomebach -h`
 
-If you want to include more catalogues of compositions, you can try the *catalogueDL* script inside the *./src* folder. It's developed to work with tables and lists found on wikipedia or IMLSP. Beware the resulting catalogue might need some quick fixes.
+## Adding more composers
 
-### Additional info
+If you want to include more catalogues of compositions, you can try the *catalogue_downloader* script inside the *./welcomebach* folder. It's developed to work with tables and lists found on wikipedia or IMLSP. Beware the resulting catalogue might need some quick fixes.
+
+## Additional info
 
 This is a work in progress.
 
