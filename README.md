@@ -34,12 +34,9 @@ Now you can get your daily dose of counterpoint with: `welcomebach`
 * By default you get 3 links, but you can change the verbosity: `welcomebach -v=5`<br/>
 * To relisten to the last piece, try: `welcomebach -r`<br/>
 * You can listen to another composer with: `welcomebach -c=Debussy`, `welcomebach -c=Saariaho`, etc.<br/>
+* If you want to add another composer, run: `welcomebach -d` (should work with pages from wikipedia or IMLSP, but will probably need some quick fixes)
 
 You can get help with `welcomebach -h`
-
-## Adding more composers
-
-If you want to include more catalogues of compositions, you can try the *catalogue_downloader* script inside the *./welcomebach* folder. It's developed to work with tables and lists found on wikipedia or IMLSP. Beware the resulting catalogue might need some quick fixes.
 
 ## Additional info
 
