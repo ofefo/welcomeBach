@@ -1,4 +1,6 @@
 #!/bin/bash
 
-cd <PWD>/welcomebach/;
+cd <PWD>;
+. venv/bin/activate;
+cd ./welcomebach/;
 python3 welcomebach.py ${*}

@@ -1,5 +1,10 @@
 #!/bin/bash
 
+python3 -m venv venv;
+. venv/bin/activate;
+pip3 install beautifulsoup4;
+deactivate;
+
 if [ -d "$HOME/.local/bin" ]; then
 	EXE_PATH=$HOME/.local/bin
 	SUCCESS=1
