@@ -26,10 +26,10 @@ parser.add_argument('-c',
 args = parser.parse_args()
 
 #if no argument is passed, print 3 links as default
-number = args.verbosity
+number = args.v
 
 #if no argument is passed, Bach is the desired composer
-composer = args.composer
+composer = args.c
 composer = composer.title()
 
 #set the seed for random as the difference in days from today and January 1st, 2020
@@ -53,7 +53,7 @@ piece = opus[n]
 #else, check if it has already been heard, if so, choose another pice 
 chdir('../listens')
 listened = str(catalogue[composer] + '_listens')
-if args.relisten == True:
+if args.r == True:
     with open(listened, 'r') as f:
         for line in f:
             pass
