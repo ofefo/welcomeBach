@@ -56,7 +56,7 @@ def main():
         with open(txtName) as f:
             opus = f.readlines()
             count = len(opus)
-        n = random.randint(1, count)
+        n = random.randint(0, (count - 1))
         piece = opus[n] 
         
         #if passed with argv -r, for "relisten", get the last item from the listened list
