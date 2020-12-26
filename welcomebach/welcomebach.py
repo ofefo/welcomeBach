@@ -34,35 +34,35 @@ def videoFinder(n, composer, piece):
 
 
 def main():
-    
+
     if not args.d:
 
         #if no argument is passed, print 3 links as default
         number = args.v
-        
+
         #if no argument is passed, Bach is the desired composer
         composer = args.c
         composer = composer.title()
-        
+
         #set the seed for random as the difference in days from today and January 1st, 2020
         start = datetime.datetime(2020, 1, 1, 0, 0, 0, 0)
         end = datetime.datetime.utcnow()
         diff = abs((end - start).days)
         random.seed(diff)
-        
+
         #set .txt file name according to dictionary
         chdir('../catalogues')
         txtName = str(catalogue[composer])
-        
+
         #choose today's opus
         with open(txtName) as f:
             opus = f.readlines()
             count = len(opus)
         n = random.randint(0, (count - 1))
-        piece = opus[n] 
-        
+        piece = opus[n]
+
         #if passed with argv -r, for "relisten", get the last item from the listened list
-        #else, check if it has already been heard, if so, choose another pice 
+        #else, check if it has already been heard, if so, choose another pice
         chdir('../listens')
         listened = str(catalogue[composer] + '_listens')
         if args.r == True:
@@ -81,10 +81,10 @@ def main():
                     else:
                         f.write(piece)
                         break
-        
+
         print("Today's %s is: \n " % composer, piece)
         if not args.m:
-            
+
             return print("\n".join(videoFinder(number, composer, piece)))
         else:
             link_list = videoFinder(number, composer, piece)
@@ -92,11 +92,11 @@ def main():
             numbered_links = [x + y for x,y in zip(numbered_list, link_list)]
             print("\n".join(numbered_links))
             selection = int(input("\nPlease select a link: "))
-            
-            return system('mpv {}'.format(link_list[selection-1]))
+
+            return system('setsid -f mpv {}'.format(link_list[selection-1]))
     else:
        system('python3 catalogue_dl.py')
-    
+
 
 if __name__ == '__main__':
     main()
