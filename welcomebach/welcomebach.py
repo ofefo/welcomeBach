@@ -14,6 +14,7 @@ parser.add_argument('-v', help='Increase/decrease verbosity (default = 3)', type
 parser.add_argument('-r', help='Relisten to the last piece', action='store_true', default=False)
 parser.add_argument('-c', choices=keys, help='Choose the composer you want to listen to', type=str, default='Bach')
 parser.add_argument('-d', help='Download a new catalogue', action='store_true', default=False)
+parser.add_argument('-m', help='Run with mpv', action='store_true', default=False)
 args = parser.parse_args()
 
 #print N video links based on input argument
@@ -27,8 +28,9 @@ def videoFinder(n, composer, piece):
         v = 'https://www.youtube.com/watch?v=' + vid
         matches.append(v)
     links = list(OrderedDict.fromkeys(matches))
-    for i in range(n):
-        print(links[i])
+    link_list = [links[i] for i in range(n)]
+
+    return link_list
 
 
 def main():
@@ -81,7 +83,17 @@ def main():
                         break
         
         print("Today's %s is: \n " % composer, piece)
-        return videoFinder(number, composer, piece)
+        if not args.m:
+            
+            return print("\n".join(videoFinder(number, composer, piece)))
+        else:
+            link_list = videoFinder(number, composer, piece)
+            numbered_list = ["[{}] ".format(i+1) for i in range(number)]
+            numbered_links = [x + y for x,y in zip(numbered_list, link_list)]
+            print("\n".join(numbered_links))
+            selection = int(input("\nPlease select a link: "))
+            
+            return system('mpv {}'.format(link_list[selection-1]))
     else:
        system('python3 catalogue_dl.py')
     
