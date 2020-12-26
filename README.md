@@ -32,9 +32,10 @@ To do it, run: `./install.sh`
 Now you can get your daily dose of counterpoint with: `welcomebach`
 
 * By default you get 3 links, but you can change the verbosity: `welcomebach -v=5`<br/>
-* To relisten to the last piece, try: `welcomebach -r`<br/>
-* You can listen to another composer with: `welcomebach -c=Debussy`, `welcomebach -c=Saariaho`, etc.<br/>
-* If you want to add another composer, run: `welcomebach -d` (should work with pages from wikipedia or IMLSP, but will probably need some quick fixes)
+* Relisten to the last piece with: `welcomebach -r`<br/>
+* Try another composer: `welcomebach -c=Debussy`, `welcomebach -c=Saariaho`, etc.<br/>
+* If you have **mpv** installed, you can open the links with it using: `welcomebach -m`
+* To add another composer, run: `welcomebach -d` (should work with pages from wikipedia or IMLSP, but will probably need some quick fixes)
 
 You can get help with `welcomebach -h`
 
