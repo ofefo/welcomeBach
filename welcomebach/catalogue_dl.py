@@ -1,13 +1,13 @@
 """
 Catalogue Downloader
-Generate new catalogues from wikipedia pages
+Generate new catalogues from wikipedia or imlsp pages
 """
 from bs4 import BeautifulSoup
 from os import chdir
 import urllib.request, csv, re
 
 composerName = input('What is the composer last name?\n ')
-fileName = input('What is your filename? (E.g.: \"bwv.txt\")\n ')
+fileName = input('What is your filename? (E.g.: \"js_bach\")\n ')
 symbol = fileName
 haveSymbol = int(input('Is it organized by symbol, opus or neither? (symbol=1; opus=2; neither=3)\n '))
 url = input('What is your url?\n ')
@@ -37,10 +37,14 @@ def get_from_list():
             for li in ul.find_all('li'):
                 catalogue.append(li.get_text())
         break
+
     chdir('../catalogues')
+    seen = set()
     with open(fileName, 'w') as f:
         for i in catalogue:
-            f.write(i + "\n")
+            if i not in seen:
+                f.write(i + "\n")
+                seen.add(i)
     
     return catalogue 
 
@@ -89,13 +93,15 @@ def get_from_table(tables):
             catalogue = opusName
 
     chdir('../catalogues')
+    seen = set()
     with open(fileName, 'w') as f:
         for i in catalogue:
-            f.write(i + "\n")
-
+            if line not in seen:
+                f.write(i + "\n")
+                seen.add(line)
+    
     return catalogue
 
-#Add the composer name to the csv dictionary
 with open('dict.csv', 'a', newline='') as csvfile:
     fieldnames = ['composer', 'symbol']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)

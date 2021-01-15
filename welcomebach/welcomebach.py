@@ -17,7 +17,6 @@ parser.add_argument('-d', help='Download a new catalogue', action='store_true', 
 parser.add_argument('-m', help='Run with mpv', action='store_true', default=False)
 args = parser.parse_args()
 
-#print N video links based on input argument
 def videoFinder(n, composer, piece):
     query = urllib.parse.quote(composer + ' ' + piece)
     url = "https://www.youtube.com/results?search_query=" + query
@@ -44,13 +43,11 @@ def main():
         composer = args.c
         composer = composer.title()
 
-        #set the seed for random as the difference in days from today and January 1st, 2020
         start = datetime.datetime(2020, 1, 1, 0, 0, 0, 0)
         end = datetime.datetime.utcnow()
         diff = abs((end - start).days)
         random.seed(diff)
 
-        #set .txt file name according to dictionary
         chdir('../catalogues')
         txtName = str(catalogue[composer])
 
