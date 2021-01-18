@@ -8,6 +8,7 @@ with open('dict.csv', newline='') as f:
     catalogue = dict(filter(None, csv.reader(f)))
 
 keys = list(catalogue.keys())
+keys.sort()
 
 parser = argparse.ArgumentParser(description='welcomeBach: Your daily dose of counterpoint')
 parser.add_argument('-v', help='Increase/decrease verbosity (default = 3)', type=int, default=3)
