@@ -45,7 +45,7 @@ This is a work in progress.
 
 It was inspired by [Koan].
 
-welcomeBach is licensed under GNU GPLv2 or later, feel free to make it better.
+welcomeBach is licensed under GNU GPLv2, feel free to make it better.
 
 [Koan]: https://github.com/a-moreira/Koan
 [oeuvre of J.S. Bach]: https://en.wikipedia.org/wiki/Bach-Werke-Verzeichnis
