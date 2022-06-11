@@ -11,26 +11,39 @@ keys = list(catalogue.keys())
 keys.sort()
 
 parser = argparse.ArgumentParser(description='welcomeBach: Your daily dose of counterpoint')
-parser.add_argument('-v', help='Increase/decrease verbosity (default = 3)', type=int, default=3)
-parser.add_argument('-r', help='Relisten to the last piece', action='store_true', default=False)
 parser.add_argument('-c', choices=keys, help='Choose the composer you want to listen to', type=str, default='Bach')
 parser.add_argument('-d', help='Download a new catalogue', action='store_true', default=False)
 parser.add_argument('-m', help='Run with mpv', action='store_true', default=False)
+parser.add_argument('-r', help='Relisten to the last piece', action='store_true', default=False)
+parser.add_argument('-v', help='Increase/decrease verbosity (default = 3)', type=int, default=3)
 args = parser.parse_args()
 
 def videoFinder(n, composer, piece):
     query = urllib.parse.quote(composer + ' ' + piece)
     url = "https://www.youtube.com/results?search_query=" + query
     html = urllib.request.urlopen(url).read().decode('utf-8')
-    pattern = re.compile('videoId":"(\w{11})"')
-    matches = []
-    for vid in re.findall(pattern, html):
-        v = 'https://www.youtube.com/watch?v=' + vid
-        matches.append(v)
-    links = list(OrderedDict.fromkeys(matches))
-    link_list = [links[i] for i in range(n)]
 
-    return link_list
+    urls = []
+    url_list = []
+    url_pattern = re.compile('videoId":"(\w{11})"')
+    urls = ['https://www.youtube.com/watch?v=' + vid for vid in re.findall(url_pattern, html)]
+    urls = list(OrderedDict.fromkeys(urls))
+    url_list = list(map(lambda x: x + "\n", urls))
+    url_list = [url_list[i] for i in range(n)]
+
+
+    titles = []
+    title_list = []
+    title_pattern = re.compile('"title":{"runs":\[{"text":"((.+?)\")')
+    titles = [t for t in re.findall(title_pattern, html)]
+    titles = list(OrderedDict.fromkeys(titles))
+    for i in titles:
+        title_list.append(i[1])
+    title_list = [title_list[i] for i in range(n)]
+
+    combined_list = [item for sublist in zip(title_list, url_list) for item in sublist]
+    
+    return combined_list
 
 
 def main():
@@ -85,13 +98,14 @@ def main():
 
             return print("\n".join(videoFinder(number, composer, piece)))
         else:
-            link_list = videoFinder(number, composer, piece)
+            url_list = videoFinder(number, composer, piece)[0]
+            title_list = videoFinder(number, composer, piece)[1]
             numbered_list = ["[{}] ".format(i+1) for i in range(number)]
-            numbered_links = [x + y for x,y in zip(numbered_list, link_list)]
+            numbered_titles = [x + y for x,y in zip(numbered_list, title_list)]
             print("\n".join(numbered_links))
             selection = int(input("\nPlease select a link: "))
 
-            return system('setsid -f mpv {}'.format(link_list[selection-1]))
+            return system('setsid -f mpv {}'.format(title_list[selection -1]))
     else:
        system('python3 catalogue_dl.py')
 
