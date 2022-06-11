@@ -4,11 +4,16 @@ Receive a list of YouTube links for recordings of a different piece by Bach at e
 
 ```
 Today's Bach is: 
-  BWV 1079 – Musikalisches Opfer (The Musical Offering)
+  BWV 437 – "Wir glauben all an einen Gott"
 
-https://www.youtube.com/watch?v=rN2p3NgqWos
-https://www.youtube.com/watch?v=23yNGer9Wqs
-https://www.youtube.com/watch?v=AzT_elDRLJM
+J.S. Bach: Wir glauben all an einen Gott, BWV 437
+https://www.youtube.com/watch?v=85ckxglJDBM
+
+Bach ‐ BWV 437∶ Wir glauben all an einen Gott
+https://www.youtube.com/watch?v=LBt3XBQWBkA
+
+Wir glauben all' an einen Gott, BWV 437, Chorale (Chorus)
+https://www.youtube.com/watch?v=Yc6kbsRQrkI
 ```
 
 This script was made to provide a consistent way to listen to the complete [oeuvre of J.S. Bach], as it spans more than a thousand pieces, considered an essential part of the western repertoire.
@@ -31,11 +36,11 @@ To do it, run: `./install.sh`
 
 Now you can get your daily dose of counterpoint with: `welcomebach`
 
-* Change the verbosity: `welcomebach -v 5`<br/>
-* Try another composer: `welcomebach -c Debussy`, `welcomebach -c Saariaho`, etc.<br/>
-* Relisten to a piece: `welcomebach -r`, `welcomebach -r -c Debussy`<br/>
+* Try another **composer**: `welcomebach -c Debussy`, `welcomebach -c Saariaho`, etc.<br/>
+* **Download** another catalogue: `welcomebach -d` (should work with pages from wikipedia or IMLSP, but will probably need some quick fixes)
 * Open links with **mpv**: `welcomebach -m`
-* Add another composer: `welcomebach -d` (should work with pages from wikipedia or IMLSP, but will probably need some quick fixes)
+* **Relisten** to a piece: `welcomebach -r`, `welcomebach -r -c Debussy`<br/>
+* Change the verbosity: `welcomebach -v 5`<br/>
 
 You can get help with `welcomebach -h`
 
