@@ -40,7 +40,7 @@ Now you can get your daily dose of counterpoint with: `welcomebach`
 * **Download** another catalogue: `welcomebach -d` (should work with pages from wikipedia or IMLSP, but will probably need some quick fixes)
 * Open links with **mpv**: `welcomebach -m`
 * **Relisten** to a piece: `welcomebach -r`, `welcomebach -r -c Debussy`<br/>
-* Change the verbosity: `welcomebach -v 5`<br/>
+* Change the **verbosity**: `welcomebach -v 5`<br/>
 
 You can get help with `welcomebach -h`
 
