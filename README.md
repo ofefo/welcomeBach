@@ -4,21 +4,21 @@ Receive a list of YouTube links for recordings of a different piece by Bach at e
 
 ```
 Today's Bach is: 
-  BWV 437 – "Wir glauben all an einen Gott"
+  BWV 1050 – Brandenburg Concerto No. 5 in D major
 
-J.S. Bach: Wir glauben all an einen Gott, BWV 437
-https://www.youtube.com/watch?v=85ckxglJDBM
+Bach: Brandenburg Concerto No. 5 in D major, BWV 1050 (Freiburger Barockorchester)
+https://www.youtube.com/watch?v=_V7oujd9djk
 
-Bach ‐ BWV 437∶ Wir glauben all an einen Gott
-https://www.youtube.com/watch?v=LBt3XBQWBkA
+Bach - Brandenburg Concerto No. 5 in D major BWV 1050 - Sato | Netherlands Bach Society
+https://www.youtube.com/watch?v=LHjbRMIIhuM
 
-Wir glauben all' an einen Gott, BWV 437, Chorale (Chorus)
-https://www.youtube.com/watch?v=Yc6kbsRQrkI
+Johann Sebastian Bach  Brandenburg Concerto no 5 D major BWV 1050
+https://www.youtube.com/watch?v=sA15dEnJEtQ
 ```
 
-This script was made to provide a consistent way to listen to the complete [oeuvre of J.S. Bach], as it spans more than a thousand pieces, considered an essential part of the western repertoire.
+This script was made to provide a consistent way to listen to the complete [oeuvre of J.S. Bach], as it spans more than a thousand pieces, considered an essential part of the western musical repertoire.
 
-The project has grown and currently supports a few other composers, and it's possible to import more.
+The project has grown and currently supports a few other composers, being possible to import more from Wikipedia or IMLSP pages.
 
 Lists of your past listens are saved inside the **listens** folder.
 
