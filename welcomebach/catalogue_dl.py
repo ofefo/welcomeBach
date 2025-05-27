@@ -96,9 +96,9 @@ def get_from_table(tables):
     seen = set()
     with open(fileName, 'w') as f:
         for i in catalogue:
-            if line not in seen:
+            if i not in seen:
                 f.write(i + "\n")
-                seen.add(line)
+                seen.add(i)
     
     return catalogue
 
