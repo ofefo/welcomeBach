@@ -25,7 +25,7 @@ def videoFinder(n, composer, piece):
 
     urls = []
     url_list = []
-    url_pattern = re.compile('videoId":"(\w{11})"')
+    url_pattern = re.compile(r'videoId":"(\w{11})"')
     urls = ['https://www.youtube.com/watch?v=' + vid for vid in re.findall(url_pattern, html)]
     urls = list(OrderedDict.fromkeys(urls))
     url_list = list(map(lambda x: x + "\n", urls))
@@ -34,7 +34,7 @@ def videoFinder(n, composer, piece):
 
     titles = []
     title_list = []
-    title_pattern = re.compile('"title":{"runs":\[{"text":"((.+?)\")')
+    title_pattern = re.compile(r'"title":{"runs":\[{"text":"((.+?)\")')
     titles = [t for t in re.findall(title_pattern, html)]
     titles = list(OrderedDict.fromkeys(titles))
     for i in titles:
@@ -57,8 +57,8 @@ def main():
         composer = args.c
         composer = composer.title()
 
-        start = datetime.datetime(2020, 1, 1, 0, 0, 0, 0)
-        end = datetime.datetime.utcnow()
+        start = datetime.datetime(2020, 1, 1, 0, 0, 0, 0, tzinfo=datetime.UTC)
+        end = datetime.datetime.now(datetime.UTC)
         diff = abs((end - start).days)
         random.seed(diff)
 
@@ -102,7 +102,7 @@ def main():
             title_list = videoFinder(number, composer, piece)[1]
             numbered_list = ["[{}] ".format(i+1) for i in range(number)]
             numbered_titles = [x + y for x,y in zip(numbered_list, title_list)]
-            print("\n".join(numbered_links))
+            print("\n".join(numbered_list))
             selection = int(input("\nPlease select a link: "))
 
             return system('setsid -f mpv {}'.format(title_list[selection -1]))
